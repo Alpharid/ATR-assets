@@ -1,0 +1,647 @@
+﻿nom;categorie;cases;fichier;modele_jeu
+Autel;Autels et magie;1,5x1;Autels et magie/Autel (1,5x1).png;altar_inter
+Boule de vision;Autels et magie;1x1;Autels et magie/Boule de vision (1x1).png;vision_ball
+Clé scellée;Autels et magie;0,5x0,5;Autels et magie/Clé scellée (0,5x0,5).png;scelled_key
+Coupe au faux serpent d'or;Autels et magie;2x2;Autels et magie/Coupe au faux serpent d'or (2x2).png;fake_golden_snake_bowl
+Coupe au serpent d'or;Autels et magie;2x2;Autels et magie/Coupe au serpent d'or (2x2).png;golden_snake_bowl
+Coupe de sang;Autels et magie;0,5x0,5;Autels et magie/Coupe de sang (0,5x0,5).png;blood_bowl
+Coupe de sang d'Akbaa;Autels et magie;2x0,5;Autels et magie/Coupe de sang d'Akbaa (2x0,5).png;akbaa_blood
+Croix basculante;Autels et magie;0,5x0,5;Autels et magie/Croix basculante (0,5x0,5).png;tumbling_cross
+Crâne d'Iserbius;Autels et magie;0,5x0,5;Autels et magie/Crâne d'Iserbius (0,5x0,5).png;skull_iserbius
+Crâne volant;Autels et magie;0,5x0,5;Autels et magie/Crâne volant (0,5x0,5).png;skull_flying
+Fontaine de jouvence;Autels et magie;1x1;Autels et magie/Fontaine de jouvence (1x1).png;fountain_youth
+Météore d'Akbaa;Autels et magie;1x0,5;Autels et magie/Météore d'Akbaa (1x0,5).png;meteor_akbaa
+Orbe de la crypte;Autels et magie;0,5x0,5;Autels et magie/Orbe de la crypte (0,5x0,5).png;orb_crypt
+Pentacle de sang;Autels et magie;2x2;Autels et magie/Pentacle de sang (2x2).png;blood_pentacle
+Poulet sacrifié à Akbaa;Autels et magie;1x0,5;Autels et magie/Poulet sacrifié à Akbaa (1x0,5).png;akbaa_blood_chicken
+Socle d'orbe;Autels et magie;0,5x0,5;Autels et magie/Socle d'orbe (0,5x0,5).png;shiny_orb_place
+Socle d'orbe (plein);Autels et magie;0,5x0,5;Autels et magie/Socle d'orbe (plein) (0,5x0,5).png;shiny_orb_place_full
+Socle de pierre de pouvoir;Autels et magie;0,5x0,5;Autels et magie/Socle de pierre de pouvoir (0,5x0,5).png;power_stone_place
+Téléporteur du serpent (centre);Autels et magie;1,5x1,5;Autels et magie/Téléporteur du serpent (centre) (1,5x1,5).png;snake_teleport_center
+Téléporteur du serpent (porte);Autels et magie;2x1;Autels et magie/Téléporteur du serpent (porte) (2x1).png;snake_teleport_door
+Tête de poulet sacrifié;Autels et magie;0,5x0,5;Autels et magie/Tête de poulet sacrifié (0,5x0,5).png;akbaa_blood_chicken_head
+Œuf de dragon flottant;Autels et magie;0,5x0,5;Autels et magie/Œuf de dragon flottant (0,5x0,5).png;dragon_egg_floating
+Bassin (os);Cadavres et restes;0,5x0,5;Cadavres et restes/Bassin (os) (0,5x0,5).png;bone_bassin
+Cadavre;Cadavres et restes;1x1,5;Cadavres et restes/Cadavre (1x1,5).png;corpse
+Cadavre torturé;Cadavres et restes;0,5x0,5;Cadavres et restes/Cadavre torturé (0,5x0,5).png;tortured_corpse
+Crâne (1);Cadavres et restes;0,5x0,5;Cadavres et restes/Crâne (1) (0,5x0,5).png;skull
+Crâne (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Crâne (2) (0,5x0,5).png;skull02
+Crâne de troll;Cadavres et restes;0,5x0,5;Cadavres et restes/Crâne de troll (0,5x0,5).png;troll_skull
+Crâne de troll (Mirette);Cadavres et restes;3,5x0,5;Cadavres et restes/Crâne de troll (Mirette) (3,5x0,5).png;mirette
+Garde empalé;Cadavres et restes;0,5x1;Cadavres et restes/Garde empalé (0,5x1).png;dead_guard_speared
+Garde mort;Cadavres et restes;2x2;Cadavres et restes/Garde mort (2x2).png;dead_guard_german
+Gobelin mort (1);Cadavres et restes;1,5x1,5;Cadavres et restes/Gobelin mort (1) (1,5x1,5).png;dead_gob01
+Gobelin mort (2);Cadavres et restes;1,5x1,5;Cadavres et restes/Gobelin mort (2) (1,5x1,5).png;dead_gob02
+Gobelin mort (3);Cadavres et restes;1,5x1,5;Cadavres et restes/Gobelin mort (3) (1,5x1,5).png;dead_gob03
+Gobelin pendu;Cadavres et restes;0,5x0,5;Cadavres et restes/Gobelin pendu (0,5x0,5).png;hanged_gob
+Homme étendu;Cadavres et restes;1,5x2;Cadavres et restes/Homme étendu (1,5x2).png;corpse_bunker
+Jambe de garde tranchée;Cadavres et restes;1x0,5;Cadavres et restes/Jambe de garde tranchée (1x0,5).png;guard_chopped_leg
+Nain mort (1);Cadavres et restes;1x1;Cadavres et restes/Nain mort (1) (1x1).png;l7_dwarf_corpse
+Nain mort (2);Cadavres et restes;1x1;Cadavres et restes/Nain mort (2) (1x1).png;l7_dwarf_corpse2
+Nain mort (3);Cadavres et restes;1x1;Cadavres et restes/Nain mort (3) (1x1).png;l7_dwarf_corpse3
+Nain mort (4);Cadavres et restes;1x1;Cadavres et restes/Nain mort (4) (1x1).png;l7_dwarf_corpse4
+Rat mort (1);Cadavres et restes;0,5x1;Cadavres et restes/Rat mort (1) (0,5x1).png;rat_base_dead
+Rat mort (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Rat mort (2) (0,5x0,5).png;rat_base_dead2
+Rat mort (3);Cadavres et restes;0,5x1;Cadavres et restes/Rat mort (3) (0,5x1).png;rat_base_dead3
+Restes de ver (1);Cadavres et restes;1x1;Cadavres et restes/Restes de ver (1) (1x1).png;worm_gore
+Restes de ver (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de ver (2) (0,5x0,5).png;worm_gore1
+Restes de ver (3);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de ver (3) (0,5x0,5).png;worm_gore2
+Restes de ver (4);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de ver (4) (0,5x0,5).png;worm_gore3
+Restes de ver (5);Cadavres et restes;1x1;Cadavres et restes/Restes de ver (5) (1x1).png;worm_gore4
+Restes humains (1);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes humains (1) (0,5x0,5).png;human_gore
+Restes humains (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes humains (2) (0,5x0,5).png;human_gore02
+Restes humains (3);Cadavres et restes;1x0,5;Cadavres et restes/Restes humains (3) (1x0,5).png;human_gore03
+Torse de garde tranché;Cadavres et restes;1,5x1,5;Cadavres et restes/Torse de garde tranché (1,5x1,5).png;guard_chest_chopped
+Troll mort;Cadavres et restes;1,5x3,5;Cadavres et restes/Troll mort (1,5x3,5).png;dead_troll
+Tête de garde tranchée;Cadavres et restes;0,5x0,5;Cadavres et restes/Tête de garde tranchée (0,5x0,5).png;guard_chopped_head
+Armoire;Contenants;1x0,5;Contenants/Armoire (1x0,5).png;cupboard_1
+Coffre (1);Contenants;1,5x0,5;Contenants/Coffre (1) (1,5x0,5).png;chest_1
+Coffre (2);Contenants;1,5x0,5;Contenants/Coffre (2) (1,5x0,5).png;chest_2
+Coffre (3);Contenants;2x1;Contenants/Coffre (3) (2x1).png;chest_3
+Coffre d'Orbiplanax;Contenants;0,5x0,5;Contenants/Coffre d'Orbiplanax (0,5x0,5).png;door_orbiplanax_chest
+Coffre de bois;Contenants;1x1;Contenants/Coffre de bois (1x1).png;chest_wood
+Coffre de bois brisé;Contenants;1x0,5;Contenants/Coffre de bois brisé (1x0,5).png;chest_wood_broken
+Coffre de métal;Contenants;1x0,5;Contenants/Coffre de métal (1x0,5).png;chest_metal
+Coffre du roi;Contenants;2x0,5;Contenants/Coffre du roi (2x0,5).png;chest_king
+Coffre ylside;Contenants;2x1;Contenants/Coffre ylside (2x1).png;chest_ylsides
+Commode;Contenants;1x0,5;Contenants/Commode (1x0,5).png;chest_dresser_chest
+Couvercle de coffre;Contenants;1x1;Contenants/Couvercle de coffre (1x1).png;chest_wood_cover
+Petit coffre;Contenants;0,5x0,5;Contenants/Petit coffre (0,5x0,5).png;little_chest
+Sac de farine;Contenants;0,5x1;Contenants/Sac de farine (0,5x1).png;flour_bag
+Tas de farine;Contenants;0,5x0,5;Contenants/Tas de farine (0,5x0,5).png;flour_big
+Tiroir d'Iserbius;Contenants;0,5x0,5;Contenants/Tiroir d'Iserbius (0,5x0,5).png;drawer_iserbius
+Tiroir d'Iserbius (2);Contenants;0,5x0,5;Contenants/Tiroir d'Iserbius (2) (0,5x0,5).png;drawer_iserbius2
+Tonneau;Contenants;1x1;Contenants/Tonneau (1x1).png;barrel
+Tonneau des dissidents;Contenants;0,5x0,5;Contenants/Tonneau des dissidents (0,5x0,5).png;l3_1_dissidents_barrel
+Tonneau ylside;Contenants;1x1;Contenants/Tonneau ylside (1x1).png;l4_ylsides_barrel
+Tonneau à robinet;Contenants;0,5x0,5;Contenants/Tonneau à robinet (0,5x0,5).png;barrel_tap
+Bouclier brisé;Divers;0,5x0,5;Divers/Bouclier brisé (0,5x0,5).png;broken_shield
+Bouteille cassée;Divers;0,5x0,5;Divers/Bouteille cassée (0,5x0,5).png;broken_bottle
+Chariot de mine;Divers;1,5x2;Divers/Chariot de mine (1,5x2).png;trolley
+Cloche;Divers;0,5x0,5;Divers/Cloche (0,5x0,5).png;bell
+Cloche d'Arx;Divers;2x2;Divers/Cloche d'Arx (2x2).png;arx_bell
+Houe;Divers;0,5x1,5;Divers/Houe (0,5x1,5).png;hoe
+Jeton de pari;Divers;0,5x0,5;Divers/Jeton de pari (0,5x0,5).png;bet
+Jeu de cartes;Divers;1x0,5;Divers/Jeu de cartes (1x0,5).png;card
+Jeu gobelin;Divers;0,5x0,5;Divers/Jeu gobelin (0,5x0,5).png;chess
+Livre;Divers;0,5x0,5;Divers/Livre (0,5x0,5).png;useless_book
+Mannequin d'entraînement;Divers;1x0,5;Divers/Mannequin d'entraînement (1x0,5).png;training_dummy
+Mannequin du roi;Divers;1x1;Divers/Mannequin du roi (1x1).png;king_dummy
+Panneau d'affichage;Divers;0,5x0,5;Divers/Panneau d'affichage (0,5x0,5).png;public_notice
+Panneau nain;Divers;0,5x0,5;Divers/Panneau nain (0,5x0,5).png;dwarf_sign
+Roue de jeu;Divers;1x0,5;Divers/Roue de jeu (1x0,5).png;gambling_wheel
+Télescope;Divers;0,5x0,5;Divers/Télescope (0,5x0,5).png;telescope
+Urne de paris bleue;Divers;1x0,5;Divers/Urne de paris bleue (1x0,5).png;bet_box_blu
+Urne de paris rouge;Divers;1x0,5;Divers/Urne de paris rouge (1x0,5).png;bet_box_red
+Vitre du vivarium;Divers;1x0,5;Divers/Vitre du vivarium (1x0,5).png;vivarium_glass
+Épée brisée;Divers;0,5x1;Divers/Épée brisée (0,5x1).png;broken_sword
+Œuvre d'art troll (1);Divers;0,5x0,5;Divers/Œuvre d'art troll (1) (0,5x0,5).png;greu_art1
+Œuvre d'art troll (2);Divers;0,5x1;Divers/Œuvre d'art troll (2) (0,5x1).png;greu_art2
+Œuvre d'art troll (3);Divers;1,5x0,5;Divers/Œuvre d'art troll (3) (1,5x0,5).png;greu_art3
+Abreuvoir;Eau;2x1;Eau/Abreuvoir (2x1).png;watering_place
+Abreuvoir de la chambre de Chinka;Eau;4x4;Eau/Abreuvoir de la chambre de Chinka (4x4).png;water_chinka_bedroom
+Abreuvoir empoisonné;Eau;2x1;Eau/Abreuvoir empoisonné (2x1).png;watering_place_poisoned
+Bassin;Eau;0,5x1;Eau/Bassin (0,5x1).png;water_bassin
+Bassin des dissidents (1);Eau;1,5x1;Eau/Bassin des dissidents (1) (1,5x1).png;water_bassin_dissident
+Bassin des dissidents (2);Eau;2x1;Eau/Bassin des dissidents (2) (2x1).png;water_bassin_dissident2
+Lavabo;Eau;0,5x0,5;Eau/Lavabo (0,5x0,5).png;water_lavabo
+Lavabo empoisonné;Eau;0,5x0,5;Eau/Lavabo empoisonné (0,5x0,5).png;water_lavabo_poisoned
+Seau d'eau;Eau;0,5x0,5;Eau/Seau d'eau (0,5x0,5).png;water_bucket
+Alambic;Forge et artisanat;1x0,5;Forge et artisanat/Alambic (1x0,5).png;apparatus
+Barre de forgeron (1);Forge et artisanat;0,5x1,5;Forge et artisanat/Barre de forgeron (1) (0,5x1,5).png;tool_blacksmith_bar1
+Barre de forgeron (2);Forge et artisanat;0,5x1,5;Forge et artisanat/Barre de forgeron (2) (0,5x1,5).png;tool_blacksmith_bar2
+Broche naine;Forge et artisanat;2,5x0,5;Forge et artisanat/Broche naine (2,5x0,5).png;dwarf_broche
+Chaudron;Forge et artisanat;1x1;Forge et artisanat/Chaudron (1x1).png;cauldron
+Concasseur nain;Forge et artisanat;1,5x2;Forge et artisanat/Concasseur nain (1,5x2).png;dwarf_crusher
+Convertisseur de moules;Forge et artisanat;3,5x2;Forge et artisanat/Convertisseur de moules (3,5x2).png;mauld_converter
+Enclume;Forge et artisanat;0,5x1;Forge et artisanat/Enclume (0,5x1).png;anvil
+Forge naine;Forge et artisanat;3x1,5;Forge et artisanat/Forge naine (3x1,5).png;dwarf_forge
+Four;Forge et artisanat;1x1;Forge et artisanat/Four (1x1).png;oven
+Lame d'épée brute (1);Forge et artisanat;0,5x1;Forge et artisanat/Lame d'épée brute (1) (0,5x1).png;tool_blacksmith_sword1
+Lame d'épée brute (2);Forge et artisanat;0,5x1,5;Forge et artisanat/Lame d'épée brute (2) (0,5x1,5).png;tool_blacksmith_sword2
+Lime de forgeron (1);Forge et artisanat;0,5x0,5;Forge et artisanat/Lime de forgeron (1) (0,5x0,5).png;tool_blacksmith_file1
+Lime de forgeron (2);Forge et artisanat;0,5x0,5;Forge et artisanat/Lime de forgeron (2) (0,5x0,5).png;tool_blacksmith_file2
+Lime de forgeron (3);Forge et artisanat;0,5x0,5;Forge et artisanat/Lime de forgeron (3) (0,5x0,5).png;tool_blacksmith_file3
+Marteau de forgeron (1);Forge et artisanat;0,5x0,5;Forge et artisanat/Marteau de forgeron (1) (0,5x0,5).png;tool_blacksmith_hammer1
+Marteau de forgeron (2);Forge et artisanat;0,5x0,5;Forge et artisanat/Marteau de forgeron (2) (0,5x0,5).png;tool_blacksmith_hammer2
+Marteau de forgeron (3);Forge et artisanat;0,5x0,5;Forge et artisanat/Marteau de forgeron (3) (0,5x0,5).png;tool_blacksmith_hammer3
+Marteau de forgeron (4);Forge et artisanat;0,5x0,5;Forge et artisanat/Marteau de forgeron (4) (0,5x0,5).png;tool_blacksmith_hammer4
+Masse de forgeron;Forge et artisanat;0,5x1;Forge et artisanat/Masse de forgeron (0,5x1).png;tool_blacksmith_club
+Moule à lingots;Forge et artisanat;3,5x2;Forge et artisanat/Moule à lingots (3,5x2).png;ingot_maker
+Petit concasseur nain;Forge et artisanat;1x2;Forge et artisanat/Petit concasseur nain (1x2).png;dwarf_little_crusher
+Soufflet de forgé;Forge et artisanat;1,5x2,5;Forge et artisanat/Soufflet de forgé (1,5x2,5).png;bellows
+Soufflet ylside;Forge et artisanat;2,5x1,5;Forge et artisanat/Soufflet ylside (2,5x1,5).png;l4_ylsides_soufflet
+Tenailles de forgeron (1);Forge et artisanat;0,5x1;Forge et artisanat/Tenailles de forgeron (1) (0,5x1).png;tool_blacksmith_pliers1
+Tenailles de forgeron (2);Forge et artisanat;0,5x1;Forge et artisanat/Tenailles de forgeron (2) (0,5x1).png;tool_blacksmith_pliers2
+Tenailles de forgeron (3);Forge et artisanat;0,5x1;Forge et artisanat/Tenailles de forgeron (3) (0,5x1).png;tool_blacksmith_pliers3
+Barre de herse;Herses et grilles;0,5x0,5;Herses et grilles/Barre de herse (0,5x0,5).png;untwisted_portcullis_2
+Grande herse gobeline;Herses et grilles;3,5x0,5;Herses et grilles/Grande herse gobeline (3,5x0,5).png;l2_gobel_portcullis_big
+Grille de cachot bois et métal;Herses et grilles;2x2;Herses et grilles/Grille de cachot bois et métal (2x2).png;jail_wood&metal_grid
+Grille de cachot en bois;Herses et grilles;2x2;Herses et grilles/Grille de cachot en bois (2x2).png;jail_wood_grid
+Grille de métal;Herses et grilles;1,5x2;Herses et grilles/Grille de métal (1,5x2).png;metal_grid
+Herse;Herses et grilles;2x0,5;Herses et grilles/Herse (2x0,5).png;porticullis
+Herse d'Alicia;Herses et grilles;3x0,5;Herses et grilles/Herse d'Alicia (3x0,5).png;l0_alicia_portcullis
+Herse de crypte;Herses et grilles;0,5x3;Herses et grilles/Herse de crypte (0,5x3).png;porticullis_crypt
+Herse de crypte (1);Herses et grilles;2x0,5;Herses et grilles/Herse de crypte (1) (2x0,5).png;l6_crypt_portcullis
+Herse de crypte (2);Herses et grilles;1,5x0,5;Herses et grilles/Herse de crypte (2) (1,5x0,5).png;l6_crypt_portcullis2
+Herse des dissidents;Herses et grilles;2x0,5;Herses et grilles/Herse des dissidents (2x0,5).png;l3_1_dissidents_portcullis
+Herse du palais;Herses et grilles;1,5x0,5;Herses et grilles/Herse du palais (1,5x0,5).png;door_human_palace_porticullis
+Herse du temple;Herses et grilles;2x0,5;Herses et grilles/Herse du temple (2x0,5).png;porticullis_temple
+Herse du vivarium;Herses et grilles;0,5x0,5;Herses et grilles/Herse du vivarium (0,5x0,5).png;vivarium_portcullis
+Herse gobeline;Herses et grilles;2x0,5;Herses et grilles/Herse gobeline (2x0,5).png;l2_gobel_portcullis
+Herse tordue (1);Herses et grilles;2x0,5;Herses et grilles/Herse tordue (1) (2x0,5).png;untwisted_portcullis
+Herse tordue (2);Herses et grilles;0,5x0,5;Herses et grilles/Herse tordue (2) (0,5x0,5).png;untwisted_portcullis_1
+Herse tordue (3);Herses et grilles;1x0,5;Herses et grilles/Herse tordue (3) (1x0,5).png;untwisted_portcullis_3
+Banc;Mobilier;1,5x0,5;Mobilier/Banc (1,5x0,5).png;seat_bench1
+Banc des dissidents;Mobilier;1,5x0,5;Mobilier/Banc des dissidents (1,5x0,5).png;l3_1_dissidents_bench
+Banc gobelin;Mobilier;1,5x0,5;Mobilier/Banc gobelin (1,5x0,5).png;seat_bench4_goblin
+Banc riche (1);Mobilier;1x0,5;Mobilier/Banc riche (1) (1x0,5).png;seat_bench2_rich
+Banc riche (2);Mobilier;1x0,5;Mobilier/Banc riche (2) (1x0,5).png;seat_bench3_rich
+Chaise gobeline (1);Mobilier;0,5x0,5;Mobilier/Chaise gobeline (1) (0,5x0,5).png;l2_gobel_chair_01
+Chaise gobeline (2);Mobilier;0,5x0,5;Mobilier/Chaise gobeline (2) (0,5x0,5).png;l2_gobel_chair_02
+Chaise gobeline (3);Mobilier;0,5x0,5;Mobilier/Chaise gobeline (3) (0,5x0,5).png;seat_chair3_goblin
+Chaise rustique (1);Mobilier;0,5x0,5;Mobilier/Chaise rustique (1) (0,5x0,5).png;seat_chair1_rustic
+Chaise rustique (2);Mobilier;0,5x1;Mobilier/Chaise rustique (2) (0,5x1).png;seat_chair2_rustic
+Coussin;Mobilier;0,5x0,5;Mobilier/Coussin (0,5x0,5).png;cuscion
+Fauteuil riche;Mobilier;1x1;Mobilier/Fauteuil riche (1x1).png;seat_armchair2_rich
+Fauteuil simple;Mobilier;0,5x0,5;Mobilier/Fauteuil simple (0,5x0,5).png;seat_armchair1_basic
+Tabouret (1);Mobilier;0,5x0,5;Mobilier/Tabouret (1) (0,5x0,5).png;seat_stool1
+Tabouret (2);Mobilier;0,5x0,5;Mobilier/Tabouret (2) (0,5x0,5).png;seat_stool2
+Tabouret cassé;Mobilier;0,5x0,5;Mobilier/Tabouret cassé (0,5x0,5).png;broken_stool
+Tabouret des dissidents;Mobilier;0,5x0,5;Mobilier/Tabouret des dissidents (0,5x0,5).png;l3_1_dissidents_stool
+Tabouret gobelin;Mobilier;0,5x0,5;Mobilier/Tabouret gobelin (0,5x0,5).png;seat_stool4_goblin
+Tabouret nain;Mobilier;0,5x0,5;Mobilier/Tabouret nain (0,5x0,5).png;dwarf_stool
+Tabouret riche;Mobilier;0,5x0,5;Mobilier/Tabouret riche (0,5x0,5).png;seat_stool3_rich
+Tabouret ylside;Mobilier;0,5x0,5;Mobilier/Tabouret ylside (0,5x0,5).png;ylsides_stool
+Bloc à chaîne;Mécanismes et pièges;2x2;Mécanismes et pièges/Bloc à chaîne (2x2).png;bloc_pull_chain
+Bouton secret;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret (0,5x0,5).png;secret_button
+Bouton secret de crypte;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret de crypte (0,5x0,5).png;secret_button_crypt
+Bouton secret de crypte (2);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret de crypte (2) (0,5x0,5).png;secret_button_crypt_l22
+Bouton secret de la banque (dedans);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret de la banque (dedans) (0,5x0,5).png;secret_button_bank_inside
+Bouton secret de la banque (dehors);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret de la banque (dehors) (0,5x0,5).png;secret_button_bank_outside
+Bouton secret des dissidents;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret des dissidents (0,5x0,5).png;l3_dissidents_secretbutton
+Bouton secret du château (1);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret du château (1) (0,5x0,5).png;secret_button_castle01
+Bouton secret du château (2);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret du château (2) (0,5x0,5).png;secret_button_castle02
+Bouton secret du tableau;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret du tableau (0,5x0,5).png;secret_button_painting
+Bouton secret du temple du serpent (1);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret du temple du serpent (1) (0,5x0,5).png;l5_snake_r23-24_secretbutton
+Bouton secret du temple du serpent (2);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret du temple du serpent (2) (0,5x0,5).png;l5_snake_secretbutton
+Bouton secret gobelin;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret gobelin (0,5x0,5).png;secret_button_gob
+Coffret à orbe;Mécanismes et pièges;1x1;Mécanismes et pièges/Coffret à orbe (1x1).png;puzzle_orb_box
+Dalle à pression de crypte;Mécanismes et pièges;1x1;Mécanismes et pièges/Dalle à pression de crypte (1x1).png;l6_crypt_pressurepad
+Dalle à pression de crypte (2);Mécanismes et pièges;2x1,5;Mécanismes et pièges/Dalle à pression de crypte (2) (2x1,5).png;pressurepad_crypt
+Dalle à pression de crypte (3);Mécanismes et pièges;2x2;Mécanismes et pièges/Dalle à pression de crypte (3) (2x2).png;pressurepad_crypt_l9
+Dalle à pression des dissidents;Mécanismes et pièges;1x1;Mécanismes et pièges/Dalle à pression des dissidents (1x1).png;l3_1_dissidents_pressurepad
+Dalle à pression gobeline;Mécanismes et pièges;2x2;Mécanismes et pièges/Dalle à pression gobeline (2x2).png;pressurepad_gob
+Fosse;Mécanismes et pièges;2x4;Mécanismes et pièges/Fosse (2x4).png;trap_pit
+Fosse piège;Mécanismes et pièges;2x2;Mécanismes et pièges/Fosse piège (2x2).png;trap_hole
+Levier;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Levier (0,5x0,5).png;lever
+Levier cassé;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Levier cassé (0,5x0,5).png;lever_base
+Levier vertical;Mécanismes et pièges;0,5x1;Mécanismes et pièges/Levier vertical (0,5x1).png;vertical_lever
+Levier à retardement;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Levier à retardement (0,5x0,5).png;timed_lever
+Machine naine à pierre de pouvoir;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Machine naine à pierre de pouvoir (0,5x0,5).png;dwarf_engine_powerstone
+Mécanisme d'ascenseur cassé;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Mécanisme d'ascenseur cassé (2x0,5).png;elevator_mecanism_broken
+Mécanisme d'ascenseur réparé;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Mécanisme d'ascenseur réparé (2x0,5).png;elevator_mecanism_repaired
+Pilier à énigme;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Pilier à énigme (0,5x0,5).png;puzzle_pillar01
+Piège à lances;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Piège à lances (2x0,5).png;spears_trap
+Piège à lances mural;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Piège à lances mural (2x0,5).png;spears_trap_wall
+Plaque tournante;Mécanismes et pièges;1,5x1,5;Mécanismes et pièges/Plaque tournante (1,5x1,5).png;puzzle_wheel
+Serrure;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Serrure (0,5x0,5).png;lock
+Serrure des dissidents;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Serrure des dissidents (0,5x0,5).png;dissident_lock
+Serrure serpent (pleine);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Serrure serpent (pleine) (0,5x0,5).png;snake_lock_full
+Serrure serpent (vide);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Serrure serpent (vide) (0,5x0,5).png;snake_lock_empty
+Socle du puzzle d'Akbaa;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Socle du puzzle d'Akbaa (0,5x0,5).png;akbaa_puzzle
+Socle du puzzle d'Akbaa (résolu);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Socle du puzzle d'Akbaa (résolu) (0,5x0,5).png;akbaa_puzzle_done
+Torche-levier;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Torche-levier (0,5x0,5).png;torch_rotating
+Trappe des égouts;Mécanismes et pièges;1,5x1,5;Mécanismes et pièges/Trappe des égouts (1,5x1,5).png;trap_sewers
+Trappe des égouts (amants);Mécanismes et pièges;1,5x2;Mécanismes et pièges/Trappe des égouts (amants) (1,5x2).png;trap_sewers_lovers
+Trappe des égouts (cachot);Mécanismes et pièges;1,5x1,5;Mécanismes et pièges/Trappe des égouts (cachot) (1,5x1,5).png;trap_sewers_jail
+Pâte à biscuits;Nourriture;0,5x0,5;Nourriture/Pâte à biscuits (0,5x0,5).png;cookie_pasta
+Pâte à biscuits au vin;Nourriture;0,5x0,5;Nourriture/Pâte à biscuits au vin (0,5x0,5).png;cookie_pasta_wine
+Pâte à biscuits empoisonnée;Nourriture;0,5x0,5;Nourriture/Pâte à biscuits empoisonnée (0,5x0,5).png;cookie_pasta_poison
+Action de mine gobeline;Objets au sol;0,5x0,5;Objets au sol/Action de mine gobeline (0,5x0,5).png;actions_mines
+Ail;Objets au sol;0,5x0,5;Objets au sol/Ail (0,5x0,5).png;garlic
+Amulette de grande chance;Objets au sol;0,5x0,5;Objets au sol/Amulette de grande chance (0,5x0,5).png;amulet_great_luck
+Amulette rouge;Objets au sol;0,5x0,5;Objets au sol/Amulette rouge (0,5x0,5).png;amulet_red
+Amulette troll;Objets au sol;0,5x0,5;Objets au sol/Amulette troll (0,5x0,5).png;amulet_troll
+Anneau d'argent;Objets au sol;0,5x0,5;Objets au sol/Anneau d'argent (0,5x0,5).png;silver_ring
+Anneau d'argent simple;Objets au sol;0,5x0,5;Objets au sol/Anneau d'argent simple (0,5x0,5).png;ring
+Anneau d'incantation;Objets au sol;0,5x0,5;Objets au sol/Anneau d'incantation (0,5x0,5).png;ring_casting
+Anneau d'invisibilité;Objets au sol;0,5x0,5;Objets au sol/Anneau d'invisibilité (0,5x0,5).png;ring_invisibility
+Anneau d'invisibilité forgé;Objets au sol;0,5x0,5;Objets au sol/Anneau d'invisibilité forgé (0,5x0,5).png;ring_invisibility_handmade
+Anneau d'or;Objets au sol;0,5x0,5;Objets au sol/Anneau d'or (0,5x0,5).png;gold_ring
+Anneau de Daarka (résistance à la magie);Objets au sol;0,5x0,5;Objets au sol/Anneau de Daarka (résistance à la magie) (0,5x0,5).png;ring_daarka
+Anneau de grande intuition;Objets au sol;0,5x0,5;Objets au sol/Anneau de grande intuition (0,5x0,5).png;ring_water_point
+Anneau de maître Anselmo;Objets au sol;0,5x0,5;Objets au sol/Anneau de maître Anselmo (0,5x0,5).png;ring_master_anselmo
+Anneau de misère;Objets au sol;0,5x0,5;Objets au sol/Anneau de misère (0,5x0,5).png;ring_misery
+Anneau de protection;Objets au sol;0,5x0,5;Objets au sol/Anneau de protection (0,5x0,5).png;ring_protection
+Anneau de régénération;Objets au sol;0,5x0,5;Objets au sol/Anneau de régénération (0,5x0,5).png;ring_regeneration
+Anneau de régénération forgé;Objets au sol;0,5x0,5;Objets au sol/Anneau de régénération forgé (0,5x0,5).png;ring_regeneration_handmade
+Anneau des héros;Objets au sol;0,5x0,5;Objets au sol/Anneau des héros (0,5x0,5).png;ring_oliver
+Anneau maudit;Objets au sol;0,5x0,5;Objets au sol/Anneau maudit (0,5x0,5).png;ring_curse
+Arc;Objets au sol;0,5x1;Objets au sol/Arc (0,5x1).png;bow
+Arc (à plat);Objets au sol;0,5x1;Objets au sol/Arc (à plat) (0,5x1).png;bow_mx
+Arêtes de poisson;Objets au sol;0,5x0,5;Objets au sol/Arêtes de poisson (0,5x0,5).png;food_fish_eaten
+Autorisation gobeline signée;Objets au sol;0,5x0,5;Objets au sol/Autorisation gobeline signée (0,5x0,5).png;signed_form
+Autorisation gobeline vierge;Objets au sol;0,5x0,5;Objets au sol/Autorisation gobeline vierge (0,5x0,5).png;blank_form
+Bloc de mur;Objets au sol;0,5x0,5;Objets au sol/Bloc de mur (0,5x0,5).png;wall_block
+Bloc de mur de prison;Objets au sol;0,5x0,5;Objets au sol/Bloc de mur de prison (0,5x0,5).png;jail_stone
+Bouclier de bois;Objets au sol;0,5x0,5;Objets au sol/Bouclier de bois (0,5x0,5).png;shield
+Bouclier de métal;Objets au sol;0,5x0,5;Objets au sol/Bouclier de métal (0,5x0,5).png;shield_metal
+Bouclier des Anciens;Objets au sol;0,5x1;Objets au sol/Bouclier des Anciens (0,5x1).png;shield_elders
+Bougie;Objets au sol;0,5x0,5;Objets au sol/Bougie (0,5x0,5).png;candel
+Boussole;Objets au sol;0,5x0,5;Objets au sol/Boussole (0,5x0,5).png;compass
+Bouteille d'eau;Objets au sol;0,5x0,5;Objets au sol/Bouteille d'eau (0,5x0,5).png;bottle_water
+Bouteille de sang;Objets au sol;0,5x0,5;Objets au sol/Bouteille de sang (0,5x0,5).png;bottle_blood
+Bouteille de vin;Objets au sol;0,5x0,5;Objets au sol/Bouteille de vin (0,5x0,5).png;bottle_wine
+Bouteille vide;Objets au sol;0,5x0,5;Objets au sol/Bouteille vide (0,5x0,5).png;bottle_empty
+Bracelet;Objets au sol;0,5x0,5;Objets au sol/Bracelet (0,5x0,5).png;bracelet
+Burette d'huile;Objets au sol;0,5x0,5;Objets au sol/Burette d'huile (0,5x0,5).png;oil_can
+Canne à pêche;Objets au sol;0,5x1,5;Objets au sol/Canne à pêche (0,5x1,5).png;fishing_pole
+Carotte;Objets au sol;0,5x0,5;Objets au sol/Carotte (0,5x0,5).png;carrot
+Casque de cuir noir;Objets au sol;0,5x0,5;Objets au sol/Casque de cuir noir (0,5x0,5).png;helmet_leather_stealth
+Casque de mailles;Objets au sol;0,5x0,5;Objets au sol/Casque de mailles (0,5x0,5).png;helmet_chain
+Casque en mithril;Objets au sol;0,5x0,5;Objets au sol/Casque en mithril (0,5x0,5).png;helmet_mythril
+Chair de nain;Objets au sol;0,5x0,5;Objets au sol/Chair de nain (0,5x0,5).png;dwarf_ribs
+Champignon;Objets au sol;0,5x0,5;Objets au sol/Champignon (0,5x0,5).png;food_mushroom
+Chope de bière;Objets au sol;0,5x0,5;Objets au sol/Chope de bière (0,5x0,5).png;mug_full
+Clé de Calpale;Objets au sol;0,5x0,5;Objets au sol/Clé de Calpale (0,5x0,5).png;key_calpale
+Clé de l'armurerie gobeline;Objets au sol;0,5x0,5;Objets au sol/Clé de l'armurerie gobeline (0,5x0,5).png;key_gob_weap
+Clé de la banque;Objets au sol;0,5x0,5;Objets au sol/Clé de la banque (0,5x0,5).png;key_bank
+Clé de la crypte;Objets au sol;0,5x0,5;Objets au sol/Clé de la crypte (0,5x0,5).png;key_crypt
+Clé du coffre de l'idole gobeline;Objets au sol;0,5x0,5;Objets au sol/Clé du coffre de l'idole gobeline (0,5x0,5).png;key_gob_chest_idol
+Clé du trésor gobelin;Objets au sol;0,5x0,5;Objets au sol/Clé du trésor gobelin (0,5x0,5).png;key_gob_treasure
+Collier;Objets au sol;0,5x0,5;Objets au sol/Collier (0,5x0,5).png;necklace
+Corde;Objets au sol;0,5x0,5;Objets au sol/Corde (0,5x0,5).png;rope
+Cotte de mailles;Objets au sol;0,5x0,5;Objets au sol/Cotte de mailles (0,5x0,5).png;chest_chain
+Cotte de mailles des dissidents;Objets au sol;0,5x0,5;Objets au sol/Cotte de mailles des dissidents (0,5x0,5).png;chest_chain_dissident
+Cotte de mailles en mithril;Objets au sol;0,5x0,5;Objets au sol/Cotte de mailles en mithril (0,5x0,5).png;chest_mythril
+Couchage;Objets au sol;0,5x0,5;Objets au sol/Couchage (0,5x0,5).png;bedroll
+Coupe en or;Objets au sol;0,5x0,5;Objets au sol/Coupe en or (0,5x0,5).png;gold_cup
+Crochets de serrurier;Objets au sol;0,5x0,5;Objets au sol/Crochets de serrurier (0,5x0,5).png;lockpicks
+Cuirasse Ylside;Objets au sol;0,5x1;Objets au sol/Cuirasse Ylside (0,5x1).png;ylside_armor
+Cuirasse de plates;Objets au sol;0,5x0,5;Objets au sol/Cuirasse de plates (0,5x0,5).png;chest_plate
+Cuirasse de plates enchantée;Objets au sol;0,5x0,5;Objets au sol/Cuirasse de plates enchantée (0,5x0,5).png;chest_plate_cm
+Cuirasse de plates renforcée;Objets au sol;0,5x0,5;Objets au sol/Cuirasse de plates renforcée (0,5x0,5).png;chest_plate_ac
+Cuisse de poulet;Objets au sol;0,5x0,5;Objets au sol/Cuisse de poulet (0,5x0,5).png;food_chicken
+Cuisse de poulet crue;Objets au sol;0,5x0,5;Objets au sol/Cuisse de poulet crue (0,5x0,5).png;food_chicken_uncooked
+Côtes crues;Objets au sol;0,5x0,5;Objets au sol/Côtes crues (0,5x0,5).png;ribs
+Côtes grillées;Objets au sol;0,5x0,5;Objets au sol/Côtes grillées (0,5x0,5).png;ribs_cooked
+Cœur de golem;Objets au sol;0,5x0,5;Objets au sol/Cœur de golem (0,5x0,5).png;golem_heart
+Dague;Objets au sol;0,5x0,5;Objets au sol/Dague (0,5x0,5).png;dagger
+Dague d'assassin;Objets au sol;0,5x1;Objets au sol/Dague d'assassin (0,5x1).png;dagger_assassin
+Dague ornée;Objets au sol;0,5x0,5;Objets au sol/Dague ornée (0,5x0,5).png;dagger_jeweld
+Demi-pain;Objets au sol;0,5x0,5;Objets au sol/Demi-pain (0,5x0,5).png;bread_half
+Dose de sédatif;Objets au sol;0,5x0,5;Objets au sol/Dose de sédatif (0,5x0,5).png;sedative_dose
+Encens;Objets au sol;0,5x0,5;Objets au sol/Encens (0,5x0,5).png;incense
+Farine;Objets au sol;0,5x0,5;Objets au sol/Farine (0,5x0,5).png;flour
+Fiole de poudre blanche;Objets au sol;0,5x0,5;Objets au sol/Fiole de poudre blanche (0,5x0,5).png;potion2bewhite
+Fiole de poudre bleue;Objets au sol;0,5x0,5;Objets au sol/Fiole de poudre bleue (0,5x0,5).png;potion2beblue
+Fiole de poudre orange;Objets au sol;0,5x0,5;Objets au sol/Fiole de poudre orange (0,5x0,5).png;potion2beorange
+Fiole de poudre verte;Objets au sol;0,5x0,5;Objets au sol/Fiole de poudre verte (0,5x0,5).png;potion2begreen
+Fiole de poudre violette;Objets au sol;0,5x0,5;Objets au sol/Fiole de poudre violette (0,5x0,5).png;potion2bepurple
+Fleur de perce-neige;Objets au sol;0,5x0,5;Objets au sol/Fleur de perce-neige (0,5x0,5).png;snow_drop
+Fleur de volubilis;Objets au sol;0,5x0,5;Objets au sol/Fleur de volubilis (0,5x0,5).png;morning_glory
+Flèche;Objets au sol;1x0,5;Objets au sol/Flèche (1x0,5).png;arrow
+Flèches (paquet);Objets au sol;0,5x1;Objets au sol/Flèches (paquet) (0,5x1).png;arrows
+Flûte;Objets au sol;0,5x0,5;Objets au sol/Flûte (0,5x0,5).png;flute
+Fougère;Objets au sol;1x1;Objets au sol/Fougère (1x1).png;fern
+Fromage;Objets au sol;0,5x0,5;Objets au sol/Fromage (0,5x0,5).png;cheese
+Gourdin;Objets au sol;0,5x1;Objets au sol/Gourdin (0,5x1).png;club
+Grand orbe brillant;Objets au sol;0,5x0,5;Objets au sol/Grand orbe brillant (0,5x0,5).png;shiny_orb_end
+Hache;Objets au sol;0,5x0,5;Objets au sol/Hache (0,5x0,5).png;axe
+Hache à deux mains;Objets au sol;0,5x1;Objets au sol/Hache à deux mains (0,5x1).png;axe_2handed
+Heaume de Poxsellis;Objets au sol;0,5x0,5;Objets au sol/Heaume de Poxsellis (0,5x0,5).png;helmet_poxsellis
+Heaume de plates;Objets au sol;0,5x0,5;Objets au sol/Heaume de plates (0,5x0,5).png;helmet_plate
+Heaume de plates enchanté;Objets au sol;0,5x0,5;Objets au sol/Heaume de plates enchanté (0,5x0,5).png;helmet_plate_cm
+Heaume de plates renforcé;Objets au sol;0,5x0,5;Objets au sol/Heaume de plates renforcé (0,5x0,5).png;helmet_plate_ac
+Herbes médicinales;Objets au sol;0,5x0,5;Objets au sol/Herbes médicinales (0,5x0,5).png;medicinal_herb
+Horloge;Objets au sol;0,5x0,5;Objets au sol/Horloge (0,5x0,5).png;clock
+Idole troll;Objets au sol;0,5x0,5;Objets au sol/Idole troll (0,5x0,5).png;troll_idol
+Instrument sacrificiel;Objets au sol;0,5x0,5;Objets au sol/Instrument sacrificiel (0,5x0,5).png;ritual_blooding_device
+Jambières Ylside;Objets au sol;0,5x1;Objets au sol/Jambières Ylside (0,5x1).png;ylside_leggings
+Jambières de cuir;Objets au sol;0,5x0,5;Objets au sol/Jambières de cuir (0,5x0,5).png;legging_leather
+Jambières de cuir noir;Objets au sol;0,5x0,5;Objets au sol/Jambières de cuir noir (0,5x0,5).png;legging_leather_stealth
+Jambières de cuir renforcées;Objets au sol;1x1;Objets au sol/Jambières de cuir renforcées (1x1).png;legging_leather_ac
+Jambières de mailles;Objets au sol;0,5x1;Objets au sol/Jambières de mailles (0,5x1).png;legging_chain
+Jambières de mailles des dissidents;Objets au sol;0,5x1;Objets au sol/Jambières de mailles des dissidents (0,5x1).png;legging_chain_dissident
+Jambières de plates;Objets au sol;0,5x1;Objets au sol/Jambières de plates (0,5x1).png;legging_plate
+Jambières de plates enchantées;Objets au sol;0,5x1;Objets au sol/Jambières de plates enchantées (0,5x1).png;legging_plate_cm
+Jambières de plates renforcées;Objets au sol;0,5x1;Objets au sol/Jambières de plates renforcées (0,5x1).png;legging_plate_ac
+Jambières en mithril;Objets au sol;0,5x1;Objets au sol/Jambières en mithril (0,5x1).png;legging_mythril
+Joyau troll;Objets au sol;0,5x0,5;Objets au sol/Joyau troll (0,5x0,5).png;jewel_troll
+Krahoz;Objets au sol;0,5x0,5;Objets au sol/Krahoz (0,5x0,5).png;krahoz
+Krahoz et Zohark réunis;Objets au sol;0,5x0,5;Objets au sol/Krahoz et Zohark réunis (0,5x0,5).png;krahoz&zohark
+Laissez-passer de la Dague Sacrée;Objets au sol;0,5x0,5;Objets au sol/Laissez-passer de la Dague Sacrée (0,5x0,5).png;dissident_key
+Lampe;Objets au sol;0,5x0,5;Objets au sol/Lampe (0,5x0,5).png;lamp
+Licence de marchand de gemmes;Objets au sol;0,5x0,5;Objets au sol/Licence de marchand de gemmes (0,5x0,5).png;gem_dealer_badge
+Lingot d'or;Objets au sol;0,5x0,5;Objets au sol/Lingot d'or (0,5x0,5).png;gold_bar
+Lingot de mithril;Objets au sol;0,5x0,5;Objets au sol/Lingot de mithril (0,5x0,5).png;ingot_mythril
+Lingot de mithril à la roche de Koltk;Objets au sol;0,5x0,5;Objets au sol/Lingot de mithril à la roche de Koltk (0,5x0,5).png;ingot_mythril_koltk
+Lingot de métal;Objets au sol;0,5x0,5;Objets au sol/Lingot de métal (0,5x0,5).png;ingot_metal
+Livre - Paysages du monde extérieur;Objets au sol;0,5x0,5;Objets au sol/Livre - Paysages du monde extérieur (0,5x0,5).png;bookgreu
+Luth;Objets au sol;0,5x0,5;Objets au sol/Luth (0,5x0,5).png;luth
+Maillet;Objets au sol;0,5x1;Objets au sol/Maillet (0,5x1).png;hammer_club
+Marteau;Objets au sol;0,5x0,5;Objets au sol/Marteau (0,5x0,5).png;hammer
+Marteau (2);Objets au sol;0,5x0,5;Objets au sol/Marteau (2) (0,5x0,5).png;hammer2
+Mastic de boue;Objets au sol;0,5x0,5;Objets au sol/Mastic de boue (0,5x0,5).png;mud_putty
+Miroir;Objets au sol;0,5x0,5;Objets au sol/Miroir (0,5x0,5).png;mirror
+Morceau de bois;Objets au sol;0,5x0,5;Objets au sol/Morceau de bois (0,5x0,5).png;piece_wood
+Morceau de cadavre;Objets au sol;0,5x0,5;Objets au sol/Morceau de cadavre (0,5x0,5).png;body_chunk
+Morceau de mithril;Objets au sol;0,5x0,5;Objets au sol/Morceau de mithril (0,5x0,5).png;mithril_chunk
+Morceau de métal;Objets au sol;0,5x0,5;Objets au sol/Morceau de métal (0,5x0,5).png;metal_chunk
+Mortier et pilon;Objets au sol;0,5x0,5;Objets au sol/Mortier et pilon (0,5x0,5).png;crusher
+Moule d'épée;Objets au sol;0,5x1,5;Objets au sol/Moule d'épée (0,5x1,5).png;mauld_sabre
+Moule d'épée à deux mains;Objets au sol;1x2;Objets au sol/Moule d'épée à deux mains (1x2).png;mauld_2sword
+Moule de clé;Objets au sol;0,5x0,5;Objets au sol/Moule de clé (0,5x0,5).png;mauld_key
+Note manuscrite;Objets au sol;0,5x0,5;Objets au sol/Note manuscrite (0,5x0,5).png;note
+Note manuscrite (2);Objets au sol;0,5x0,5;Objets au sol/Note manuscrite (2) (0,5x0,5).png;note2
+Nénuphar;Objets au sol;0,5x0,5;Objets au sol/Nénuphar (0,5x0,5).png;waterlily
+Orbe brillant;Objets au sol;0,5x0,5;Objets au sol/Orbe brillant (0,5x0,5).png;shiny_orb
+Os;Objets au sol;0,5x0,5;Objets au sol/Os (0,5x0,5).png;bone
+Os de dragon;Objets au sol;0,5x0,5;Objets au sol/Os de dragon (0,5x0,5).png;dragon_bone
+Ossements de noyé;Objets au sol;0,5x1;Objets au sol/Ossements de noyé (0,5x1).png;drowned_bones
+Pain;Objets au sol;0,5x0,5;Objets au sol/Pain (0,5x0,5).png;bread
+Parchemin;Objets au sol;0,5x0,5;Objets au sol/Parchemin (0,5x0,5).png;scroll_generic
+Pavois;Objets au sol;0,5x1;Objets au sol/Pavois (0,5x1).png;shield_tower_metal
+Pelle;Objets au sol;0,5x0,5;Objets au sol/Pelle (0,5x0,5).png;shovel
+Perche;Objets au sol;0,5x1;Objets au sol/Perche (0,5x1).png;pole
+Perche avec poisson;Objets au sol;0,5x1,5;Objets au sol/Perche avec poisson (0,5x1,5).png;pole_with_fish
+Petite clé d'or;Objets au sol;0,5x0,5;Objets au sol/Petite clé d'or (0,5x0,5).png;key_oliverquest
+Petite clé de métal;Objets au sol;0,5x0,5;Objets au sol/Petite clé de métal (0,5x0,5).png;key_base
+Petite clé de métal (2);Objets au sol;0,5x0,5;Objets au sol/Petite clé de métal (2) (0,5x0,5).png;key_base2
+Petites côtes crues;Objets au sol;0,5x0,5;Objets au sol/Petites côtes crues (0,5x0,5).png;ribs_mini
+Petites côtes grillées;Objets au sol;0,5x0,5;Objets au sol/Petites côtes grillées (0,5x0,5).png;ribs_cooked_mini
+Pierre de pouvoir;Objets au sol;0,5x0,5;Objets au sol/Pierre de pouvoir (0,5x0,5).png;power_stone
+Pierre gravée (1);Objets au sol;0,5x0,5;Objets au sol/Pierre gravée (1) (0,5x0,5).png;puzzle_stone01
+Pierre gravée (2);Objets au sol;0,5x0,5;Objets au sol/Pierre gravée (2) (0,5x0,5).png;puzzle_stone02
+Pierre gravée (3);Objets au sol;0,5x0,5;Objets au sol/Pierre gravée (3) (0,5x0,5).png;puzzle_stone03
+Pierre gravée (4);Objets au sol;0,5x0,5;Objets au sol/Pierre gravée (4) (0,5x0,5).png;puzzle_stone04
+Pierre gravée (5);Objets au sol;0,5x0,5;Objets au sol/Pierre gravée (5) (0,5x0,5).png;puzzle_stone05
+Pierre gravée (6);Objets au sol;0,5x0,5;Objets au sol/Pierre gravée (6) (0,5x0,5).png;puzzle_stone06
+Pierre précieuse;Objets au sol;0,5x0,5;Objets au sol/Pierre précieuse (0,5x0,5).png;gem
+Pieu béni;Objets au sol;0,5x0,5;Objets au sol/Pieu béni (0,5x0,5).png;stake_blessed
+Pieu de bois;Objets au sol;0,5x0,5;Objets au sol/Pieu de bois (0,5x0,5).png;stake
+Pioche;Objets au sol;1x1,5;Objets au sol/Pioche (1x1,5).png;pick_axe
+Pièces d'or (2);Objets au sol;0,5x0,5;Objets au sol/Pièces d'or (2) (0,5x0,5).png;gold_coin2
+Pièces d'or (3);Objets au sol;0,5x0,5;Objets au sol/Pièces d'or (3) (0,5x0,5).png;gold_coin3
+Pièces d'or (4);Objets au sol;0,5x0,5;Objets au sol/Pièces d'or (4) (0,5x0,5).png;gold_coin4
+Pièces d'or (5);Objets au sol;0,5x0,5;Objets au sol/Pièces d'or (5) (0,5x0,5).png;gold_coin5
+Pièces d'or (6);Objets au sol;0,5x0,5;Objets au sol/Pièces d'or (6) (0,5x0,5).png;gold_coin6
+Pièces d'or (7);Objets au sol;0,5x0,5;Objets au sol/Pièces d'or (7) (0,5x0,5).png;gold_coin7
+Pièces d'or (tas);Objets au sol;0,5x0,5;Objets au sol/Pièces d'or (tas) (0,5x0,5).png;gold_coin
+Plastron de cuir;Objets au sol;1x0,5;Objets au sol/Plastron de cuir (1x0,5).png;chest_leather
+Plastron de cuir noir;Objets au sol;1x0,5;Objets au sol/Plastron de cuir noir (1x0,5).png;chest_leather_stealth
+Plastron de cuir renforcé;Objets au sol;1x0,5;Objets au sol/Plastron de cuir renforcé (1x0,5).png;chest_leather_ac
+Poireau;Objets au sol;0,5x1;Objets au sol/Poireau (0,5x1).png;food_leek
+Poisson cuit;Objets au sol;0,5x0,5;Objets au sol/Poisson cuit (0,5x0,5).png;food_fish_cooked
+Poisson frais;Objets au sol;0,5x0,5;Objets au sol/Poisson frais (0,5x0,5).png;food_fish
+Pomme;Objets au sol;0,5x0,5;Objets au sol/Pomme (0,5x0,5).png;food_apple
+Potion antidote;Objets au sol;0,5x0,5;Objets au sol/Potion antidote (0,5x0,5).png;potion_green
+Potion d'invisibilité;Objets au sol;0,5x0,5;Objets au sol/Potion d'invisibilité (0,5x0,5).png;potion_invisible
+Potion de mana;Objets au sol;0,5x0,5;Objets au sol/Potion de mana (0,5x0,5).png;potion_mana
+Potion de soin;Objets au sol;0,5x0,5;Objets au sol/Potion de soin (0,5x0,5).png;potion_life
+Potion violette;Objets au sol;0,5x0,5;Objets au sol/Potion violette (0,5x0,5).png;potion_purple
+Poudre antidote;Objets au sol;0,5x0,5;Objets au sol/Poudre antidote (0,5x0,5).png;powder_antidote
+Poudre d'os;Objets au sol;0,5x0,5;Objets au sol/Poudre d'os (0,5x0,5).png;powder_bone
+Poudre d'os de dragon;Objets au sol;0,5x0,5;Objets au sol/Poudre d'os de dragon (0,5x0,5).png;dragon_bone_powder
+Poudre de Koltk;Objets au sol;0,5x0,5;Objets au sol/Poudre de Koltk (0,5x0,5).png;koltk_powder
+Poudre de fougère;Objets au sol;0,5x0,5;Objets au sol/Poudre de fougère (0,5x0,5).png;powder_fern
+Poudre de nénuphar;Objets au sol;0,5x0,5;Objets au sol/Poudre de nénuphar (0,5x0,5).png;powder_water_lily
+Poudre de perce-neige;Objets au sol;0,5x0,5;Objets au sol/Poudre de perce-neige (0,5x0,5).png;powder_snow_drop
+Poudre de volubilis;Objets au sol;0,5x0,5;Objets au sol/Poudre de volubilis (0,5x0,5).png;powder_morning_glory
+Poulet rôti;Objets au sol;0,5x0,5;Objets au sol/Poulet rôti (0,5x0,5).png;roast_chicken
+Pâte à pain;Objets au sol;0,5x0,5;Objets au sol/Pâte à pain (0,5x0,5).png;bread_uncooked
+Pépite d'or;Objets au sol;0,5x0,5;Objets au sol/Pépite d'or (0,5x0,5).png;gold_chunk
+Roche d'Akbaa;Objets au sol;0,5x0,5;Objets au sol/Roche d'Akbaa (0,5x0,5).png;rock_akbaa
+Roche d'Amikar;Objets au sol;0,5x0,5;Objets au sol/Roche d'Amikar (0,5x0,5).png;rock_amikar
+Rouleau à pâtisserie;Objets au sol;0,5x0,5;Objets au sol/Rouleau à pâtisserie (0,5x0,5).png;rolling_pin
+Rubis;Objets au sol;0,5x0,5;Objets au sol/Rubis (0,5x0,5).png;ruby
+Rune Aam;Objets au sol;0,5x0,5;Objets au sol/Rune Aam (0,5x0,5).png;rune_aam
+Sabre;Objets au sol;0,5x1;Objets au sol/Sabre (0,5x1).png;sabre
+Sabre en mithril;Objets au sol;0,5x1;Objets au sol/Sabre en mithril (0,5x1).png;sabre_mithril
+Sabre maudit ylside;Objets au sol;0,5x1;Objets au sol/Sabre maudit ylside (0,5x1).png;sabre_ylside
+Sabre météore;Objets au sol;0,5x1;Objets au sol/Sabre météore (0,5x1).png;sabre_meteor
+Sabre météore enchanté;Objets au sol;0,5x1;Objets au sol/Sabre météore enchanté (0,5x1).png;sabre_meteor_enchant
+Sacoche;Objets au sol;0,5x0,5;Objets au sol/Sacoche (0,5x0,5).png;backpack
+Sang;Objets au sol;0,5x0,5;Objets au sol/Sang (0,5x0,5).png;blood
+Saucisse amicale;Objets au sol;0,5x0,5;Objets au sol/Saucisse amicale (0,5x0,5).png;sausage
+Serpent d'or;Objets au sol;0,5x0,5;Objets au sol/Serpent d'or (0,5x0,5).png;golden_snake
+Serpent d'or (faux);Objets au sol;0,5x0,5;Objets au sol/Serpent d'or (faux) (0,5x0,5).png;fake_golden_snake
+Tarte aux pommes;Objets au sol;0,5x0,5;Objets au sol/Tarte aux pommes (0,5x0,5).png;applepie
+Tarte aux pommes au vin;Objets au sol;0,5x0,5;Objets au sol/Tarte aux pommes au vin (0,5x0,5).png;applepie_wine
+Tarte aux pommes au vin crue;Objets au sol;0,5x0,5;Objets au sol/Tarte aux pommes au vin crue (0,5x0,5).png;applepie_uncooked_wine
+Tarte aux pommes crue;Objets au sol;0,5x0,5;Objets au sol/Tarte aux pommes crue (0,5x0,5).png;applepie_uncooked
+Titre de propriété - araignée;Objets au sol;0,5x0,5;Objets au sol/Titre de propriété - araignée (0,5x0,5).png;deed_spider
+Titre de propriété - chien;Objets au sol;0,5x0,5;Objets au sol/Titre de propriété - chien (0,5x0,5).png;deed_dog
+Titre de propriété - poulet;Objets au sol;0,5x0,5;Objets au sol/Titre de propriété - poulet (0,5x0,5).png;deed_chicken
+Titre de propriété - rat;Objets au sol;0,5x0,5;Objets au sol/Titre de propriété - rat (0,5x0,5).png;deed_rat
+Titre de propriété - saucisse;Objets au sol;0,5x0,5;Objets au sol/Titre de propriété - saucisse (0,5x0,5).png;deed_sausage
+Torche;Objets au sol;0,5x0,5;Objets au sol/Torche (0,5x0,5).png;torch
+Tourte;Objets au sol;0,5x0,5;Objets au sol/Tourte (0,5x0,5).png;pie
+Tourte crue;Objets au sol;0,5x0,5;Objets au sol/Tourte crue (0,5x0,5).png;pie_uncooked
+Trousseau (1 clé);Objets au sol;0,5x0,5;Objets au sol/Trousseau (1 clé) (0,5x0,5).png;keyring_1key
+Trousseau (2 clés);Objets au sol;0,5x0,5;Objets au sol/Trousseau (2 clés) (0,5x0,5).png;keyring_2key
+Trousseau (3 clés);Objets au sol;0,5x0,5;Objets au sol/Trousseau (3 clés) (0,5x0,5).png;keyring_3key
+Trousseau plein;Objets au sol;0,5x0,5;Objets au sol/Trousseau plein (0,5x0,5).png;keyring_full
+Trousseau vide;Objets au sol;0,5x0,5;Objets au sol/Trousseau vide (0,5x0,5).png;keyring
+Tueuse de géants;Objets au sol;0,5x1,5;Objets au sol/Tueuse de géants (0,5x1,5).png;giant_slayer
+Zohark;Objets au sol;0,5x0,5;Objets au sol/Zohark (0,5x0,5).png;zohark
+Échantillon de roche de Koltk;Objets au sol;0,5x0,5;Objets au sol/Échantillon de roche de Koltk (0,5x0,5).png;koltk_sample
+Émeraude;Objets au sol;0,5x0,5;Objets au sol/Émeraude (0,5x0,5).png;emerald
+Épée courte;Objets au sol;0,5x1;Objets au sol/Épée courte (0,5x1).png;short_sword
+Épée d'Achanta (drain de vie);Objets au sol;0,5x1;Objets au sol/Épée d'Achanta (drain de vie) (0,5x1).png;long_sword_recovery
+Épée en mithril à deux mains;Objets au sol;0,5x1,5;Objets au sol/Épée en mithril à deux mains (0,5x1,5).png;sword_2handed_mithril
+Épée longue;Objets au sol;0,5x1;Objets au sol/Épée longue (0,5x1).png;long_sword
+Épée longue (grande icône);Objets au sol;0,5x1,5;Objets au sol/Épée longue (grande icône) (0,5x1,5).png;sword_mx
+Épée longue de Ciprian;Objets au sol;0,5x1;Objets au sol/Épée longue de Ciprian (0,5x1).png;long_sword_ciprian
+Épée longue ornée;Objets au sol;0,5x1;Objets au sol/Épée longue ornée (0,5x1).png;long_sword_jeweld
+Épée longue plume;Objets au sol;0,5x1;Objets au sol/Épée longue plume (0,5x1).png;long_sword_feather
+Épée météore à deux mains;Objets au sol;0,5x1,5;Objets au sol/Épée météore à deux mains (0,5x1,5).png;sword_2handed_meteor
+Épée météore à deux mains enchantée;Objets au sol;0,5x1,5;Objets au sol/Épée météore à deux mains enchantée (0,5x1,5).png;sword_2handed_meteor_enchant
+Épée à deux mains;Objets au sol;0,5x1,5;Objets au sol/Épée à deux mains (0,5x1,5).png;sword_2handed
+Épée à deux mains forgée;Objets au sol;0,5x1,5;Objets au sol/Épée à deux mains forgée (0,5x1,5).png;sword_2handed_forged
+Œuf de dragon;Objets au sol;0,5x0,5;Objets au sol/Œuf de dragon (0,5x0,5).png;dragon_egg
+Faux mur de crypte (1);Passages secrets;1,5x0,5;Passages secrets/Faux mur de crypte (1) (1,5x0,5).png;l5_crypt_room13_fakewall
+Faux mur de crypte (2);Passages secrets;3x0,5;Passages secrets/Faux mur de crypte (2) (3x0,5).png;l5_crypt_tomb2_fake wall
+Mur fragile;Passages secrets;3,5x0,5;Passages secrets/Mur fragile (3,5x0,5).png;wall_breakable
+Mur fragile (chose noire);Passages secrets;3x0,5;Passages secrets/Mur fragile (chose noire) (3x0,5).png;wall_breakable_blackthing
+Mur illusoire (1);Passages secrets;2x0,5;Passages secrets/Mur illusoire (1) (2x0,5).png;illusion_secretwall01
+Mur illusoire (2);Passages secrets;2x0,5;Passages secrets/Mur illusoire (2) (2x0,5).png;illusion_secretwall02
+Mur illusoire (3);Passages secrets;2x0,5;Passages secrets/Mur illusoire (3) (2x0,5).png;illusion_secretwall03
+Mur illusoire (4);Passages secrets;2x0,5;Passages secrets/Mur illusoire (4) (2x0,5).png;illusion_secretwall04
+Mur secret;Passages secrets;2x2;Passages secrets/Mur secret (2x2).png;wall_secret
+Mur secret (niveau 18);Passages secrets;2x0,5;Passages secrets/Mur secret (niveau 18) (2x0,5).png;secretwall_l18
+Mur secret de crypte (1);Passages secrets;1,5x0,5;Passages secrets/Mur secret de crypte (1) (1,5x0,5).png;secretwall_crypt19
+Mur secret de crypte (2);Passages secrets;2x2;Passages secrets/Mur secret de crypte (2) (2x2).png;secretwall_crypt_l6_01
+Mur secret de crypte (3);Passages secrets;2x0,5;Passages secrets/Mur secret de crypte (3) (2x0,5).png;secretwall_crypt_l6_02
+Mur secret de crypte (4);Passages secrets;2x0,5;Passages secrets/Mur secret de crypte (4) (2x0,5).png;secretwall_crypt_l6_03
+Mur secret de la crypte;Passages secrets;2x0,5;Passages secrets/Mur secret de la crypte (2x0,5).png;l3_crypt_r34_secret_wall
+Mur secret de la prison gobeline;Passages secrets;2x0,5;Passages secrets/Mur secret de la prison gobeline (2x0,5).png;wall_secret_goblin_prison
+Mur secret des dissidents (1);Passages secrets;0,5x2;Passages secrets/Mur secret des dissidents (1) (0,5x2).png;l3_dissidents_secret_wall
+Mur secret des dissidents (2);Passages secrets;2,5x1;Passages secrets/Mur secret des dissidents (2) (2,5x1).png;l3_dissidents_secret_wall_2
+Mur secret des dissidents (3);Passages secrets;2,5x0,5;Passages secrets/Mur secret des dissidents (3) (2,5x0,5).png;l3_dissidents_secret_wall_3
+Mur secret vers Arkane;Passages secrets;2,5x9,5;Passages secrets/Mur secret vers Arkane (2,5x9,5).png;wall_secret_to_arkane
+Porte secrète (niveau 21);Passages secrets;2x0,5;Passages secrets/Porte secrète (niveau 21) (2x0,5).png;l21_room11_secretdoor
+Porte secrète (niveau 23);Passages secrets;1,5x0,5;Passages secrets/Porte secrète (niveau 23) (1,5x0,5).png;secret_door_l23_r2
+Porte secrète (niveau 6);Passages secrets;0,5x2;Passages secrets/Porte secrète (niveau 6) (0,5x2).png;l6_r06_secretdoor
+Porte secrète crypte-galeries;Passages secrets;2x0,5;Passages secrets/Porte secrète crypte-galeries (2x0,5).png;l3_raccord_crypte_galeries_secretdoor
+Porte secrète d'Alicia;Passages secrets;2x0,5;Passages secrets/Porte secrète d'Alicia (2x0,5).png;l0_alicia_secretdoor
+Porte secrète de chair du temple d'Akbaa;Passages secrets;3x0,5;Passages secrets/Porte secrète de chair du temple d'Akbaa (3x0,5).png;l1_2_akbaa_r37r_secretdoor_flesh
+Porte secrète de la banque;Passages secrets;1,5x0,5;Passages secrets/Porte secrète de la banque (1,5x0,5).png;door_secret_bank
+Porte secrète de la salle du trône;Passages secrets;2x0,5;Passages secrets/Porte secrète de la salle du trône (2x0,5).png;secret_door_throne_room
+Porte secrète de pierre du temple d'Akbaa;Passages secrets;2x0,5;Passages secrets/Porte secrète de pierre du temple d'Akbaa (2x0,5).png;l1_2_akbaa_r37r_secretdoor_stone
+Porte secrète des cavernes;Passages secrets;1,5x0,5;Passages secrets/Porte secrète des cavernes (1,5x0,5).png;l5_caves_secretdoor
+Porte secrète des ruines gobelines;Passages secrets;0,5x2;Passages secrets/Porte secrète des ruines gobelines (0,5x2).png;l2_gob_ruins_secretdoor
+Porte secrète du conseil (1b);Passages secrets;1,5x0,5;Passages secrets/Porte secrète du conseil (1b) (1,5x0,5).png;secret_door_council_1b
+Porte secrète du conseil (1à);Passages secrets;2x0,5;Passages secrets/Porte secrète du conseil (1à) (2x0,5).png;secret_door_council_1a
+Porte secrète du conseil (2b);Passages secrets;1,5x0,5;Passages secrets/Porte secrète du conseil (2b) (1,5x0,5).png;secret_door_council_2b
+Porte secrète du conseil (2à);Passages secrets;1,5x0,5;Passages secrets/Porte secrète du conseil (2à) (1,5x0,5).png;secret_door_council_2a
+Porte secrète du faux Kultar;Passages secrets;2,5x0,5;Passages secrets/Porte secrète du faux Kultar (2,5x0,5).png;l3_fake_kult_secretdoor
+Porte secrète du roi;Passages secrets;0,5x2;Passages secrets/Porte secrète du roi (0,5x2).png;secret_door_king
+Porte secrète du temple d'Akbaa (1);Passages secrets;3x2;Passages secrets/Porte secrète du temple d'Akbaa (1) (3x2).png;l1_2_akbaa_r37r_secretdoor
+Porte secrète du temple d'Akbaa (2);Passages secrets;2x0,5;Passages secrets/Porte secrète du temple d'Akbaa (2) (2x0,5).png;l1_akbaa_r28_secretdoor
+Porte secrète du temple d'Akbaa (3);Passages secrets;2x0,5;Passages secrets/Porte secrète du temple d'Akbaa (3) (2x0,5).png;l1_akbaa_r33_secretdoor
+Porte secrète du temple d'Akbaa (4);Passages secrets;2x0,5;Passages secrets/Porte secrète du temple d'Akbaa (4) (2x0,5).png;l1_akbaa_r37l_secretdoor
+Porte secrète gobeline (1);Passages secrets;2x0,5;Passages secrets/Porte secrète gobeline (1) (2x0,5).png;l2_gobel_r19_secretdoor
+Porte secrète gobeline (2);Passages secrets;2x0,5;Passages secrets/Porte secrète gobeline (2) (2x0,5).png;l2_gobel_r20_secretdoor
+Portes secrètes du temple d'Akbaa;Passages secrets;2x0,5;Passages secrets/Portes secrètes du temple d'Akbaa (2x0,5).png;l1_akbaa_r25_secretdoors
+Plateau d'ascenseur;Ponts et plateformes;2x2;Ponts et plateformes/Plateau d'ascenseur (2x2).png;elevator_plateau
+Plateforme;Ponts et plateformes;1,5x2;Ponts et plateformes/Plateforme (1,5x2).png;l0_human_platform
+Plateforme du temple;Ponts et plateformes;4x1,5;Ponts et plateformes/Plateforme du temple (4x1,5).png;temple_platform
+Pont;Ponts et plateformes;2x6,5;Ponts et plateformes/Pont (2x6,5).png;bridge
+Pont de pierre;Ponts et plateformes;2x2;Ponts et plateformes/Pont de pierre (2x2).png;bridge_rock
+Pont de pierre effondré;Ponts et plateformes;2x6,5;Ponts et plateformes/Pont de pierre effondré (2x6,5).png;bridge_rock_fallen
+Pont de pierre effondré (base);Ponts et plateformes;2x2,5;Ponts et plateformes/Pont de pierre effondré (base) (2x2,5).png;bridge_rock_fallen_base
+Pont de pierre effondré (entier);Ponts et plateformes;2x8;Ponts et plateformes/Pont de pierre effondré (entier) (2x8).png;bridge_rock_fallen_all
+Pont de pierre effondré (haut);Ponts et plateformes;1,5x2;Ponts et plateformes/Pont de pierre effondré (haut) (1,5x2).png;bridge_rock_fallen_top
+Pont de pierre effondré (milieu);Ponts et plateformes;1,5x3,5;Ponts et plateformes/Pont de pierre effondré (milieu) (1,5x3,5).png;bridge_rock_fallen_mid
+Double porte d'église;Portes;2,5x0,5;Portes/Double porte d'église (2,5x0,5).png;door_church_double_door
+Double porte de la salle du trône;Portes;2x0,5;Portes/Double porte de la salle du trône (2x0,5).png;door_double_throne
+Double porte de métal;Portes;3,5x0,5;Portes/Double porte de métal (3,5x0,5).png;door_metal_double
+Double porte de métal (2);Portes;3,5x0,5;Portes/Double porte de métal (2) (3,5x0,5).png;metal_double_door
+Double porte du château;Portes;2x0,5;Portes/Double porte du château (2x0,5).png;door_castle_double_door
+Double porte du poste de garde;Portes;3x0,5;Portes/Double porte du poste de garde (3x0,5).png;guardpost_double_door
+Double porte du temple;Portes;2x0,5;Portes/Double porte du temple (2x0,5).png;door_double_temple
+Double porte du temple du serpent;Portes;4x0,5;Portes/Double porte du temple du serpent (4x0,5).png;door_dble_snake
+Double porte gobeline;Portes;3x0,5;Portes/Double porte gobeline (3x0,5).png;door_l2_gob_double
+Double porte ylside;Portes;3,5x0,5;Portes/Double porte ylside (3,5x0,5).png;door_double_ylsides
+Grande porte d'Arx;Portes;0,5x3;Portes/Grande porte d'Arx (0,5x3).png;arx_main_door
+Grande porte d'Arx (2);Portes;3x0,5;Portes/Grande porte d'Arx (2) (3x0,5).png;arx_main_door2
+Grande porte du temple;Portes;3x0,5;Portes/Grande porte du temple (3x0,5).png;temple_big_door
+Petite porte de laboratoire;Portes;0,5x0,5;Portes/Petite porte de laboratoire (0,5x0,5).png;door_lab_chest
+Petite porte du temple;Portes;2x0,5;Portes/Petite porte du temple (2x0,5).png;door_temple_little
+Porte d'ascenseur;Portes;2x0,5;Portes/Porte d'ascenseur (2x0,5).png;elevator_door
+Porte d'entrée du temple;Portes;3x0,5;Portes/Porte d'entrée du temple (3x0,5).png;temple_front_door
+Porte d'église (1);Portes;2x0,5;Portes/Porte d'église (1) (2x0,5).png;door_church01
+Porte d'église (2);Portes;1,5x0,5;Portes/Porte d'église (2) (1,5x0,5).png;door_church02
+Porte de cachot du palais;Portes;1,5x0,5;Portes/Porte de cachot du palais (1,5x0,5).png;door_human_palace_jail
+Porte de la machine naine;Portes;1x1;Portes/Porte de la machine naine (1x1).png;dwarf_engine_door
+Porte de la machine naine (2);Portes;1x0,5;Portes/Porte de la machine naine (2) (1x0,5).png;dwarf_engine_door2
+Porte de la taverne;Portes;2x0,5;Portes/Porte de la taverne (2x0,5).png;door_tavern_entrance
+Porte de lave naine;Portes;4x4;Portes/Porte de lave naine (4x4).png;dwarf_lava_door
+Porte de lave naine (2);Portes;2x2;Portes/Porte de lave naine (2) (2x2).png;dwarf_lava_door2
+Porte de métal;Portes;2x0,5;Portes/Porte de métal (2x0,5).png;door_metal
+Porte de métal (2);Portes;1,5x0,5;Portes/Porte de métal (2) (1,5x0,5).png;metal_door
+Porte de métal du palais;Portes;1,5x0,5;Portes/Porte de métal du palais (1,5x0,5).png;door_human_palace_metal
+Porte de ville;Portes;1,5x0,5;Portes/Porte de ville (1,5x0,5).png;door_city
+Porte des chambres du palais;Portes;1,5x0,5;Portes/Porte des chambres du palais (1,5x0,5).png;door_palace_rooms
+Porte des latrines gobelines;Portes;1,5x0,5;Portes/Porte des latrines gobelines (1,5x0,5).png;l2_gobel_r26_wcdoor
+Porte du château;Portes;1,5x0,5;Portes/Porte du château (1,5x0,5).png;door_castle
+Porte du laboratoire du palais;Portes;1,5x0,5;Portes/Porte du laboratoire du palais (1,5x0,5).png;door_human_palace_light_res_lab
+Porte du prêtre;Portes;2,5x0,5;Portes/Porte du prêtre (2,5x0,5).png;door_human_priest1
+Porte du temple du serpent;Portes;2x0,5;Portes/Porte du temple du serpent (2x0,5).png;door_snake
+Porte gobeline lourde;Portes;1,5x0,5;Portes/Porte gobeline lourde (1,5x0,5).png;door_goblin_heavy
+Porte gobeline lourde (2);Portes;2x0,5;Portes/Porte gobeline lourde (2) (2x0,5).png;door_l2_gob_heavy
+Porte gobeline légère;Portes;1,5x0,5;Portes/Porte gobeline légère (1,5x0,5).png;door_goblin_light
+Porte gobeline légère (2);Portes;2x0,5;Portes/Porte gobeline légère (2) (2x0,5).png;door_l2_gob_light
+Porte gobeline très légère;Portes;1,5x0,5;Portes/Porte gobeline très légère (1,5x0,5).png;door_goblin_light_very
+Porte lourde de crypte;Portes;1,5x0,5;Portes/Porte lourde de crypte (1,5x0,5).png;door_crypt_heavy
+Porte lourde des catacombes;Portes;1,5x0,5;Portes/Porte lourde des catacombes (1,5x0,5).png;door_catacomb_heavy
+Porte lourde du poste de garde;Portes;1,5x0,5;Portes/Porte lourde du poste de garde (1,5x0,5).png;guardpost_heavy_door
+Porte lourde du poste de garde (2);Portes;1,5x0,5;Portes/Porte lourde du poste de garde (2) (1,5x0,5).png;guardpost_heavy_door01
+Porte légère;Portes;1,5x0,5;Portes/Porte légère (1,5x0,5).png;light_door
+Porte légère du palais;Portes;1,5x0,5;Portes/Porte légère du palais (1,5x0,5).png;door_human_palace_light
+Porte légère du poste de garde;Portes;1,5x0,5;Portes/Porte légère du poste de garde (1,5x0,5).png;guardpost_light_wood_door
+Porte naine;Portes;2,5x0,5;Portes/Porte naine (2,5x0,5).png;door_dwarves
+Porte tout métal;Portes;2x0,5;Portes/Porte tout métal (2x0,5).png;door_fullmetal
+Porte ylside;Portes;2x1;Portes/Porte ylside (2x1).png;door_ylsides
+Bloc de glace;Roches et nature;2,5x2,5;Roches et nature/Bloc de glace (2,5x2,5).png;ice_bloc
+Boue;Roches et nature;1x1;Roches et nature/Boue (1x1).png;mud
+Détritus;Roches et nature;0,5x0,5;Roches et nature/Détritus (0,5x0,5).png;rubbish
+Gravats;Roches et nature;1x1,5;Roches et nature/Gravats (1x1,5).png;rubble
+Grosse pierre;Roches et nature;0,5x0,5;Roches et nature/Grosse pierre (0,5x0,5).png;stone_big
+Mur de glace du repaire du dragon;Roches et nature;2x1,5;Roches et nature/Mur de glace du repaire du dragon (2x1,5).png;dragon's_lair_ice_wall
+Pierre de cachot;Roches et nature;0,5x0,5;Roches et nature/Pierre de cachot (0,5x0,5).png;stone_jail
+Pierre de lave (1);Roches et nature;0,5x0,5;Roches et nature/Pierre de lave (1) (0,5x0,5).png;lavastone01
+Pierre de lave (2);Roches et nature;0,5x0,5;Roches et nature/Pierre de lave (2) (0,5x0,5).png;lavastone02
+Rocher (1);Roches et nature;0,5x0,5;Roches et nature/Rocher (1) (0,5x0,5).png;stone01
+Rocher (2);Roches et nature;0,5x0,5;Roches et nature/Rocher (2) (0,5x0,5).png;stone02
+Stalagmite;Roches et nature;0,5x0,5;Roches et nature/Stalagmite (0,5x0,5).png;stalagmite
+Toile d'araignée (1);Roches et nature;2,5x4,5;Roches et nature/Toile d'araignée (1) (2,5x4,5).png;spider_web
+Toile d'araignée (2);Roches et nature;0,5x0,5;Roches et nature/Toile d'araignée (2) (0,5x0,5).png;spider_web_2
+Toile d'araignée déchirée;Roches et nature;2,5x1;Roches et nature/Toile d'araignée déchirée (2,5x1).png;spider_web_broken
+Éboulis;Roches et nature;4x3;Roches et nature/Éboulis (4x3).png;boulders
+Éboulis cassé;Roches et nature;2x2;Roches et nature/Éboulis cassé (2x2).png;boulders_broken
+Œuf d'araignée;Roches et nature;0,5x0,5;Roches et nature/Œuf d'araignée (0,5x0,5).png;spider_egg
+Tenture;Tentures;2x0,5;Tentures/Tenture (2x0,5).png;hanging
+Tenture (2);Tentures;2x0,5;Tentures/Tenture (2) (2x0,5).png;hanging2
+Tenture des femmes-serpents;Tentures;2x0,5;Tentures/Tenture des femmes-serpents (2x0,5).png;snake_woman_hangings
+Tenture du temple d'Akbaa;Tentures;1,5x0,5;Tentures/Tenture du temple d'Akbaa (1,5x0,5).png;hanging_temple_akbaa
+Cercueil;Tombes et statues;1,5x3;Tombes et statues/Cercueil (1,5x3).png;coffin
+Couvercle de tombe;Tombes et statues;1x2,5;Tombes et statues/Couvercle de tombe (1x2,5).png;sarcophage
+Grand couvercle de tombe;Tombes et statues;3,5x1,5;Tombes et statues/Grand couvercle de tombe (3,5x1,5).png;sarcophagebig
+Grande pierre tombale;Tombes et statues;1,5x0,5;Tombes et statues/Grande pierre tombale (1,5x0,5).png;gravestone_big
+Pierre tombale;Tombes et statues;1,5x0,5;Tombes et statues/Pierre tombale (1,5x0,5).png;grave_stone
+Pierre à énigme;Tombes et statues;0,5x0,5;Tombes et statues/Pierre à énigme (0,5x0,5).png;stone_riddle
+Plaque funéraire de métal;Tombes et statues;0,5x0,5;Tombes et statues/Plaque funéraire de métal (0,5x0,5).png;public_notice_crypt
+Sarcophage (1);Tombes et statues;1x2,5;Tombes et statues/Sarcophage (1) (1x2,5).png;sarcophage_l19
+Sarcophage (2);Tombes et statues;1,5x2,5;Tombes et statues/Sarcophage (2) (1,5x2,5).png;sarcophage_l6_r03
+Sarcophage d'Akbaa;Tombes et statues;1,5x3;Tombes et statues/Sarcophage d'Akbaa (1,5x3).png;l1_sarco_akbaa
+Statue;Tombes et statues;1x1;Tombes et statues/Statue (1x1).png;statue
+Statue de Tirkio;Tombes et statues;1x1;Tombes et statues/Statue de Tirkio (1x1).png;statue_tirkio
+Statue de femme-serpent;Tombes et statues;1,5x2,5;Tombes et statues/Statue de femme-serpent (1,5x2,5).png;statue_snake_woman
+Statue de gardien;Tombes et statues;1x1;Tombes et statues/Statue de gardien (1x1).png;statue_guardian
+Statue à l'épée;Tombes et statues;1x1;Tombes et statues/Statue à l'épée (1x1).png;statue_sword
+Stèle (1);Tombes et statues;1x0,5;Tombes et statues/Stèle (1) (1x0,5).png;tombstone_vertikal17
+Stèle (2);Tombes et statues;1x0,5;Tombes et statues/Stèle (2) (1x0,5).png;tombstone_vertikal19
+Stèle (3);Tombes et statues;1x0,5;Tombes et statues/Stèle (3) (1x0,5).png;tombstone_vertikal22
+Vitrail de crypte;Tombes et statues;1,5x0,5;Tombes et statues/Vitrail de crypte (1,5x0,5).png;glass_crypt
+Épée de statue;Tombes et statues;0,5x0,5;Tombes et statues/Épée de statue (0,5x0,5).png;sword_statue
+Épée à deux mains de statue;Tombes et statues;0,5x0,5;Tombes et statues/Épée à deux mains de statue (0,5x0,5).png;sword_2handed_statue
+Diamant;Trésors;0,5x0,5;Trésors/Diamant (0,5x0,5).png;diamond
+Gemme dans le mur;Trésors;0,5x0,5;Trésors/Gemme dans le mur (0,5x0,5).png;gem_inwall
+Gros bloc de mithril;Trésors;1x1;Trésors/Gros bloc de mithril (1x1).png;mithril_chunk_big
+Mithril dans le mur;Trésors;1x1;Trésors/Mithril dans le mur (1x1).png;mithril_chunk_inwall
+Morceau de métal dans le mur;Trésors;0,5x0,5;Trésors/Morceau de métal dans le mur (0,5x0,5).png;metal_chunk_inwall
+Métal dans le mur;Trésors;0,5x0,5;Trésors/Métal dans le mur (0,5x0,5).png;metal_in_wall
+Pépite d'or dans le mur;Trésors;0,5x0,5;Trésors/Pépite d'or dans le mur (0,5x0,5).png;gold_chunk_inwall
+Rubis dans le mur;Trésors;0,5x0,5;Trésors/Rubis dans le mur (0,5x0,5).png;ruby_inwall
+Émeraude dans le mur;Trésors;0,5x0,5;Trésors/Émeraude dans le mur (0,5x0,5).png;emerald_inwall
+Assiette de galettes gobelines crues;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Assiette de galettes gobelines crues (0,5x0,5).png;plate_goblin_cakes_rare
+Assiette de galettes gobelines cuites;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Assiette de galettes gobelines cuites (0,5x0,5).png;plate_goblin_cakes_cooked
+Assiette propre;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Assiette propre (0,5x0,5).png;plate_clean
+Assiette sale;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Assiette sale (0,5x0,5).png;plate_dirty
+Cafetière naine;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Cafetière naine (0,5x0,5).png;dwarf_pot_coffee
+Chope;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Chope (0,5x0,5).png;mug
+Chope de bière (2);Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Chope de bière (2) (0,5x0,5).png;mug_full2
+Fourchette;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Fourchette (0,5x0,5).png;fork
+Jarre;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Jarre (0,5x0,5).png;jar
+Marmite naine fermée;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Marmite naine fermée (0,5x0,5).png;dwarf_pot_closed
+Pot à couverts nain;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Pot à couverts nain (0,5x0,5).png;dwarf_pot_forks
+Poêle naine;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Poêle naine (0,5x0,5).png;dwarf_pan
+Seau;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Seau (0,5x0,5).png;bucket
+Feu de camp;Éclairage et feux;1x1;Éclairage et feux/Feu de camp (1x1).png;fire_camp
+Lampe (1);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe (1) (0,5x0,5).png;lamp_human1
+Lampe (2);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe (2) (0,5x0,5).png;lamp_human2
+Lampe (3);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe (3) (0,5x0,5).png;lamp_human3
+Lampe des chambres du palais;Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe des chambres du palais (0,5x0,5).png;lamp_human_palace_room
+Lampe du palais;Éclairage et feux;1x0,5;Éclairage et feux/Lampe du palais (1x0,5).png;lamp_human_palace
+Lampe du temple du serpent (1);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe du temple du serpent (1) (0,5x0,5).png;lamp_snake1
+Lampe du temple du serpent (2);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe du temple du serpent (2) (0,5x0,5).png;lamp_snake2
+Lampe gobeline (1);Éclairage et feux;1x1;Éclairage et feux/Lampe gobeline (1) (1x1).png;lamp_goblin1
+Lampe gobeline (2);Éclairage et feux;1x1;Éclairage et feux/Lampe gobeline (2) (1x1).png;lamp_goblin2
+Lampe gobeline (3);Éclairage et feux;1x1;Éclairage et feux/Lampe gobeline (3) (1x1).png;lamp_goblin3
+Lampe serpent (1);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe serpent (1) (0,5x0,5).png;lamp_human_snake1
+Lampe serpent (2);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe serpent (2) (0,5x0,5).png;lamp_human_snake2
+Lampe à huile;Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe à huile (0,5x0,5).png;oil_lamp
+Torche murale;Éclairage et feux;0,5x0,5;Éclairage et feux/Torche murale (0,5x0,5).png;lamp_human_torch1

@@ -1,0 +1,290 @@
+﻿nom;categorie;cases;fichier;modele_jeu;description_jeu
+Arc;Armes;1x3;Armes/Arc (1x3).png;bow;A bow (DMG+6 Required: 30 Projectile).
+Arc (à plat);Armes;3x1;Armes/Arc (à plat) (3x1).png;bow_mx;
+Dague;Armes;1x1;Armes/Dague (1x1).png;dagger;A dagger (DMG+2).
+Dague d'assassin;Armes;1x2;Armes/Dague d'assassin (1x2).png;dagger_assassin;A poisoned, eminently accurate assassin's dagger of stealth (DMG+5 Critical+50% Stealth+10% Required: 14 DEX ).
+Dague ornée;Armes;1x1;Armes/Dague ornée (1x1).png;dagger_jeweld;A bejeweled dagger of extra damage (DMG+5).
+Dague ornée en mithril;Armes;1x1;Armes/Dague ornée en mithril (1x1).png;(variante du MJ);dagger_jeweld recoloree a la palette de sabre_mithril
+Flèche;Armes;1x2;Armes/Flèche (1x2).png;arrow;An arrow.
+Flèches (paquet 2);Armes;1x2;Armes/Flèches (paquet 2) (1x2).png;arrows_2;
+Flèches (paquet);Armes;1x2;Armes/Flèches (paquet) (1x2).png;arrows;Some arrows.
+Gourdin;Armes;1x2;Armes/Gourdin (1x2).png;club;
+Hache;Armes;1x2;Armes/Hache (1x2).png;axe;An axe (DMG+5 Required: 8 ST).
+Hache à deux mains;Armes;1x3;Armes/Hache à deux mains (1x3).png;axe_2handed;A two-handed axe (DMG+12 Required: 14 ST 50 Close Combat).
+Sabre;Armes;1x3;Armes/Sabre (1x3).png;sabre;A saber (DMG+6 Required: 8 ST 50 Close Combat).
+Sabre en mithril;Armes;1x3;Armes/Sabre en mithril (1x3).png;sabre_mithril;A mithril saber (DMG+10).
+Sabre maudit ylside;Armes;1x2;Armes/Sabre maudit ylside (1x2).png;sabre_ylside;A cursed saber (DMG+0 ST-8 DEX-8 CO-8 Protection from Magic -100%).
+Sabre météore;Armes;1x3;Armes/Sabre météore (1x3).png;sabre_meteor;A meteor saber (DMG+20).
+Sabre météore enchanté;Armes;1x3;Armes/Sabre météore enchanté (1x3).png;sabre_meteor_enchant;A meteor saber (DMG+25).
+Tueuse de géants;Armes;1x3;Armes/Tueuse de géants (1x3).png;giant_slayer;A slayer blade (DMG+11 AC+3 Critical+10% Stealth-10% Required: 14 ST 60 Close Combat).
+Épée courte;Armes;1x2;Armes/Épée courte (1x2).png;short_sword;A short sword (DMG+4).
+Épée d'Achanta (drain de vie);Armes;3x1;Armes/Épée d'Achanta (drain de vie) (3x1).png;long_sword_recovery;Achanta's sword of drain blood. (DMG+6 Life Drain Required: 10 ST 40 Close Combat)
+Épée en mithril à deux mains;Armes;1x3;Armes/Épée en mithril à deux mains (1x3).png;sword_2handed_mithril;A two-handed mithril sword (DMG+20 AC+5 Stealth-10%).
+Épée longue;Armes;1x3;Armes/Épée longue (1x3).png;long_sword;A long sword (DMG+5 Required: 10 ST 40 Close Combat).
+Épée longue (grande icône);Armes;3x3;Armes/Épée longue (grande icône) (3x3).png;sword_mx;
+Épée longue de Ciprian;Armes;1x3;Armes/Épée longue de Ciprian (1x3).png;long_sword_ciprian;Ciprian long sword of Force (DMG+7 ST+1 CO+1 AC+1 Required: 10 ST 40 Close Combat).
+Épée longue ornée;Armes;1x3;Armes/Épée longue ornée (1x3).png;long_sword_jeweld;A bejeweled long-sword of extra damage (DMG+8 AC+1 Required: 10 ST 40 Close Combat).
+Épée longue plume;Armes;1x3;Armes/Épée longue plume (1x3).png;long_sword_feather;An accurate feather-fine long-sword (DMG+6 Critical+20% Required: 10 ST 40 Close Combat).
+Épée météore à deux mains;Armes;1x3;Armes/Épée météore à deux mains (1x3).png;sword_2handed_meteor;A two-handed meteor sword (DMG+30 AC+8 Stealth-10%).
+Épée météore à deux mains enchantée;Armes;1x3;Armes/Épée météore à deux mains enchantée (1x3).png;sword_2handed_meteor_enchant;A two-handed meteor sword (DMG+40 AC+8 Stealth-10%).
+Épée à deux mains;Armes;1x3;Armes/Épée à deux mains (1x3).png;sword_2handed;A two-handed sword (DMG+10 AC+3 Required: 12 ST 60 Close Combat).
+Épée à deux mains forgée;Armes;1x3;Armes/Épée à deux mains forgée (1x3).png;sword_2handed_forged;A two-handed sword (DMG+15 AC+6 Required: 12 ST 50 Close Combat).
+Bouclier de bois;Armures;2x2;Armures/Bouclier de bois (2x2).png;shield;
+Bouclier de métal;Armures;2x2;Armures/Bouclier de métal (2x2).png;shield_metal;A metal shield (AC+3 Stealth-5% Required: 10 ST).
+Bouclier des Anciens;Armures;2x3;Armures/Bouclier des Anciens (2x3).png;shield_elders;
+Casque de cuir noir;Armures;1x1;Armures/Casque de cuir noir (1x1).png;helmet_leather_stealth;
+Casque de mailles;Armures;1x1;Armures/Casque de mailles (1x1).png;helmet_chain;
+Casque en mithril;Armures;1x1;Armures/Casque en mithril (1x1).png;helmet_mythril;
+Cotte de mailles;Armures;2x3;Armures/Cotte de mailles (2x3).png;chest_chain;
+Cotte de mailles des dissidents;Armures;2x3;Armures/Cotte de mailles des dissidents (2x3).png;chest_chain_dissident;
+Cotte de mailles en mithril;Armures;2x3;Armures/Cotte de mailles en mithril (2x3).png;chest_mythril;
+Cuirasse Ylside;Armures;2x3;Armures/Cuirasse Ylside (2x3).png;ylside_armor;Ylside chest armor (AC+38 ST+3 Protection from Magic+20% Stealth-20%).
+Cuirasse de plates;Armures;2x2;Armures/Cuirasse de plates (2x2).png;chest_plate;
+Cuirasse de plates enchantée;Armures;2x2;Armures/Cuirasse de plates enchantée (2x2).png;chest_plate_cm;
+Cuirasse de plates renforcée;Armures;2x2;Armures/Cuirasse de plates renforcée (2x2).png;chest_plate_ac;
+Heaume de Poxsellis;Armures;1x2;Armures/Heaume de Poxsellis (1x2).png;helmet_poxsellis;Poxsellis' helmet (AC+10 Casting-3% Stealth-5% Dispell Illusions).
+Heaume de plates;Armures;1x1;Armures/Heaume de plates (1x1).png;helmet_plate;
+Heaume de plates enchanté;Armures;1x1;Armures/Heaume de plates enchanté (1x1).png;helmet_plate_cm;
+Heaume de plates renforcé;Armures;1x1;Armures/Heaume de plates renforcé (1x1).png;helmet_plate_ac;
+Jambières Ylside;Armures;2x3;Armures/Jambières Ylside (2x3).png;ylside_leggings;Ylside leggings (AC+30 ST+2 Protection from Magic+20% Stealth-20%).
+Jambières de cuir;Armures;2x3;Armures/Jambières de cuir (2x3).png;legging_leather;
+Jambières de cuir noir;Armures;2x3;Armures/Jambières de cuir noir (2x3).png;legging_leather_stealth;
+Jambières de cuir renforcées;Armures;2x3;Armures/Jambières de cuir renforcées (2x3).png;legging_leather_ac;
+Jambières de mailles;Armures;2x3;Armures/Jambières de mailles (2x3).png;legging_chain;
+Jambières de mailles des dissidents;Armures;2x3;Armures/Jambières de mailles des dissidents (2x3).png;legging_chain_dissident;
+Jambières de plates;Armures;2x3;Armures/Jambières de plates (2x3).png;legging_plate;
+Jambières de plates enchantées;Armures;2x3;Armures/Jambières de plates enchantées (2x3).png;legging_plate_cm;
+Jambières de plates renforcées;Armures;2x3;Armures/Jambières de plates renforcées (2x3).png;legging_plate_ac;
+Jambières en mithril;Armures;2x3;Armures/Jambières en mithril (2x3).png;legging_mythril;
+Pavois;Armures;2x3;Armures/Pavois (2x3).png;shield_tower_metal;
+Plastron de cuir;Armures;2x2;Armures/Plastron de cuir (2x2).png;chest_leather;
+Plastron de cuir noir;Armures;2x2;Armures/Plastron de cuir noir (2x2).png;chest_leather_stealth;
+Plastron de cuir renforcé;Armures;2x2;Armures/Plastron de cuir renforcé (2x2).png;chest_leather_ac;
+Anneau d'argent;Bijoux et trésors;1x1;Bijoux et trésors/Anneau d'argent (1x1).png;silver_ring;A silver ring.
+Anneau d'or;Bijoux et trésors;1x1;Bijoux et trésors/Anneau d'or (1x1).png;gold_ring;A gold ring.
+Bracelet;Bijoux et trésors;1x1;Bijoux et trésors/Bracelet (1x1).png;bracelet;A bracelet.
+Collier;Bijoux et trésors;1x1;Bijoux et trésors/Collier (1x1).png;necklace;A necklace.
+Coupe en or;Bijoux et trésors;1x1;Bijoux et trésors/Coupe en or (1x1).png;gold_cup;A golden cup.
+Diamant;Bijoux et trésors;1x1;Bijoux et trésors/Diamant (1x1).png;diamond;A diamond.
+Lingot d'or;Bijoux et trésors;1x1;Bijoux et trésors/Lingot d'or (1x1).png;gold_bar;A gold bar.
+Pierre précieuse;Bijoux et trésors;1x1;Bijoux et trésors/Pierre précieuse (1x1).png;gem;A gemstone.
+Pièces d'or (2);Bijoux et trésors;1x1;Bijoux et trésors/Pièces d'or (2) (1x1).png;gold_coin2;
+Pièces d'or (3);Bijoux et trésors;1x1;Bijoux et trésors/Pièces d'or (3) (1x1).png;gold_coin3;
+Pièces d'or (4);Bijoux et trésors;1x1;Bijoux et trésors/Pièces d'or (4) (1x1).png;gold_coin4;
+Pièces d'or (5);Bijoux et trésors;1x1;Bijoux et trésors/Pièces d'or (5) (1x1).png;gold_coin5;
+Pièces d'or (6);Bijoux et trésors;1x1;Bijoux et trésors/Pièces d'or (6) (1x1).png;gold_coin6;
+Pièces d'or (7);Bijoux et trésors;1x1;Bijoux et trésors/Pièces d'or (7) (1x1).png;gold_coin7;
+Pièces d'or (tas);Bijoux et trésors;1x1;Bijoux et trésors/Pièces d'or (tas) (1x1).png;gold_coin;
+Rubis;Bijoux et trésors;1x1;Bijoux et trésors/Rubis (1x1).png;ruby;A ruby.
+Émeraude;Bijoux et trésors;1x1;Bijoux et trésors/Émeraude (1x1).png;emerald;An emerald.
+Anneau d'argent simple;Magie;1x1;Magie/Anneau d'argent simple (1x1).png;ring;
+Anneau d'incantation;Magie;1x1;Magie/Anneau d'incantation (1x1).png;ring_casting;
+Anneau d'invisibilité;Magie;1x1;Magie/Anneau d'invisibilité (1x1).png;ring_invisibility;An invisibility ring.
+Anneau d'invisibilité forgé;Magie;1x1;Magie/Anneau d'invisibilité forgé (1x1).png;ring_invisibility_handmade;
+Anneau de Daarka (résistance à la magie);Magie;1x1;Magie/Anneau de Daarka (résistance à la magie) (1x1).png;ring_daarka;A Daarka ring of magic resistance (Protection from Magic+20% AC-20%).
+Anneau de grande intuition;Magie;1x1;Magie/Anneau de grande intuition (1x1).png;ring_water_point;A ring of greater intuition (Intuition+10%).
+Anneau de maître Anselmo;Magie;1x1;Magie/Anneau de maître Anselmo (1x1).png;ring_master_anselmo;Master Anselmo's ring (Poison Resistance+20% CO+1).
+Anneau de misère;Magie;1x1;Magie/Anneau de misère (1x1).png;ring_misery;A cursed ring of misery (ST-2 DEX-2 CO-2 INT-2).
+Anneau de protection;Magie;1x1;Magie/Anneau de protection (1x1).png;ring_protection;A ring of general protection (AC+10% Protection from Magic+10% Poison Resistance+10%).
+Anneau de régénération;Magie;1x1;Magie/Anneau de régénération (1x1).png;ring_regeneration;A regeneration ring.
+Anneau de régénération forgé;Magie;1x1;Magie/Anneau de régénération forgé (1x1).png;ring_regeneration_handmade;
+Anneau des héros;Magie;1x1;Magie/Anneau des héros (1x1).png;ring_oliver;Ring of heroes (ST+1 DEX+1 CO+1 INT+1).
+Anneau maudit;Magie;1x1;Magie/Anneau maudit (1x1).png;ring_curse;A curse ring (ST-5 DEX-5).
+Cœur de golem;Magie;1x1;Magie/Cœur de golem (1x1).png;golem_heart;A golem's heart.
+Fiole de poudre blanche;Magie;1x1;Magie/Fiole de poudre blanche (1x1).png;potion2bewhite;A bottle full of white powder.
+Fiole de poudre bleue;Magie;1x1;Magie/Fiole de poudre bleue (1x1).png;potion2beblue;A bottle full of blue powder.
+Fiole de poudre orange;Magie;1x1;Magie/Fiole de poudre orange (1x1).png;potion2beorange;A bottle full of orange powder.
+Fiole de poudre verte;Magie;1x1;Magie/Fiole de poudre verte (1x1).png;potion2begreen;A bottle full of green powder.
+Fiole de poudre violette;Magie;1x1;Magie/Fiole de poudre violette (1x1).png;potion2bepurple;A bottle full of purple powder.
+Fleur de perce-neige;Magie;1x1;Magie/Fleur de perce-neige (1x1).png;snow_drop;
+Fleur de volubilis;Magie;1x1;Magie/Fleur de volubilis (1x1).png;morning_glory;A morning glory flower.
+Fougère;Magie;1x1;Magie/Fougère (1x1).png;fern;A fern.
+Herbes médicinales;Magie;1x1;Magie/Herbes médicinales (1x1).png;medicinal_herb;Some medicinal herbs.
+Nénuphar;Magie;1x1;Magie/Nénuphar (1x1).png;waterlily;
+Parchemin;Magie;1x1;Magie/Parchemin (1x1).png;scroll_generic;
+Parchemin (variante 10);Magie;1x1;Magie/Parchemin (variante 10) (1x1).png;scroll_generic;
+Parchemin (variante 2);Magie;1x1;Magie/Parchemin (variante 2) (1x1).png;scroll_generic;
+Parchemin (variante 3);Magie;1x1;Magie/Parchemin (variante 3) (1x1).png;scroll_generic;
+Parchemin (variante 4);Magie;1x1;Magie/Parchemin (variante 4) (1x1).png;scroll_generic;
+Parchemin (variante 5);Magie;1x1;Magie/Parchemin (variante 5) (1x1).png;scroll_generic;
+Parchemin (variante 6);Magie;1x1;Magie/Parchemin (variante 6) (1x1).png;scroll_generic;
+Parchemin (variante 7);Magie;1x1;Magie/Parchemin (variante 7) (1x1).png;scroll_generic;
+Parchemin (variante 8);Magie;1x1;Magie/Parchemin (variante 8) (1x1).png;scroll_generic;
+Parchemin (variante 9);Magie;1x1;Magie/Parchemin (variante 9) (1x1).png;scroll_generic;
+Pierre de pouvoir;Magie;1x2;Magie/Pierre de pouvoir (1x2).png;power_stone;A power stone.
+Potion antidote;Magie;1x1;Magie/Potion antidote (1x1).png;potion_green;
+Potion d'invisibilité;Magie;1x1;Magie/Potion d'invisibilité (1x1).png;potion_invisible;
+Potion de mana;Magie;1x1;Magie/Potion de mana (1x1).png;potion_mana;
+Potion de soin;Magie;1x1;Magie/Potion de soin (1x1).png;potion_life;
+Potion violette;Magie;1x1;Magie/Potion violette (1x1).png;potion_purple;
+Poudre antidote;Magie;1x1;Magie/Poudre antidote (1x1).png;powder_antidote;Antidote powder.
+Poudre d'os;Magie;1x1;Magie/Poudre d'os (1x1).png;powder_bone;
+Poudre d'os de dragon;Magie;1x1;Magie/Poudre d'os de dragon (1x1).png;dragon_bone_powder;
+Poudre de fougère;Magie;1x1;Magie/Poudre de fougère (1x1).png;powder_fern;
+Poudre de nénuphar;Magie;1x1;Magie/Poudre de nénuphar (1x1).png;powder_water_lily;
+Poudre de perce-neige;Magie;1x1;Magie/Poudre de perce-neige (1x1).png;powder_snow_drop;
+Poudre de volubilis;Magie;1x1;Magie/Poudre de volubilis (1x1).png;powder_morning_glory;
+Rune Aam;Magie;1x1;Magie/Rune Aam (1x1).png;rune_aam;
+Rune Cetrius;Magie;1x1;Magie/Rune Cetrius (1x1).png;rune_cetrius;
+Rune Comunicatum;Magie;1x1;Magie/Rune Comunicatum (1x1).png;rune_comunicatum;
+Rune Cosum;Magie;1x1;Magie/Rune Cosum (1x1).png;rune_cosum;
+Rune Folgora;Magie;1x1;Magie/Rune Folgora (1x1).png;rune_folgora;
+Rune Fridd;Magie;1x1;Magie/Rune Fridd (1x1).png;rune_fridd;
+Rune Kaom;Magie;1x1;Magie/Rune Kaom (1x1).png;rune_kaom;
+Rune Mega;Magie;1x1;Magie/Rune Mega (1x1).png;rune_mega;
+Rune Morte;Magie;1x1;Magie/Rune Morte (1x1).png;rune_morte;
+Rune Movis;Magie;1x1;Magie/Rune Movis (1x1).png;rune_movis;
+Rune Nhi;Magie;1x1;Magie/Rune Nhi (1x1).png;rune_nhi;
+Rune Rhaa;Magie;1x1;Magie/Rune Rhaa (1x1).png;rune_rhaa;
+Rune Spacium;Magie;1x1;Magie/Rune Spacium (1x1).png;rune_spacium;
+Rune Stregum;Magie;1x1;Magie/Rune Stregum (1x1).png;rune_stregum;
+Rune Taar;Magie;1x1;Magie/Rune Taar (1x1).png;rune_taar;
+Rune Tempus;Magie;1x1;Magie/Rune Tempus (1x1).png;rune_tempus;
+Rune Tera;Magie;1x1;Magie/Rune Tera (1x1).png;rune_tera;
+Rune Vista;Magie;1x1;Magie/Rune Vista (1x1).png;rune_vista;
+Rune Vitae;Magie;1x1;Magie/Rune Vitae (1x1).png;rune_vitae;
+Rune Yok;Magie;1x1;Magie/Rune Yok (1x1).png;rune_yok;
+Action de mine gobeline;Objets de quête;1x1;Objets de quête/Action de mine gobeline (1x1).png;actions_mines;
+Amulette de grande chance;Objets de quête;1x1;Objets de quête/Amulette de grande chance (1x1).png;amulet_great_luck;
+Amulette rouge;Objets de quête;1x1;Objets de quête/Amulette rouge (1x1).png;amulet_red;A red amulet.
+Amulette troll;Objets de quête;1x1;Objets de quête/Amulette troll (1x1).png;amulet_troll;A troll's amulet.
+Autorisation gobeline signée;Objets de quête;1x1;Objets de quête/Autorisation gobeline signée (1x1).png;signed_form;A signed goblin authorization.
+Autorisation gobeline vierge;Objets de quête;1x1;Objets de quête/Autorisation gobeline vierge (1x1).png;blank_form;An unsigned goblin authorization.
+Bloc de mur de prison;Objets de quête;1x1;Objets de quête/Bloc de mur de prison (1x1).png;jail_stone;
+Clé de Calpale;Objets de quête;1x1;Objets de quête/Clé de Calpale (1x1).png;key_calpale;
+Clé de l'armurerie gobeline;Objets de quête;1x1;Objets de quête/Clé de l'armurerie gobeline (1x1).png;key_gob_weap;
+Clé de la banque;Objets de quête;1x1;Objets de quête/Clé de la banque (1x1).png;key_bank;The key to the bank.
+Clé de la crypte;Objets de quête;1x1;Objets de quête/Clé de la crypte (1x1).png;key_crypt;
+Clé du coffre de l'idole gobeline;Objets de quête;1x1;Objets de quête/Clé du coffre de l'idole gobeline (1x1).png;key_gob_chest_idol;
+Clé du trésor gobelin;Objets de quête;1x1;Objets de quête/Clé du trésor gobelin (1x1).png;key_gob_treasure;
+Dose de sédatif;Objets de quête;1x1;Objets de quête/Dose de sédatif (1x1).png;sedative_dose;
+Grand orbe brillant;Objets de quête;1x2;Objets de quête/Grand orbe brillant (1x2).png;shiny_orb_end;
+Idole troll;Objets de quête;2x2;Objets de quête/Idole troll (2x2).png;troll_idol;A troll idol.
+Instrument sacrificiel;Objets de quête;1x1;Objets de quête/Instrument sacrificiel (1x1).png;ritual_blooding_device;A sacrificial implement.
+Instrument sacrificiel ensanglanté;Objets de quête;1x1;Objets de quête/Instrument sacrificiel ensanglanté (1x1).png;ritual_blooding_device_blood;
+Joyau troll;Objets de quête;1x1;Objets de quête/Joyau troll (1x1).png;jewel_troll;
+Krahoz;Objets de quête;1x1;Objets de quête/Krahoz (1x1).png;krahoz;Krahoz
+Krahoz et Zohark réunis;Objets de quête;2x3;Objets de quête/Krahoz et Zohark réunis (2x3).png;krahoz&zohark;
+Laissez-passer de la Dague Sacrée;Objets de quête;1x1;Objets de quête/Laissez-passer de la Dague Sacrée (1x1).png;dissident_key;
+Licence de marchand de gemmes;Objets de quête;1x1;Objets de quête/Licence de marchand de gemmes (1x1).png;gem_dealer_badge;A gem dealer's license.
+Lingot de mithril;Objets de quête;1x1;Objets de quête/Lingot de mithril (1x1).png;ingot_mythril;A piece of cast mithril.
+Lingot de mithril à la roche de Koltk;Objets de quête;1x1;Objets de quête/Lingot de mithril à la roche de Koltk (1x1).png;ingot_mythril_koltk;A piece of cast mithril melded with Koltk rock.
+Lingot de métal;Objets de quête;1x1;Objets de quête/Lingot de métal (1x1).png;ingot_metal;A piece of cast metal.
+Livre;Objets de quête;1x1;Objets de quête/Livre (1x1).png;book;A book.
+Livre (1);Objets de quête;1x1;Objets de quête/Livre (1) (1x1).png;book1;
+Livre (2);Objets de quête;1x1;Objets de quête/Livre (2) (1x1).png;book2;
+Livre (3);Objets de quête;1x1;Objets de quête/Livre (3) (1x1).png;book3;
+Livre (4);Objets de quête;1x1;Objets de quête/Livre (4) (1x1).png;book4;
+Livre (5);Objets de quête;1x1;Objets de quête/Livre (5) (1x1).png;book5;
+Livre (6);Objets de quête;1x1;Objets de quête/Livre (6) (1x1).png;book6;
+Livre (7);Objets de quête;1x1;Objets de quête/Livre (7) (1x1).png;book7;
+Livre - Paysages du monde extérieur;Objets de quête;1x1;Objets de quête/Livre - Paysages du monde extérieur (1x1).png;bookgreu;
+Mastic de boue;Objets de quête;1x1;Objets de quête/Mastic de boue (1x1).png;mud_putty;Some mud putty.
+Miroir;Objets de quête;2x2;Objets de quête/Miroir (2x2).png;mirror;A mirror.
+Morceau de mithril;Objets de quête;1x1;Objets de quête/Morceau de mithril (1x1).png;mithril_chunk;A chunk of mithril.
+Morceau de métal;Objets de quête;1x1;Objets de quête/Morceau de métal (1x1).png;metal_chunk;A chunk of metal.
+Moule d'épée;Objets de quête;2x3;Objets de quête/Moule d'épée (2x3).png;mauld_sabre;
+Moule d'épée à deux mains;Objets de quête;3x2;Objets de quête/Moule d'épée à deux mains (3x2).png;mauld_2sword;A mold to make a two-handed sword.
+Moule de clé;Objets de quête;1x1;Objets de quête/Moule de clé (1x1).png;mauld_key;A mold to make a key.
+Note manuscrite;Objets de quête;1x1;Objets de quête/Note manuscrite (1x1).png;note;A piece of paper with writing on it.
+Note manuscrite (2);Objets de quête;1x1;Objets de quête/Note manuscrite (2) (1x1).png;note2;
+Orbe brillant;Objets de quête;1x1;Objets de quête/Orbe brillant (1x1).png;shiny_orb;A shiny orb.
+Orbe de la crypte;Objets de quête;1x1;Objets de quête/Orbe de la crypte (1x1).png;puzzle_orb_crypt;
+Ossements de noyé;Objets de quête;2x2;Objets de quête/Ossements de noyé (2x2).png;drowned_bones;
+Petite clé d'or;Objets de quête;1x1;Objets de quête/Petite clé d'or (1x1).png;key_oliverquest;A little gold key.
+Petite clé de métal;Objets de quête;1x1;Objets de quête/Petite clé de métal (1x1).png;key_base;
+Petite clé de métal (2);Objets de quête;1x1;Objets de quête/Petite clé de métal (2) (1x1).png;key_base2;
+Petite clé de métal (3);Objets de quête;1x1;Objets de quête/Petite clé de métal (3) (1x1).png;key_base3;
+Petite clé de métal (4);Objets de quête;1x1;Objets de quête/Petite clé de métal (4) (1x1).png;key_base4;
+Pierre gravée (1);Objets de quête;1x1;Objets de quête/Pierre gravée (1) (1x1).png;puzzle_stone01;
+Pierre gravée (2);Objets de quête;1x1;Objets de quête/Pierre gravée (2) (1x1).png;puzzle_stone02;
+Pierre gravée (3);Objets de quête;1x1;Objets de quête/Pierre gravée (3) (1x1).png;puzzle_stone03;
+Pierre gravée (4);Objets de quête;1x1;Objets de quête/Pierre gravée (4) (1x1).png;puzzle_stone04;
+Pierre gravée (5);Objets de quête;1x1;Objets de quête/Pierre gravée (5) (1x1).png;puzzle_stone05;
+Pierre gravée (6);Objets de quête;1x1;Objets de quête/Pierre gravée (6) (1x1).png;puzzle_stone06;
+Poudre de Koltk;Objets de quête;1x1;Objets de quête/Poudre de Koltk (1x1).png;koltk_powder;Some Koltk powder.
+Pépite d'or;Objets de quête;1x1;Objets de quête/Pépite d'or (1x1).png;gold_chunk;A chunk of gold.
+Roche d'Akbaa;Objets de quête;1x2;Objets de quête/Roche d'Akbaa (1x2).png;rock_akbaa;Akbaa's rock.
+Roche d'Amikar;Objets de quête;1x1;Objets de quête/Roche d'Amikar (1x1).png;rock_amikar;Amikar's rock.
+Sang;Objets de quête;1x1;Objets de quête/Sang (1x1).png;blood;Some blood.
+Serpent d'or;Objets de quête;1x2;Objets de quête/Serpent d'or (1x2).png;golden_snake;
+Serpent d'or (faux);Objets de quête;1x2;Objets de quête/Serpent d'or (faux) (1x2).png;fake_golden_snake;A golden snake (fake).
+Vieux serpent d'or;Objets de quête;1x2;Objets de quête/Vieux serpent d'or (1x2).png;old_golden_snake;
+Zohark;Objets de quête;1x1;Objets de quête/Zohark (1x1).png;zohark;Zohark
+Échantillon de roche de Koltk;Objets de quête;1x1;Objets de quête/Échantillon de roche de Koltk (1x1).png;koltk_sample;A sample of Koltk rock.
+Œuf de dragon;Objets de quête;2x2;Objets de quête/Œuf de dragon (2x2).png;dragon_egg;A dragon's egg.
+Chope de bière (2);Objets divers;1x1;Objets divers/Chope de bière (2) (1x1).png;mug_full2;
+Crâne de troll (Mirette);Objets divers;1x1;Objets divers/Crâne de troll (Mirette) (1x1).png;mirette;
+Grosse pierre;Objets divers;1x1;Objets divers/Grosse pierre (1x1).png;stone_big;A heavy stone.
+Ail;Provisions et outils;1x1;Provisions et outils/Ail (1x1).png;garlic;Some garlic.
+Arêtes de poisson;Provisions et outils;1x1;Provisions et outils/Arêtes de poisson (1x1).png;food_fish_eaten;
+Bougie;Provisions et outils;1x2;Provisions et outils/Bougie (1x2).png;candel;
+Boussole;Provisions et outils;1x1;Provisions et outils/Boussole (1x1).png;compass;A compass.
+Bouteille d'eau;Provisions et outils;1x1;Provisions et outils/Bouteille d'eau (1x1).png;bottle_water;A bottle of water.
+Bouteille de sang;Provisions et outils;1x1;Provisions et outils/Bouteille de sang (1x1).png;bottle_blood;A bottle of blood.
+Bouteille de vin;Provisions et outils;1x1;Provisions et outils/Bouteille de vin (1x1).png;bottle_wine;A bottle of wine.
+Bouteille vide;Provisions et outils;1x1;Provisions et outils/Bouteille vide (1x1).png;bottle_empty;
+Burette d'huile;Provisions et outils;1x1;Provisions et outils/Burette d'huile (1x1).png;oil_can;
+Canne à pêche;Provisions et outils;1x3;Provisions et outils/Canne à pêche (1x3).png;fishing_pole;A fishing rod.
+Carotte;Provisions et outils;1x1;Provisions et outils/Carotte (1x1).png;carrot;A carrot.
+Champignon;Provisions et outils;1x1;Provisions et outils/Champignon (1x1).png;food_mushroom;
+Chope de bière;Provisions et outils;1x1;Provisions et outils/Chope de bière (1x1).png;mug_full;A beer.
+Corde;Provisions et outils;2x2;Provisions et outils/Corde (2x2).png;rope;A rope.
+Couchage;Provisions et outils;2x1;Provisions et outils/Couchage (2x1).png;bedroll;A bedroll.
+Crochets de serrurier;Provisions et outils;2x1;Provisions et outils/Crochets de serrurier (2x1).png;lockpicks;
+Cuisse de poulet;Provisions et outils;1x1;Provisions et outils/Cuisse de poulet (1x1).png;food_chicken;A chicken drumstick.
+Cuisse de poulet crue;Provisions et outils;1x1;Provisions et outils/Cuisse de poulet crue (1x1).png;food_chicken_uncooked;
+Côtes crues;Provisions et outils;2x1;Provisions et outils/Côtes crues (2x1).png;ribs;
+Côtes grillées;Provisions et outils;2x1;Provisions et outils/Côtes grillées (2x1).png;ribs_cooked;Some cooked ribs.
+Demi-pain;Provisions et outils;1x1;Provisions et outils/Demi-pain (1x1).png;bread_half;
+Farine;Provisions et outils;1x1;Provisions et outils/Farine (1x1).png;flour;Flour.
+Fromage;Provisions et outils;1x1;Provisions et outils/Fromage (1x1).png;cheese;Some cheese.
+Horloge;Provisions et outils;1x1;Provisions et outils/Horloge (1x1).png;clock;A clock.
+Lampe;Provisions et outils;1x2;Provisions et outils/Lampe (1x2).png;lamp;A lamp.
+Maillet;Provisions et outils;1x2;Provisions et outils/Maillet (1x2).png;hammer_club;
+Marteau;Provisions et outils;1x1;Provisions et outils/Marteau (1x1).png;hammer;
+Marteau (2);Provisions et outils;1x1;Provisions et outils/Marteau (2) (1x1).png;hammer2;
+Mortier et pilon;Provisions et outils;1x1;Provisions et outils/Mortier et pilon (1x1).png;crusher;A pestle and mortar.
+Os;Provisions et outils;1x1;Provisions et outils/Os (1x1).png;bone;A bone (DMG+1).
+Os de dragon;Provisions et outils;1x2;Provisions et outils/Os de dragon (1x2).png;dragon_bone;A dragon's bone.
+Pain;Provisions et outils;1x1;Provisions et outils/Pain (1x1).png;bread;
+Pelle;Provisions et outils;1x3;Provisions et outils/Pelle (1x3).png;shovel;A shovel.
+Perche;Provisions et outils;1x3;Provisions et outils/Perche (1x3).png;pole;A pole.
+Perche avec poisson;Provisions et outils;1x2;Provisions et outils/Perche avec poisson (1x2).png;pole_with_fish;
+Petites côtes crues;Provisions et outils;1x1;Provisions et outils/Petites côtes crues (1x1).png;ribs_mini;
+Petites côtes grillées;Provisions et outils;1x1;Provisions et outils/Petites côtes grillées (1x1).png;ribs_cooked_mini;
+Pioche;Provisions et outils;1x2;Provisions et outils/Pioche (1x2).png;pick_axe;A pickaxe.
+Poireau;Provisions et outils;1x2;Provisions et outils/Poireau (1x2).png;food_leek;
+Poisson cuit;Provisions et outils;1x1;Provisions et outils/Poisson cuit (1x1).png;food_fish_cooked;A cooked fish
+Poisson frais;Provisions et outils;1x1;Provisions et outils/Poisson frais (1x1).png;food_fish;Fresh fish.
+Pomme;Provisions et outils;1x1;Provisions et outils/Pomme (1x1).png;food_apple;An apple.
+Poulet rôti;Provisions et outils;1x1;Provisions et outils/Poulet rôti (1x1).png;roast_chicken;
+Pâte à pain;Provisions et outils;1x1;Provisions et outils/Pâte à pain (1x1).png;bread_uncooked;
+Sacoche;Provisions et outils;2x2;Provisions et outils/Sacoche (2x2).png;backpack;
+Tarte aux pommes;Provisions et outils;1x1;Provisions et outils/Tarte aux pommes (1x1).png;applepie;An apple pie.
+Tarte aux pommes au vin;Provisions et outils;1x1;Provisions et outils/Tarte aux pommes au vin (1x1).png;applepie_wine;
+Tarte aux pommes au vin crue;Provisions et outils;1x1;Provisions et outils/Tarte aux pommes au vin crue (1x1).png;applepie_uncooked_wine;
+Tarte aux pommes crue;Provisions et outils;1x1;Provisions et outils/Tarte aux pommes crue (1x1).png;applepie_uncooked;An uncooked apple pie.
+Torche;Provisions et outils;1x2;Provisions et outils/Torche (1x2).png;torch;A torch.
+Tourte;Provisions et outils;1x1;Provisions et outils/Tourte (1x1).png;pie;A pie.
+Tourte crue;Provisions et outils;1x1;Provisions et outils/Tourte crue (1x1).png;pie_uncooked;An uncooked pie.
+Trousseau (1 clé);Provisions et outils;1x1;Provisions et outils/Trousseau (1 clé) (1x1).png;keyring_1key;
+Trousseau (2 clés);Provisions et outils;1x1;Provisions et outils/Trousseau (2 clés) (1x1).png;keyring_2key;
+Trousseau (3 clés);Provisions et outils;1x1;Provisions et outils/Trousseau (3 clés) (1x1).png;keyring_3key;
+Trousseau plein;Provisions et outils;1x1;Provisions et outils/Trousseau plein (1x1).png;keyring_full;
+Trousseau vide;Provisions et outils;1x1;Provisions et outils/Trousseau vide (1x1).png;keyring;
+Bloc de mur;Spéciaux;1x1;Spéciaux/Bloc de mur (1x1).png;wall_block;A wall block.
+Chair de nain;Spéciaux;2x1;Spéciaux/Chair de nain (2x1).png;dwarf_ribs;
+Encens;Spéciaux;1x1;Spéciaux/Encens (1x1).png;incense;
+Flûte;Spéciaux;1x1;Spéciaux/Flûte (1x1).png;flute;A flute.
+Morceau de bois;Spéciaux;1x2;Spéciaux/Morceau de bois (1x2).png;piece_wood;A piece of wood.
+Morceau de cadavre;Spéciaux;1x1;Spéciaux/Morceau de cadavre (1x1).png;body_chunk;A bit of a corpse.
+Pieu béni;Spéciaux;1x1;Spéciaux/Pieu béni (1x1).png;stake_blessed;A blessed stake.
+Pieu de bois;Spéciaux;1x1;Spéciaux/Pieu de bois (1x1).png;stake;A wooden stake.
+Rouleau à pâtisserie;Spéciaux;2x1;Spéciaux/Rouleau à pâtisserie (2x1).png;rolling_pin;A rolling pin.
+Saucisse amicale;Spéciaux;1x1;Spéciaux/Saucisse amicale (1x1).png;sausage;A friendly sausage.
+Titre de propriété - araignée;Spéciaux;1x1;Spéciaux/Titre de propriété - araignée (1x1).png;deed_spider;A deed for a spider.
+Titre de propriété - chien;Spéciaux;1x1;Spéciaux/Titre de propriété - chien (1x1).png;deed_dog;A deed for a dog.
+Titre de propriété - poulet;Spéciaux;1x1;Spéciaux/Titre de propriété - poulet (1x1).png;deed_chicken;A deed for a chicken.
+Titre de propriété - rat;Spéciaux;1x1;Spéciaux/Titre de propriété - rat (1x1).png;deed_rat;A deed for a rat.
+Titre de propriété - saucisse;Spéciaux;1x1;Spéciaux/Titre de propriété - saucisse (1x1).png;deed_sausage;A deed for a sausage.

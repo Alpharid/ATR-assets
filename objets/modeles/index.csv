@@ -1,0 +1,804 @@
+file,model,category,footprint_x,footprint_y,height,px_per_unit,textures
+fix_inter\akbaa_puzzle.png,akbaa_puzzle,fix_inter,70,70,67,2.0,l4_ylside_[stone]_wall06 l4_ylside_[iron]_forge02
+fix_inter\akbaa_puzzle_done.png,akbaa_puzzle_done,fix_inter,70,70,92,2.0,l4_ylside_[stone]_wall06 item_rock_of_akbaa l4_ylside_[iron]_forge02
+fix_inter\altar_inter.png,altar_inter,fix_inter,155,74,0,2.0,alpha
+fix_inter\anvil.png,anvil,fix_inter,46,90,90,2.0,[metal]_dwarf1 [metal]_dwarf_wall1 [metal]_dwarf_wall2 l4_dwarf_[wood]_pillar03
+fix_inter\apparatus.png,apparatus,fix_inter,116,42,100,2.0,(wood) door [metal]_human_various1 [metal]_dwarf1 item_bottle empty [glass]_glass01
+fix_inter\arx_bell.png,arx_bell,fix_inter,200,200,170,2.0,
+fix_inter\arx_logo.png,arx_logo,fix_inter,196,28,229,2.0,[metal]_gold
+fix_inter\arx_main_door.png,arx_main_door,fix_inter,0,307,425,2.0,[stone] door
+fix_inter\arx_main_door2.png,arx_main_door2,fix_inter,308,23,150,2.0,(wood) door [metal]_human_various2
+fix_inter\barrel.png,barrel,fix_inter,104,102,120,2.0,fixinter_barrel
+fix_inter\barrel_tap.png,barrel_tap,fix_inter,14,16,9,2.0,(wood) door [wood]_floor
+fix_inter\bell.png,bell,fix_inter,37,37,50,2.0,fixinter_bell
+fix_inter\bellows.png,bellows,fix_inter,172,248,131,2.0,[wood]_chest_blacksmith [wood]_chest_blacksmith1 [metal]_dwarf_wall1 [metal]_dwarf_wall2 (fabric)_gobelin_bed
+fix_inter\bet_box_blu.png,bet_box_blu,fix_inter,80,50,45,2.0,
+fix_inter\bet_box_red.png,bet_box_red,fix_inter,80,50,45,2.0,
+fix_inter\bloc_pull_chain.png,bloc_pull_chain,fix_inter,200,220,200,2.0,gobground fixinter_oil_lamp
+fix_inter\blood_bowl.png,blood_bowl,fix_inter,22,23,19,2.0,fix_inter_bowl_empty
+fix_inter\blood_pentacle.png,blood_pentacle,fix_inter,200,200,0,2.0,fixinter_pentacle_blood
+fix_inter\blue_cube.png,blue_cube,fix_inter,200,200,250,2.0,
+fix_inter\boulders.png,boulders,fix_inter,407,320,400,2.0,alpha l4_dwarf_[stone]_wall21
+fix_inter\boulders_broken.png,boulders_broken,fix_inter,200,200,44,2.0,l4_dwarf_[stone]_wall21
+fix_inter\bridge.png,bridge,fix_inter,210,630,0,2.0,(wood) door
+fix_inter\bridge_rock.png,bridge_rock,fix_inter,210,203,672,2.0,l1_dragon_[ice]_ground05 l1_dragon_[ice]_ground06 l1_dragon_[ice]_ground08 l1_dragon_[ice]_iceground09 l1_dragon_[ice]_wall01 l1_dragon_[ice]_wall02 l1_dragon_[ice]_wall03 l1_dragon_[ice]_wall04 l1_dragon_[ice]_wall05 l1_dragon_[ice]_wall06 l1_dragon_[ice]_wall07
+fix_inter\bridge_rock_fallen.png,bridge_rock_fallen,fix_inter,210,672,47,2.0,l1_dragon_[ice]_ground05 l1_dragon_[ice]_ground06 l1_dragon_[ice]_ground08 l1_dragon_[ice]_iceground09 l1_dragon_[ice]_wall01 l1_dragon_[ice]_wall02 l1_dragon_[ice]_wall03 l1_dragon_[ice]_wall04 l1_dragon_[ice]_wall05 l1_dragon_[ice]_wall06 l1_dragon_[ice]_wall07
+fix_inter\bridge_rock_fallen_base.png,bridge_rock_fallen_base,fix_inter,191,232,226,2.0,l1_dragon_[ice]_ground05 l1_dragon_[ice]_ground06 l1_dragon_[ice]_ground08 l1_dragon_[ice]_iceground09 l1_dragon_[ice]_wall01 l1_dragon_[ice]_wall02 l1_dragon_[ice]_wall03 l1_dragon_[ice]_wall04 l1_dragon_[ice]_wall05 l1_dragon_[ice]_wall06 l1_dragon_[ice]_wall07
+fix_inter\bridge_rock_fallen_mid.png,bridge_rock_fallen_mid,fix_inter,130,342,417,2.0,l1_dragon_[ice]_wall01 l1_dragon_[ice]_wall02 l1_dragon_[ice]_wall03 l1_dragon_[ice]_wall04 l1_dragon_[ice]_wall05 l1_dragon_[ice]_wall06
+fix_inter\bridge_rock_fallen_top.png,bridge_rock_fallen_top,fix_inter,151,198,569,2.0,l1_dragon_[ice]_wall01 l1_dragon_[ice]_wall02 l1_dragon_[ice]_wall03 l1_dragon_[ice]_wall04 l1_dragon_[ice]_wall05
+fix_inter\bridge_rock_fallen_all.png,bridge_rock_fallen_all,fix_inter,191,782,156,2.0,l1_dragon_[ice]_ground05 l1_dragon_[ice]_ground06 l1_dragon_[ice]_ground08 l1_dragon_[ice]_iceground09 l1_dragon_[ice]_wall01 l1_dragon_[ice]_wall02 l1_dragon_[ice]_wall03 l1_dragon_[ice]_wall04 l1_dragon_[ice]_wall05 l1_dragon_[ice]_wall06 l1_dragon_[ice]_wall07
+fix_inter\button_up.png,button_up,fix_inter,22,10,25,2.0,[metal]_human_various2
+fix_inter\chest_wood.png,chest_wood,fix_inter,120,78,68,2.0,[wood]_chest_blacksmith [wood]_chest_blacksmith1
+fix_inter\chest_wood_broken.png,chest_wood_broken,fix_inter,110,71,47,2.0,[wood]_chest_blacksmith1
+fix_inter\chest_wood_cover.png,chest_wood_cover,fix_inter,120,78,15,2.0,[wood]_chest_blacksmith
+fix_inter\chest_1.png,chest_1,fix_inter,142,70,70,2.0,[wood]_human_dirt_planks [wood]_human_dirt_planks
+fix_inter\chest_2.png,chest_2,fix_inter,142,70,70,2.0,(wood)_gobelin_bed [wood]_human_dirt_planks [wood]_table
+fix_inter\chest_3.png,chest_3,fix_inter,210,85,90,2.0,(wood)_gobelin_bed [wood]_human_plank [wood]_table [wood]wood1
+fix_inter\chest_dresser_chest.png,chest_dresser_chest,fix_inter,95,65,80,2.0,[wood]_human_ornament [metal]_human_various1 (fabric)_gobelin_bed
+fix_inter\chest_king.png,chest_king,fix_inter,175,71,79,2.0,(wood)_gobelin_bed [wood]_human_ornament [wood]_human_plank [wood]_table [wood]wood1
+fix_inter\chest_metal.png,chest_metal,fix_inter,80,56,71,2.0,fixinter_chest_metal1 fixinter_chest_metal2
+fix_inter\chest_ylsides.png,chest_ylsides,fix_inter,180,100,115,2.0,l4_ylside_[fabric]_safe01
+fix_inter\coffin.png,coffin,fix_inter,141,274,117,2.0,[wood]_human_dirt_planks
+fix_inter\cookie_pasta.png,cookie_pasta,fix_inter,55,62,18,2.0,fixinter_cookie_pasta
+fix_inter\cookie_pasta_poison.png,cookie_pasta_poison,fix_inter,55,62,18,2.0,fixinter_cookie_pasta_poison
+fix_inter\cookie_pasta_wine.png,cookie_pasta_wine,fix_inter,55,62,18,2.0,fixinter_cookie_pasta_wine
+fix_inter\corpse.png,corpse,fix_inter,84,138,31,2.0,item_skull item_bone_bassin item_corpse
+fix_inter\corpse_bunker.png,corpse_bunker,fix_inter,132,189,68,2.0,npc_human_villager_leg2a_chest2_a npc_gore npc_human_villager_leg2a_chest2_a
+fix_inter\cupboard_1.png,cupboard_1,fix_inter,108,46,160,2.0,(wood)_gobelin_bed [wood]_table [wood]wood1 [wood]_human_dirt_planks [wood]_human_various
+fix_inter\cursor.png,cursor,fix_inter,34,15,12,2.0,fixinter_cursor
+fix_inter\dead_gob01.png,dead_gob01,fix_inter,138,171,35,2.0,npc_goblin_base_head npc_goblin_base_body npc_gore [soil]_human_blood01 [soil]_human_blood02
+fix_inter\dead_gob02.png,dead_gob02,fix_inter,136,164,38,2.0,npc_goblin_base_head npc_goblin_base_body npc_gore [soil]_human_blood01 [soil]_human_blood03
+fix_inter\dead_gob03.png,dead_gob03,fix_inter,140,136,100,2.0,npc_goblord_head npc_goblord_body npc_gore [stone]_human_blood03 [soil]_human_blood03 [soil]_human_blood01
+fix_inter\dead_guard_german.png,dead_guard_german,fix_inter,184,180,99,2.0,[metal]_dwarf_wall1 npc_gore npc_human_chainmail_hero_head npc_human_chainmail_guard_body_blood
+fix_inter\dead_guard_speared.png,dead_guard_speared,fix_inter,70,86,189,2.0,npc_gore npc_human_chainmail_hero_head npc_human_chainmail_guard_body_dirty [metal]_dwarf_wall1 [soil]_human_blood04
+fix_inter\dead_troll.png,dead_troll,fix_inter,165,351,90,2.0,npc_trollbase_body npc_trollbase_head npc_gore [soil]_human_blood01 [soil]_human_blood03
+fix_inter\diamond.png,diamond,fix_inter,25,25,12,2.0,item_diamond
+fix_inter\displayer.png,displayer,fix_inter,22,20,25,2.0,[metal]_human_various2
+fix_inter\dissident_lock.png,dissident_lock,fix_inter,13,2,24,2.0,l3_dissid_[iron]_ground01 l4_dwarf_[stone]_wall10
+fix_inter\door_castle.png,door_castle,fix_inter,140,15,240,2.0,[wood]_human_ornament [metal]_human_various1
+fix_inter\door_castle_double_door.png,door_castle_double_door,fix_inter,200,15,325,2.0,[metal]_human_various2
+fix_inter\door_catacomb_heavy.png,door_catacomb_heavy,fix_inter,150,35,200,2.0,fixinter_heavy_catacomb_door
+fix_inter\door_church01.png,door_church01,fix_inter,200,15,275,2.0,[wood]_human_ornament [metal]_human_various1
+fix_inter\door_church02.png,door_church02,fix_inter,150,15,250,2.0,[wood]_human_ornament [metal]_human_various1
+fix_inter\door_church_double_door.png,door_church_double_door,fix_inter,265,15,325,2.0,[wood]_human_ornament [metal]_human_various1
+fix_inter\door_city.png,door_city,fix_inter,150,43,220,2.0,[wood]_human_ornament l3_dissid_[iron]_door03
+fix_inter\door_crypt_heavy.png,door_crypt_heavy,fix_inter,138,29,195,2.0,fixinter_heavy_crypt_door01 fixinter_heavy_crypt_door02 fixinter_heavy_crypt_door03 fixinter_heavy_crypt_door04
+fix_inter\door_dble_snake.png,door_dble_snake,fix_inter,400,0,300,2.0,fixinter_door_snake
+fix_inter\door_double_temple.png,door_double_temple,fix_inter,199,20,247,2.0,l1_temple_[stone]_wall25 l1_temple_[stone]_wall24 [wood]_human_priest1 [wood]_table
+fix_inter\door_double_throne.png,door_double_throne,fix_inter,200,16,250,2.0,[wood]_palace_double_door01 [metal]_human_various2 [wood]_palace_double_door02
+fix_inter\door_double_ylsides.png,door_double_ylsides,fix_inter,351,25,315,2.0,l4_ylside_[fabric]_safe01 l4_ylside_[iron]_ground02 l4_ylside_[stone]_wall01
+fix_inter\door_dwarves.png,door_dwarves,fix_inter,245,45,255,2.0,l7_cave_[metal]_plate02 l7_dwarf_[metal]_plate01 l7_dwarf_[metal]_armorplate01 fixinter_dwarfdoor
+fix_inter\door_fullmetal.png,door_fullmetal,fix_inter,180,35,278,2.0,l3_dissid_[iron]_door03 l3_dissid_[iron]_ground02 l3_dissid_[iron]_door01 l3_dissid_[iron]_door02
+fix_inter\door_goblin_heavy.png,door_goblin_heavy,fix_inter,150,28,280,2.0,l3_dissid_[iron]_ground01 l3_dissid_[iron]_ground02 l3_dissid_[iron]_door04 l3_dissid_[iron]_door03 l3_dissid_[iron]_door01
+fix_inter\door_goblin_light.png,door_goblin_light,fix_inter,150,25,280,2.0,(fabric)_gobelin_bed (wood)_waggon
+fix_inter\door_goblin_light_very.png,door_goblin_light_very,fix_inter,153,13,196,2.0,l2_gobel_[wood]_board02 l2_gobel_[wood]_board05
+fix_inter\door_human_palace_jail.png,door_human_palace_jail,fix_inter,150,8,200,2.0,[metal]_dwarf_wall4 [metal]_dwarf_wall1 [metal]_door_lock
+fix_inter\door_human_palace_light.png,door_human_palace_light,fix_inter,140,23,250,2.0,(wood)_door [metal]_dwarf_wall4 [metal]_door_lock
+fix_inter\door_human_palace_light_res_lab.png,door_human_palace_light_res_lab,fix_inter,140,23,250,2.0,[wood]_human_priest1 (wood)_door [metal]_dwarf_wall4 [metal]_door_lock
+fix_inter\door_human_palace_metal.png,door_human_palace_metal,fix_inter,140,25,250,2.0,(wood)_door [metal]_dwarf_wall2 [metal]_dwarf_wall4 [metal]_door_lock [metal]_dwarf_wall1
+fix_inter\door_human_palace_porticullis.png,door_human_palace_porticullis,fix_inter,160,5,318,2.0,[metal]_dwarf_wall1
+fix_inter\door_human_priest1.png,door_human_priest1,fix_inter,265,15,325,2.0,[wood]_human_priest [wood]_human_priest1
+fix_inter\door_l2_gob_double.png,door_l2_gob_double,fix_inter,300,20,250,2.0,fixinter_l2_gob_door01 fixinter_l2_gob_door02 l3_dissid_[iron]_door03
+fix_inter\door_l2_gob_heavy.png,door_l2_gob_heavy,fix_inter,175,25,250,2.0,fixinter_l2_gob_door01 fixinter_l2_gob_door02 l3_dissid_[iron]_door03
+fix_inter\door_l2_gob_light.png,door_l2_gob_light,fix_inter,175,35,250,2.0,fixinter_doubledoor2_gobl2 l2_caves_[wood]_pill02 l2_caves_[wood]_pill01
+fix_inter\door_lab_chest.png,door_lab_chest,fix_inter,71,5,100,2.0,[metal]_dwarf_grid
+fix_inter\door_metal.png,door_metal,fix_inter,178,32,240,2.0,fixinter_metal_door
+fix_inter\door_metal_double.png,door_metal_double,fix_inter,342,15,271,2.0,fixinter_l2_gob_door01 fixinter_l2_gob_door02 l3_dissid_[iron]_door03
+fix_inter\door_orbiplanax_chest.png,door_orbiplanax_chest,fix_inter,50,5,70,2.0,[metal]_human_various1 [wood]planches
+fix_inter\door_palace_rooms.png,door_palace_rooms,fix_inter,160,15,290,2.0,[wood]_human_ornament [metal]_human_various1 (wood)_gobelin_bed
+fix_inter\door_secret_bank.png,door_secret_bank,fix_inter,150,20,200,2.0,[stone]_human_ornament [stone]_human_pattern [stone]_dwarf_wall1 [stone]_dwarf_wall2 [stone]_dwarf_wall3 [stone]_dwarf_wall4 [wood]_human_wall
+fix_inter\door_snake.png,door_snake,fix_inter,200,0,250,2.0,fixinter_door_snake
+fix_inter\door_tavern_entrance.png,door_tavern_entrance,fix_inter,220,18,250,2.0,(wood) door [metal]_human_various2
+fix_inter\door_temple_little.png,door_temple_little,fix_inter,175,20,240,2.0,[wood]_human_priest1 l1_temple_[stone]_wall25 l1_temple_[stone]_wall24 [metal]_human_various1 [wood]_light_door
+fix_inter\door_ylsides\door_temple.png,door_temple,fix_inter/door_ylsides,175,15,240,2.0,l1_temple_[stone]_wall25 l1_temple_[stone]_wall24  [wood]_table
+fix_inter\door_ylsides.png,door_ylsides,fix_inter,178,100,258,2.0,l4_ylside_[iron]_ground02 fixinter_door_ylside [metal]_door_lock
+fix_inter\dragon's_lair_ice_wall.png,dragon's_lair_ice_wall,fix_inter,216,124,297,2.0,l1_dragon_[ice]_ground01 l1_dragon_[ice]_ground03 l1_dragon_[ice]_ground04 l1_dragon_[ice]_ground05 l1_dragon_[ice]_ground06 l1_dragon_[ice]_ground07 l1_dragon_[ice]_ground08
+fix_inter\dragon_egg_floating.png,dragon_egg_floating,fix_inter,49,49,89,2.0,item_dragon_egg
+fix_inter\drawer_iserbius.png,drawer_iserbius,fix_inter,37,35,10,2.0,l4_ylside_(wood]_piece01
+fix_inter\drawer_iserbius2.png,drawer_iserbius2,fix_inter,10,36,10,2.0,l4_ylside_(wood]_piece01
+fix_inter\dwarf_broche.png,dwarf_broche,fix_inter,231,19,21,2.0,l7_mines_[metal]_teleporteur01
+fix_inter\dwarf_crusher\dwarf_bucket.png,dwarf_bucket,fix_inter/dwarf_crusher,90,100,265,2.0,fixinter_oil_lamp
+fix_inter\dwarf_crusher.png,dwarf_crusher,fix_inter,147,173,501,2.0,l7_dwarf_[metal]_plate01 l7_dwarf_[metal]_armorpla01 l7_dwarf_[metal]_plate10
+fix_inter\dwarf_engine_door.png,dwarf_engine_door,fix_inter,120,95,11,2.0,l7_dwarf_[wood]_board01 l7_dwarf_[metal]_armorpla01
+fix_inter\dwarf_engine_door2.png,dwarf_engine_door2,fix_inter,120,13,95,2.0,l7_dwarf_[wood]_board01 l7_dwarf_[metal]_armorpla01
+fix_inter\dwarf_engine_powerstone.png,dwarf_engine_powerstone,fix_inter,17,26,26,2.0,l7_cave_[metal]_plate02 item_power_stone
+fix_inter\dwarf_forge.png,dwarf_forge,fix_inter,300,150,100,2.0,[metal]_human_various1
+fix_inter\dwarf_lava_door.png,dwarf_lava_door,fix_inter,400,400,10,2.0,l7_dwarf_[metal]_grate01
+fix_inter\dwarf_lava_door2.png,dwarf_lava_door2,fix_inter,200,200,10,2.0,l7_dwarf_[metal]_grate01
+fix_inter\dwarf_lava_door2.png,dwarf_lava_door2,fix_inter,200,200,10,2.0,l7_dwarf_[metal]_grate01
+fix_inter\dwarf_little_crusher.png,dwarf_little_crusher,fix_inter,116,173,501,2.0,l7_dwarf_[metal]_plate01 l7_dwarf_[metal]_armorpla01 l7_dwarf_[metal]_plate10
+fix_inter\dwarf_sign.png,dwarf_sign,fix_inter,6,72,47,2.0,fixinter_public_notice
+fix_inter\dwarf_stool.png,dwarf_stool,fix_inter,34,34,33,2.0,l7_dwarf_[wood]_board08 l7_dwarf_[wood]_board20 l7_dwarf_[wood]_board10
+fix_inter\elevator_door.png,elevator_door,fix_inter,184,18,95,2.0,l2_gobru_[metal]_door01 l2_gobru_[metal]_door02
+fix_inter\elevator_mecanism_repaired.png,elevator_mecanism_repaired,fix_inter,184,52,97,2.0,l2_gobru_(stone)_wall01 l2_gobru_(stone)_wall02 l2_gobru_(stone)_wall03 l2_gobru_(stone)_wall04 l2_gobru_(stone)_wall05 l2_gobru_(stone)_wall07 l2_gobru_[metal]_door02 (fabric)_gobelin_bed [wood]_human_various2 [wood]_human_various1 l4_dwarf_[iron]_screw01
+fix_inter\elevator_mecanism_broken.png,elevator_mecanism_broken,fix_inter,184,52,97,2.0,l2_gobru_(stone)_wall01 l2_gobru_(stone)_wall02 l2_gobru_(stone)_wall03 l2_gobru_(stone)_wall04 l2_gobru_(stone)_wall05 l2_gobru_(stone)_wall07 l2_gobru_[metal]_door02 [wood]_human_various2 [wood]_human_various1 l4_dwarf_[iron]_screw01
+fix_inter\elevator_plateau.png,elevator_plateau,fix_inter,200,200,972,2.0,l2_gobru_[metal]_door02 l2_gobru_[metal]_board01 l2_gobel_[wood]_board05 l2_gobel_[wood]_board06 l2_gobel_[wood]_board02 l1_prison_(fabric)_rope01
+fix_inter\plateau.png,plateau,fix_inter,150,170,50,2.0,l2_gobru_[metal]_door01 l2_gobru_[metal]_door02 l2_gobru_[rust]_piece08
+fix_inter\emerald_inwall.png,emerald_inwall,fix_inter,23,23,11,2.0,item_emerald
+fix_inter\energy_field.png,energy_field,fix_inter,200,0,250,2.0,fixinter_door_snake
+fix_inter\fake_golden_snake_bowl.png,fake_golden_snake_bowl,fix_inter,190,190,80,2.0,item_bottle empty [metal]_human_various
+fix_inter\fake_wall.png,fake_wall,fix_inter,100,19,0,2.0,l3_human_[stone]_wall19
+fix_inter\fire_camp.png,fire_camp,fix_inter,116,116,34,2.0,[wood]_human_various1_onfire [wood]_human_various2 [dust]_fire_dust_red
+fix_inter\fireball_hole.png,fireball_hole,fix_inter,50,20,30,2.0,stone 4 a
+fix_inter\fish_spawn.png,fish_spawn,fix_inter,53,13,45,2.0,system_marker item_fish_01
+fix_inter\flour_bag.png,flour_bag,fix_inter,50,81,67,2.0,item_floorbag
+fix_inter\flour_big.png,flour_big,fix_inter,55,50,20,2.0,fixinter_misc
+fix_inter\fountain_youth.png,fountain_youth,fix_inter,105,105,131,2.0, gobgroundm2
+fix_inter\fx_armor.png,fx_armor,fix_inter,77,25,103,2.0,(fx)_armor
+fix_inter\fx_fire_wave.png,fx_fire_wave,fix_inter,77,54,50,2.0, 
+fix_inter\cauldron.png,cauldron,fix_inter,93,90,70,2.0,(fx)_cauldron (fx)_cauldronsoup
+fix_inter\lavastone01.png,lavastone01,fix_inter,20,18,20,2.0,l7_cave_[stone]_ground04
+fix_inter\lavastone02.png,lavastone02,fix_inter,32,31,25,2.0,l7_cave_[stone]_ground04
+fix_inter\fx_magic_missile.png,fx_magic_missile,fix_inter,25,35,13,2.0,(fx)_magic_missile
+fix_inter\fx_palmes.png,fx_palmes,fix_inter,66,76,37,2.0,(fx)_palmes
+fix_inter\fx_papivolle.png,fx_papivolle,fix_inter,26,0,20,2.0,(fx)_butterfly
+fix_inter\fx_poison_missile.png,fx_poison_missile,fix_inter,25,35,13,2.0,(fx)_mollard
+fix_inter\stone01.png,stone01,fix_inter,20,18,20,2.0,[stone]_rock4_a
+fix_inter\stone02.png,stone02,fix_inter,32,31,25,2.0,[stone]_rock4_a
+fix_inter\fx_rune_guard.png,fx_rune_guard,fix_inter,100,100,0,2.0,(fx)_tsu8
+fix_inter\fx_rune_guard02.png,fx_rune_guard02,fix_inter,102,102,27,2.0,(fx)_tsu9
+fix_inter\fx_rune_guard03.png,fx_rune_guard03,fix_inter,75,75,22,2.0,(fx)_tsu7
+fix_inter\fx_voodoodoll.png,fx_voodoodoll,fix_inter,41,21,51,2.0,(fx)_poupée
+fix_inter\gambling_wheel.png,gambling_wheel,fix_inter,122,11,61,2.0,fixinter_gambling_wheel [metal]_human_various1
+fix_inter\gem_inwall.png,gem_inwall,fix_inter,29,26,34,2.0,item_gems
+fix_inter\glass_crypt.png,glass_crypt,fix_inter,160,0,280,2.0,l5_human_[glass]_vitrail01 l5_human_[glass]_vitrail02
+fix_inter\gold_chunk_inwall.png,gold_chunk_inwall,fix_inter,40,38,31,2.0,[metal]_gold
+fix_inter\golden_snake_bowl.png,golden_snake_bowl,fix_inter,200,200,325,2.0,fixinter_goldensnake_cage
+fix_inter\grave_stone.png,grave_stone,fix_inter,150,10,285,2.0,[stone]_human_roof
+fix_inter\gravestone_big.png,gravestone_big,fix_inter,128,11,62,2.0,l4_human_[stone]_wall16
+fix_inter\guard_chest_chopped.png,guard_chest_chopped,fix_inter,156,145,31,2.0,npc_gore npc_human_chainmail_hero_head npc_human_chainmail_guard_body_dirty [soil]_human_blood01 [soil]_human_blood03
+fix_inter\guardpost_double_door.png,guardpost_double_door,fix_inter,300,15,250,2.0,[metal]_human_various2
+fix_inter\guardpost_heavy_door.png,guardpost_heavy_door,fix_inter,150,20,275,2.0,[metal]_human_various2
+fix_inter\guardpost_heavy_door01.png,guardpost_heavy_door01,fix_inter,130,10,255,2.0,[metal]_human_various2
+fix_inter\guardpost_light_wood_door.png,guardpost_light_wood_door,fix_inter,150,20,274,2.0,[wood]_human_dirt_planks
+fix_inter\hanged_gob.png,hanged_gob,fix_inter,56,47,226,2.0,npc_goblin_base_head npc_goblin_base_body npc_gore
+fix_inter\hanging.png,hanging,fix_inter,180,8,265,2.0,[fabric]_human_02 [fabric]_human_07
+fix_inter\hanging2.png,hanging2,fix_inter,180,8,265,2.0,[fabric]_human_curtains [fabric]_human_curtains2
+fix_inter\hanging_temple_akbaa.png,hanging_temple_akbaa,fix_inter,164,7,265,2.0,l1_temple_[fabric]_hanging
+fix_inter\ice_bloc.png,ice_bloc,fix_inter,260,270,255,2.0,l1_dragon_[ice]_ground07 l1_dragon_[ice]_ground03 l1_dragon_[ice]_ground01 l1_dragon_[ice]_ground04
+fix_inter\illusion_secretwall01.png,illusion_secretwall01,fix_inter,200,25,300,2.0,l5_snake_[marble]_wall02 l5_snake_[marble]_wall03 l5_snake_[marble]_wall08 l5_snake_[marble]_wall09 l5_snake_[marble]_wall10 l5_snake_[marble]_wall11
+fix_inter\illusion_secretwall02.png,illusion_secretwall02,fix_inter,200,25,302,2.0,l5_snake_[marble]_wall01 l5_snake_[marble]_wall02 l5_snake_[marble]_wall03 l5_snake_[marble]_wall06 l5_snake_[marble]_wall07 l5_snake_[marble]_wall08 l5_snake_[metal]_frize01 l5_snake_[metal]_frize04
+fix_inter\illusion_secretwall03.png,illusion_secretwall03,fix_inter,202,25,284,2.0,l5_snake_[marble]_wall01 l5_snake_[marble]_wall02 l5_snake_[marble]_wall03 l5_snake_[marble]_wall04 l5_snake_[marble]_wall07 l5_snake_[marble]_wall08 l5_snake_[marble]_wall09 l5_snake_[metal]_frize02 l5_snake_[metal]_frize03
+fix_inter\illusion_secretwall04.png,illusion_secretwall04,fix_inter,200,25,300,2.0,l5_snake_[marble]_wall02 l5_snake_[marble]_wall03 l5_snake_[marble]_wall06 l5_snake_[marble]_wall07 l5_snake_[marble]_wall08 l5_snake_[marble]_wall09 l5_snake_[marble]_wall10 l5_snake_[marble]_wall11 l5_snake_[metal]_frize02 l5_snake_[metal]_frize04
+fix_inter\ingot_maker.png,ingot_maker,fix_inter,330,200,100,2.0,[metal]_human_various1
+fix_inter\intro_draw.png,intro_draw,fix_inter,64,76,30,2.0,(stone) stone ruin c
+fix_inter\jail_wood&metal_grid.png,jail_wood&metal_grid,fix_inter,200,200,0,2.0,l2_gobel_[wood]_board01 l2_gobel_[metal]_dwarf_wall2 l2_gobel_[metal]_dwarf_wall1
+fix_inter\jail_wood_grid.png,jail_wood_grid,fix_inter,200,200,0,2.0,l2_gobel_[wood]_board01
+fix_inter\king_dummy.png,king_dummy,fix_inter,100,100,150,2.0,[fabric]_human_various2
+fix_inter\l0_alicia_portcullis.png,l0_alicia_portcullis,fix_inter,275,7,301,2.0,(wood) door
+fix_inter\l0_alicia_secretdoor.png,l0_alicia_secretdoor,fix_inter,200,10,230,2.0,[wood]_aliciaroom_lambris01 [wood]_aliciaroom_lambris02 aliciaroom_mur01 aliciaroom_mur02 aliciaroom_poutres
+fix_inter\l0_human_platform.png,l0_human_platform,fix_inter,165,220,25,2.0,l2_gobel_[wood]_board05 [metal]_dwarf_wall1 [metal]_dwarf_wall2 [metal]_dwarf_wall4
+fix_inter\l1_2_akbaa_r37r_secretdoor.png,l1_2_akbaa_r37r_secretdoor,fix_inter,275,190,289,2.0,l1_temple_[flesh]_flesh01 l1_temple_[flesh]_flesh02 l1_temple_[flesh]_flesh03 l1_temple_[flesh]_wallflsh01 l1_temple_[flesh]_wallflsh02 l1_temple_[flesh]_wallflsh03 l1_temple_[stone]_wall01 l1_temple_[stone]_wall02 l1_temple_[stone]_wall03
+fix_inter\l1_2_akbaa_r37r_secretdoor_flesh.png,l1_2_akbaa_r37r_secretdoor_flesh,fix_inter,275,63,289,2.0,l1_temple_[flesh]_flesh01 l1_temple_[flesh]_flesh02 l1_temple_[flesh]_flesh03 l1_temple_[flesh]_wallflsh01 l1_temple_[flesh]_wallflsh02 l1_temple_[flesh]_wallflsh03
+fix_inter\l1_2_akbaa_r37r_secretdoor_stone.png,l1_2_akbaa_r37r_secretdoor_stone,fix_inter,200,30,252,2.0,l1_temple_[stone]_wall01 l1_temple_[stone]_wall02 l1_temple_[stone]_wall03
+fix_inter\l1_akbaa_r25_secretdoors.png,l1_akbaa_r25_secretdoors,fix_inter,200,30,300,2.0,l1_temple_[stone]_wall08 l1_temple_[stone]_wall09 l1_temple_[stone]_wall10 l1_temple_[stone]_wall18
+fix_inter\l1_akbaa_r28_secretdoor.png,l1_akbaa_r28_secretdoor,fix_inter,201,30,250,2.0,l1_temple_[stone]_wall03 l1_temple_[stone]_wall09 l1_temple_[stone]_wall08 l1_temple_[stone]_wall18
+fix_inter\l1_akbaa_r33_secretdoor.png,l1_akbaa_r33_secretdoor,fix_inter,200,30,250,2.0,l1_temple_[stone]_wall01 l1_temple_[stone]_wall02 l1_temple_[stone]_wall03 l1_temple_[stone]_wall08 l1_temple_[stone]_wall15 l1_temple_[stone]_wall16
+fix_inter\l1_akbaa_r37l_secretdoor.png,l1_akbaa_r37l_secretdoor,fix_inter,200,30,300,2.0,l1_prison_[stone]_wall01 l1_prison_[stone]_wall03 l1_prison_[stone]_wall04 l1_prison_[stone]_wall06
+fix_inter\l1_sarco_akbaa.png,l1_sarco_akbaa,fix_inter,151,277,25,2.0,l1_temple_[stone]_wall01 l1_temple_[stone]_wall02 l1_temple_[stone]_wall09 l1_temple_[stone]_wall14
+fix_inter\l21_room11_secretdoor.png,l21_room11_secretdoor,fix_inter,200,15,305,2.0,l5_human_[stone]_wall01 l5_human_[stone]_wall02 l5_human_[stone]_wall13 l5_human_[stone]_wall21 l5_human_[stone]_wall23
+fix_inter\l2_gob_ruins_secretdoor.png,l2_gob_ruins_secretdoor,fix_inter,39,195,249,2.0,l2_gobel_[stone]_stair01 l2_gobel_[wood]_board05 l2_gobel_[wood]_board06 l2_gobru_(stone)_wall01 l2_gobru_(stone)_wall05 l2_gobru_(stone)_wall06 l2_gobru_(stone)_wall07 l2_gobel_[wood]_board01
+fix_inter\l2_gobel_portcullis.png,l2_gobel_portcullis,fix_inter,195,5,321,2.0,l2_gobel_[metal]_metal03
+fix_inter\l2_gobel_portcullis_big.png,l2_gobel_portcullis_big,fix_inter,340,5,343,2.0,l2_gobel_[metal]_metal03
+fix_inter\l2_gobel_r19_secretdoor.png,l2_gobel_r19_secretdoor,fix_inter,196,37,449,2.0,l2_gobel_[stone]_coinhg l2_gobel_[stone]_crown01 l2_gobel_[stone]_half02 l2_gobel_[stone]_stair01 l2_gobel_[stone]_wall01 l2_troll_[fabric]_rope01
+fix_inter\l2_gobel_r20_secretdoor.png,l2_gobel_r20_secretdoor,fix_inter,193,15,250,2.0,l2_gobel_[stone]_wall01 l2_gobel_[wood]_board01 l2_gobel_[wood]_board05 l2_gobel_[wood]_board06
+fix_inter\l2_gobel_r26_wcdoor.png,l2_gobel_r26_wcdoor,fix_inter,136,13,167,2.0,l2_gobel_[wood]_board01 l2_gobel_[wood]_board05 l2_gobel_[wood]_board06
+fix_inter\l3_1_dissidents_portcullis.png,l3_1_dissidents_portcullis,fix_inter,200,20,325,2.0,l3_dissid_[iron]_wall03 l3_dissid_[iron]_wall04
+fix_inter\l3_1_dissidents_pressurepad.png,l3_1_dissidents_pressurepad,fix_inter,100,100,0,2.0,l3_dissid_[stone]_ground04
+fix_inter\l3_crypt_r34_secret_wall.png,l3_crypt_r34_secret_wall,fix_inter,175,25,298,2.0,l3_human_[stone]_ceiling02 l3_human_[stone]_wall01 l3_human_[stone]_wall02 l3_human_[stone]_wall05 l3_human_[stone]_wall13 l3_human_[stone]_wall14
+fix_inter\l3_dissidents_secret_wall.png,l3_dissidents_secret_wall,fix_inter,30,200,250,2.0,l3_dissid_[stone]_wall01 l3_dissid_[stone]_wall02 l3_dissid_[stone]_wall03
+fix_inter\l3_dissidents_secret_wall_2.png,l3_dissidents_secret_wall_2,fix_inter,240,75,300,2.0,l3_bumker_[stone]_wall07 l3_bumker_[stone]_wall10 l3_bumker_[stone]_wall11 l3_dissid_[stone]_wall01 l3_dissid_[stone]_wall02 l3_dissid_[stone]_wall03 l3_dissid_[stone]_wall37 l3_dissid_[stone]_wall02
+fix_inter\l3_dissidents_secret_wall_3.png,l3_dissidents_secret_wall_3,fix_inter,258,65,282,2.0,l4_dwarf_[stone]_wall08 l4_dwarf_[stone]_wall10 l4_dwarf_[stone]_wall13 l4_dwarf_[stone]_wall19 l3_dissid_[stone]_roc02 l3_dissid_[stone]_roc03
+fix_inter\l3_dissidents_secretbutton.png,l3_dissidents_secretbutton,fix_inter,57,2,13,2.0,l3_dissid_[stone]_wall01
+fix_inter\l3_fake_kult_secretdoor.png,l3_fake_kult_secretdoor,fix_inter,228,32,300,2.0,l3_caves_[stone]_wall01 l3_caves_[stone]_wall02 l3_caves_[stone]_wall03 l3_bumker_[stone]_wall07 l3_bumker_[stone]_wall10
+fix_inter\l3_raccord_crypte_galeries_secretdoor.png,l3_raccord_crypte_galeries_secretdoor,fix_inter,176,25,280,2.0,l3_bumker_[stone]_wall07 l3_bumker_[stone]_wall11 l3_human_[stone]_wall10 l3_human_[stone]_wall14 l3_human_[stone]_wall01 l3_human_[stone]_wall02 l3_human_[stone]_ceiling01
+fix_inter\l4_ylsides_barrel.png,l4_ylsides_barrel,fix_inter,73,74,92,2.0,l4_ylside_[wood]_construc l4_ylside_[wood]_construc03
+fix_inter\l4_ylsides_soufflet.png,l4_ylsides_soufflet,fix_inter,243,158,222,2.0,l4_ylside_[fabric]_lit l4_ylside_[iron]_chain01 l4_ylside_[iron]_forge03 l4_ylside_[iron]_ground02 l4_ylside_[stone]_wall06 l4_ylside_[wood]_forge01
+fix_inter\l5_caves_secretdoor.png,l5_caves_secretdoor,fix_inter,150,25,250,2.0,l5_caves_[stone]_wall01 l5_caves_[stone]_wall02 l5_caves_[stone]_wall01 l5_caves_[stone]_wall02
+fix_inter\l5_crypt_room13_fakewall.png,l5_crypt_room13_fakewall,fix_inter,160,10,280,2.0,l5_human_[stone]_wall01 l5_human_[stone]_wall05 l5_human_[stone]_wall20 l5_human_[stone]_wall23
+fix_inter\l5_crypt_tomb2_fake wall.png,l5_crypt_tomb2_fake wall,fix_inter,295,35,310,2.0,l5_human_[stone]_ground02 l5_human_[stone]_wall01 l5_human_[stone]_wall02 l5_human_[stone]_wall14 l5_human_[stone]_wall21 l5_human_[stone]_wall23
+fix_inter\l5_snake_r23-24_secretbutton.png,l5_snake_r23-24_secretbutton,fix_inter,58,0,29,2.0,l5_snake_[marble]_wall12
+fix_inter\l5_snake_secretbutton.png,l5_snake_secretbutton,fix_inter,67,0,67,2.0,l5_snake_[marble]_wall12
+fix_inter\l6_crypt_portcullis.png,l6_crypt_portcullis,fix_inter,200,10,350,2.0,fixinter_l6_portcullis
+fix_inter\l6_crypt_portcullis2.png,l6_crypt_portcullis2,fix_inter,140,10,450,2.0,fixinter_l6_portcullis
+fix_inter\l6_crypt_pressurepad.png,l6_crypt_pressurepad,fix_inter,100,100,5,2.0,l6_human_[stone]_ground04 l6_human_[stone]_ground03
+fix_inter\l6_r06_secretdoor.png,l6_r06_secretdoor,fix_inter,25,200,252,2.0,l6_human_[rock]_wall14 l6_human_[rock]_wall13 l6_human_[stone]_wall02 l6_human_[rock]_wall16 l6_human_[rock]_wall18 l6_human_[rock]_wall08 l6_human_[rock]_wall07
+fix_inter\l7_dwarf_corpse.png,l7_dwarf_corpse,fix_inter,114,73,36,2.0,l7_cave_(flesh)_body07 l7_cave_(flesh)_body06 l7_cave_(fabric)_pants01 l7_cave_(fabric)_boots01 l7_cave_(flesh)_barmor01 l7_cave_(flesh)_barmor02 l7_cave_(fabric)_boots02 l7_cave_(flesh)_body05 l7_cave_(flesh)_armor03 l7_cave_(flesh)_body03 l7_cave_(flesh)_ground08
+fix_inter\l7_dwarf_corpse2.png,l7_dwarf_corpse2,fix_inter,107,83,44,2.0,l7_cave_(flesh)_ground01 l7_cave_(flesh)_body07 l7_cave_(flesh)_body06 l7_cave_(fabric)_pants01 l7_cave_(fabric)_boots01 l7_cave_(flesh)_armor01 l7_cave_(flesh)_barmor01 l7_cave_(flesh)_barmor02 l7_cave_(fabric)_boots02 l7_cave_(flesh)_body05 l7_cave_(flesh)_armor03 l7_cave_(flesh)_armor04 l7_cave_(flesh)_body03
+fix_inter\l7_dwarf_corpse3.png,l7_dwarf_corpse3,fix_inter,96,122,38,2.0,l7_cave_(flesh)_head03 l7_cave_(flesh)_head04 l7_cave_(flesh)_body07 l7_cave_(flesh)_body06 l7_cave_(fabric)_pants01 l7_cave_(fabric)_boots01 l7_cave_(flesh)_barmor01 l7_cave_(flesh)_barmor02 l7_cave_(fabric)_boots02 l7_cave_(flesh)_body05 l7_cave_(flesh)_brain01 l7_cave_(flesh)_armor03 l7_cave_(flesh)_body03 l7_cave_(hair)_bearb03 l7_cave_(flesh)_ground08
+fix_inter\l7_dwarf_corpse4.png,l7_dwarf_corpse4,fix_inter,88,90,59,2.0,l7_cave_(flesh)_ground01 l7_cave_(flesh)_body07 l7_cave_(flesh)_body06 l7_cave_(fabric)_pants01 l7_cave_(fabric)_boots01 l7_cave_(flesh)_armor01 l7_cave_(flesh)_barmor02 l7_cave_(fabric)_boots02 l7_cave_(flesh)_body05 l7_cave_(flesh)_helm01 l7_cave_(flesh)_helm03 l7_cave_(flesh)_helm04 l7_cave_(flesh)_armor03 l7_cave_(flesh)_armor04 l7_cave_(flesh)_body03 l7_cave_(flesh)_head05 l7_cave_(flesh)_ground08
+fix_inter\lamp_goblin1.png,lamp_goblin1,fix_inter,106,80,77,2.0,[metal]_human_various [metal]_human_various1 (wood) burned wood
+fix_inter\lamp_goblin2.png,lamp_goblin2,fix_inter,85,83,50,2.0,[metal]_human_various [metal]_human_various1 (wood) burned wood
+fix_inter\lamp_goblin3.png,lamp_goblin3,fix_inter,85,83,0,2.0,[metal]_human_various [metal]_human_various1 (wood) burned wood
+fix_inter\lamp_human1.png,lamp_human1,fix_inter,30,35,60,2.0,(wood) door fixinter_metal_door [glass]_windows [metal]_human_various
+fix_inter\lamp_human2.png,lamp_human2,fix_inter,20,66,80,2.0,[metal]_human_various1 [glass]_windows
+fix_inter\lamp_human3.png,lamp_human3,fix_inter,45,45,179,2.0,l5_human_[iron]_fire01
+fix_inter\lamp_human_palace.png,lamp_human_palace,fix_inter,104,52,82,2.0,[metal]_human_various1 [glass]_windows
+fix_inter\lamp_human_palace_room.png,lamp_human_palace_room,fix_inter,52,52,75,2.0,[metal]_human_various1 [glass]_windows
+fix_inter\lamp_human_snake1.png,lamp_human_snake1,fix_inter,30,35,60,2.0,(wood) door fixinter_metal_door [glass]_windows [metal]_human_various
+fix_inter\lamp_human_snake2.png,lamp_human_snake2,fix_inter,30,35,60,2.0,(wood) door fixinter_metal_door [glass]_windows [metal]_human_various
+fix_inter\lamp_human_torch1.png,lamp_human_torch1,fix_inter,8,27,60,2.0,item_torch2 [none]_human_various5 [metal]_dwarf_wall1
+fix_inter\lamp_snake1.png,lamp_snake1,fix_inter,45,18,48,2.0,[metal]_human_various1 [glass]_windows
+fix_inter\lamp_snake2.png,lamp_snake2,fix_inter,67,69,82,2.0,l5_snake_[glass]_mirror01 l5_snake_[marble]_wall01 l5_snake_[marble]_wall02 l5_snake_[marble]_wall03 l5_snake_[metal]_frize01 l5_snake_[metal]_frize02 l5_snake_[metal]_frize03 l5_snake_[metal]_frize04
+fix_inter\lava_event01.png,lava_event01,fix_inter,200,200,0,2.0,l7_cave_[lava]_ground01
+fix_inter\lava_event02.png,lava_event02,fix_inter,152,80,140,2.0,l7_cave_[lava]_ground01
+fix_inter\lever.png,lever,fix_inter,43,22,66,2.0,fixinter_barrel
+fix_inter\lever_base.png,lever_base,fix_inter,43,22,2,2.0,fixinter_barrel
+fix_inter\light_door.png,light_door,fix_inter,150,38,220,2.0,[wood]_light_door
+fix_inter\lock.png,lock,fix_inter,18,3,12,2.0,l3_dissid_[iron]_door03
+fix_inter\magic_field_snake.png,magic_field_snake,fix_inter,200,0,250,2.0,fixinter_door_snake
+fix_inter\mauld_converter.png,mauld_converter,fix_inter,330,200,100,2.0,[metal]_human_various1
+fix_inter\metal_chunk_inwall.png,metal_chunk_inwall,fix_inter,40,38,31,2.0,[metal]_metal_chunk
+fix_inter\metal_door.png,metal_door,fix_inter,165,26,240,2.0,l3_dissid_[iron]_door03 l3_dissid_[iron]_ground02 l3_dissid_[iron]_door05
+fix_inter\metal_double_door.png,metal_double_door,fix_inter,368,32,271,2.0,fixinter_metal_door
+fix_inter\metal_grid.png,metal_grid,fix_inter,160,185,0,2.0,l3_human_[stone]_ceiling02
+fix_inter\metal_grid\metal_grid_catacombs.png,metal_grid_catacombs,fix_inter/metal_grid,160,185,0,2.0,l6_human_[stone]_ground04 l6_human_[stone]_ground06 l6_human_[stone]_ground03 l6_human_[stone]_ground08
+fix_inter\metal_in_wall.png,metal_in_wall,fix_inter,38,24,35,2.0,items_bedroll (rock)_mine_standard_rock
+fix_inter\meteor_akbaa.png,meteor_akbaa,fix_inter,90,57,134,2.0,[metal]_koltk_sample
+fix_inter\mice_spawn.png,mice_spawn,fix_inter,49,14,38,2.0,system_marker npc_mice npc_gore
+fix_inter\mithril_chunk_inwall.png,mithril_chunk_inwall,fix_inter,76,74,59,2.0,[metal]_mithril_chunk
+fix_inter\mud.png,mud,fix_inter,92,88,31,2.0,[stone]_mud_putty
+fix_inter\oil_lamp.png,oil_lamp,fix_inter,10,50,192,2.0,fixinter_oil_lamp
+fix_inter\orb_crypt.png,orb_crypt,fix_inter,25,31,15,2.0,l5_human_[stone]_wall02 [metal]_gold
+fix_inter\oven.png,oven,fix_inter,120,110,110,2.0,stone 4 a (stone) gobground 2
+fix_inter\path_marker.png,path_marker,fix_inter,79,50,11,2.0,l5_human_[stone]_ground01 l5_human_[stone]_ground02
+fix_inter\polytrans.png,polytrans,fix_inter,100,100,100,2.0,[stone]_ground_caves_wet05
+fix_inter\polytrans\polytrans_inv.png,polytrans_inv,fix_inter/polytrans,100,100,100,2.0,alpha
+fix_inter\porticullis.png,porticullis,fix_inter,208,7,300,2.0,(wood) door
+fix_inter\porticullis_crypt.png,porticullis_crypt,fix_inter,13,280,332,2.0,fixinter_herse
+fix_inter\porticullis_temple.png,porticullis_temple,fix_inter,210,5,410,2.0,l1_prison_(rusty)_metal03
+fix_inter\power_stone_place.png,power_stone_place,fix_inter,17,26,26,2.0,l7_cave_[metal]_plate02 item_power_stone
+fix_inter\pressurepad_crypt.png,pressurepad_crypt,fix_inter,199,160,1,2.0,l5_human_[stone]_ground01 l5_human_[stone]_ground02
+fix_inter\pressurepad_crypt_l9.png,pressurepad_crypt_l9,fix_inter,200,200,0,2.0,l5_human_[stone]_ground01 l5_human_[stone]_ground02
+fix_inter\pressurepad_gob.png,pressurepad_gob,fix_inter,200,200,0,2.0,l2_gobel_[stone]_arch03 l2_gobel_[stone]_arch02
+fix_inter\public_notice.png,public_notice,fix_inter,6,72,52,2.0,fixinter_public_notice
+fix_inter\public_notice_crypt.png,public_notice_crypt,fix_inter,58,5,54,2.0,fixinter_tomb_notice
+fix_inter\puzzle_orb_box.png,puzzle_orb_box,fix_inter,100,100,100,2.0,l5_human_[stone]_wall01 l5_human_[stone]_wall02
+fix_inter\puzzle_pillar01.png,puzzle_pillar01,fix_inter,52,52,45,2.0,fixinter_piedestalepuzzle fixinter_puzzlepillar01
+fix_inter\puzzle_wheel.png,puzzle_wheel,fix_inter,153,153,48,2.0,fixinter_puzzles
+fix_inter\roof_bloc.png,roof_bloc,fix_inter,200,203,485,2.0,l1_dragon_[ice]_ground01 l1_dragon_[ice]_ground03 l1_dragon_[ice]_ground04 l1_dragon_[ice]_ground05 l1_dragon_[ice]_ground06 l1_dragon_[ice]_ground07 l1_dragon_[ice]_ground08 l1_dragon_[ice]_wall01 l1_dragon_[ice]_wall02 l1_dragon_[ice]_wall03 l1_dragon_[ice]_wall04 l1_dragon_[ice]_wall05 l1_dragon_[ice]_wall06 l1_dragon_[ice]_wall07
+fix_inter\ruby_inwall.png,ruby_inwall,fix_inter,31,23,12,2.0,item_rubis
+fix_inter\sarcophage.png,sarcophage,fix_inter,120,240,15,2.0,l3_human_[stone]_wall16 fixinter_sarcophage
+fix_inter\sarcophage_l19.png,sarcophage_l19,fix_inter,112,256,12,2.0,l4_human_[stone]_wall16
+fix_inter\sarcophage_l6_r03.png,sarcophage_l6_r03,fix_inter,140,254,78,2.0,l6_human_[rock]_wall19 l6_human_[rock]_wall05 l6_human_[rock]_wall08 l6_human_[rock]_wall10 l6_human_[rock]_wall11
+fix_inter\sarcophagebig.png,sarcophagebig,fix_inter,350,150,25,2.0,l7_human_[rock]_wall06 l7_human_[rock]_wall08 l7_human_[rock]_wall10 l7_human_[rock]_wall11 l7_human_[rock]_wall12
+fix_inter\scelled_key.png,scelled_key,fix_inter,30,11,50,2.0,[metal]_dwarf_grid [metal]_human_various2 [metal]_dwarf_wall1
+fix_inter\secret_button.png,secret_button,fix_inter,65,0,24,2.0,stone 4 b
+fix_inter\secret_button\l1_temple_akbaa-secretbutton.png,l1_temple_akbaa-secretbutton,fix_inter/secret_button,65,0,24,2.0,l1_temple_[stone]_wall09
+fix_inter\secret_button\l1_temple_akbaa_l33_secretbutton.png,l1_temple_akbaa_l33_secretbutton,fix_inter/secret_button,65,0,24,2.0,l1_temple_[stone]_wall02
+fix_inter\secret_button\l1_temple_akbaa_l37w_secretbutton.png,l1_temple_akbaa_l37w_secretbutton,fix_inter/secret_button,51,0,17,2.0,l1_prison_[stone]_wall03
+fix_inter\secret_button\l23_crypt_secretbutton.png,l23_crypt_secretbutton,fix_inter/secret_button,65,0,24,2.0,l7_human_[rock]_wall02
+fix_inter\secret_button_bank_inside.png,secret_button_bank_inside,fix_inter,45,0,36,2.0,[stone]_dwarf_wall1 [metal]_dwarf_grid
+fix_inter\secret_button_bank_outside.png,secret_button_bank_outside,fix_inter,42,0,60,2.0,[wood]_human_wall
+fix_inter\secret_button_castle01.png,secret_button_castle01,fix_inter,65,0,24,2.0,[stone]_human_wall3
+fix_inter\secret_button_castle02.png,secret_button_castle02,fix_inter,65,0,24,2.0,[stone]_human_wall8
+fix_inter\secret_button_crypt.png,secret_button_crypt,fix_inter,50,0,50,2.0,l4_human_[stone]_wall02
+fix_inter\secret_button_crypt_l22.png,secret_button_crypt_l22,fix_inter,50,25,50,2.0,l6_human_[rock]_wall14 l6_human_[rock]_wall10
+fix_inter\secret_button_gob.png,secret_button_gob,fix_inter,68,8,54,2.0,l1_prison_[stone]_wall01
+fix_inter\secret_button_painting.png,secret_button_painting,fix_inter,8,0,8,2.0,l5_snake_[fabric]_fake01
+fix_inter\secret_door_council_1a.png,secret_door_council_1a,fix_inter,200,15,235,2.0,[stone]_human_various1 [stone]_human_various2 [stone]_human_wall4a [stone]_human_wall2
+fix_inter\secret_door_council_1b.png,secret_door_council_1b,fix_inter,150,25,200,2.0,[stone]_human_castle_wall1
+fix_inter\secret_door_council_2a.png,secret_door_council_2a,fix_inter,150,15,200,2.0,[stone]_human_wall3 (wood) door
+fix_inter\secret_door_council_2b.png,secret_door_council_2b,fix_inter,150,20,200,2.0,[stone]_human_castle_wall1 [stone]_human_wall3 (wood) door
+fix_inter\secret_door_king.png,secret_door_king,fix_inter,20,200,250,2.0,[wood]_human_wall
+fix_inter\secret_door_l23_r2.png,secret_door_l23_r2,fix_inter,140,5,50,2.0,l7_human_[rock]_wall05
+fix_inter\secret_door_throne_room.png,secret_door_throne_room,fix_inter,200,20,250,2.0,[stone]_human_castle_wall3 [stone]_human_various2
+fix_inter\secretwall_crypt19.png,secretwall_crypt19,fix_inter,160,30,280,2.0,l4_human_[stone]_wall01 l4_human_[stone]_wall05 l4_human_[stone]_wall20 l4_human_[stone]_wall23
+fix_inter\secretwall_crypt_l6_01.png,secretwall_crypt_l6_01,fix_inter,200,195,300,2.0,l6_human_[rock]_wall13 l6_human_[rock]_wall16 l6_human_[bone]_wall04_bis l6_human_[bone]_wall05_bis l6_human_[rock]_wall08 l6_human_[rock]_wall07 l6_human_[rock]_wall11 l6_human_[stone]_wall01 l6_human_[stone]_wall02
+fix_inter\secretwall_crypt_l6_02.png,secretwall_crypt_l6_02,fix_inter,202,50,300,2.0,l6_human_[rock]_wall13 l6_human_[rock]_wall16 l6_human_[bone]_wall05_bis l6_human_[rock]_wall08 l6_human_[rock]_wall10 l6_human_[stone]_ground04 l6_human_[stone]_ground03 l6_human_[stone]_wall02
+fix_inter\secretwall_crypt_l6_03.png,secretwall_crypt_l6_03,fix_inter,200,30,245,2.0,l6_human_[rock]_wall16 l6_human_[rock]_wall08 l6_human_[rock]_wall12 l6_human_[rock]_wall10 l6_human_[rock]_wall11
+fix_inter\secretwall_l18.png,secretwall_l18,fix_inter,191,25,280,2.0,l4_dwarf_[stone]_wall02 l4_dwarf_[stone]_wall04 l4_dwarf_[stone]_wall11 l4_dwarf_[stone]_wall13 l4_dwarf_[stone]_wall19 l4_dwarf_[stone]_wall20 l4_human_[stone]_wall01 l4_human_[stone]_wall02 l4_human_[stone]_wall05 l4_human_[stone]_wall23
+fix_inter\shiny_orb_place.png,shiny_orb_place,fix_inter,54,53,110,2.0,l7_human_[rock]_wall06 l7_human_[rock]_wall12
+fix_inter\shiny_orb_place_full.png,shiny_orb_place_full,fix_inter,54,53,153,2.0,l7_human_[rock]_wall06 l7_human_[rock]_wall12 item_shiny_orb_end
+fix_inter\skull_flying.png,skull_flying,fix_inter,20,25,21,2.0,item_skull
+fix_inter\skull_iserbius.png,skull_iserbius,fix_inter,30,25,21,2.0,l4_ylside_[bone]_skull01
+fix_inter\snake_lock_empty.png,snake_lock_empty,fix_inter,40,7,50,2.0,l5_snake_[glass]_mirror01 l5_snake_[metal]_frize01
+fix_inter\snake_lock_full.png,snake_lock_full,fix_inter,40,13,50,2.0,l5_snake_[glass]_mirror01 l5_snake_[metal]_frize02 l5_snake_[metal]_frize03 l5_snake_[metal]_frize01
+fix_inter\snake_teleport_center.png,snake_teleport_center,fix_inter,147,147,400,2.0,l5_snake_[glass]_mirror01
+fix_inter\snake_teleport_door.png,snake_teleport_door,fix_inter,207,73,354,2.0,fix_inter_shot_0 fixinter_snake_teleport_door
+fix_inter\snake_woman_hangings.png,snake_woman_hangings,fix_inter,180,8,265,2.0,[fabric]_snake l5_snake_[fabric]_curt02 l5_snake_[fabric]_curt03
+fix_inter\spears_trap.png,spears_trap,fix_inter,175,5,105,2.0,fixinter_herse
+fix_inter\spears_trap_wall.png,spears_trap_wall,fix_inter,200,5,160,2.0,(wood) door
+fix_inter\spider_egg.png,spider_egg,fix_inter,8,8,15,2.0,item_dragon_egg
+fix_inter\spider_web.png,spider_web,fix_inter,225,450,276,2.0,fixinter_spider_web
+fix_inter\spider_web_2.png,spider_web_2,fix_inter,71,67,188,2.0,fixinter_spider_web
+fix_inter\spider_web_broken.png,spider_web_broken,fix_inter,225,95,276,2.0,fixinter_[nocol]spider_web_broken
+fix_inter\motte.png,motte,fix_inter,88,88,22,2.0,(fx)_tsu10
+fix_inter\stalagmite.png,stalagmite,fix_inter,64,64,66,2.0,(fx)_tsu10
+fix_inter\statue.png,statue,fix_inter,120,120,284,2.0,fixinter_statue
+fix_inter\statue_guardian.png,statue_guardian,fix_inter,82,82,194,2.0,fixinter_statue item_long_sword
+fix_inter\statue_snake_woman.png,statue_snake_woman,fix_inter,160,238,214,2.0,fix_snake_woman_body_statue fix_snake_woman_head_statue
+fix_inter\statue_sword.png,statue_sword,fix_inter,120,120,284,2.0,fixinter_statue
+fix_inter\statue_tirkio.png,statue_tirkio,fix_inter,106,106,251,2.0,fixinter_statue01
+fix_inter\stone_jail.png,stone_jail,fix_inter,40,20,8,2.0,[stone]_human_stone_wall
+fix_inter\stone_riddle.png,stone_riddle,fix_inter,20,68,100,2.0,item_stone_riddle
+fix_inter\sword_2handed_statue.png,sword_2handed_statue,fix_inter,51,12,164,2.0,[weapon]2handed_sword
+fix_inter\sword_statue.png,sword_statue,fix_inter,40,12,130,2.0,fix_statue2handed_sword
+fix_inter\telescope.png,telescope,fix_inter,13,23,30,2.0,l1_prison_(stone_metal04
+fix_inter\temple_big_door.png,temple_big_door,fix_inter,280,25,375,2.0,fixinter_temple_big_door
+fix_inter\temple_front_door.png,temple_front_door,fix_inter,300,14,285,2.0,
+fix_inter\temple_platform.png,temple_platform,fix_inter,400,129,59,2.0,l1_temple_[bone]_ribs01 l1_temple_[bone]_skull02 l1_temple_[bone]_skulls01 l1_temple_[flesh]_muscle01
+fix_inter\timed_lever.png,timed_lever,fix_inter,43,21,40,2.0,fixinter_bell
+fix_inter\tombstone_vertikal17.png,tombstone_vertikal17,fix_inter,100,10,80,2.0,l3_human_[stone]_wall18
+fix_inter\tombstone_vertikal19.png,tombstone_vertikal19,fix_inter,100,10,80,2.0,l4_human_[stone]_wall16
+fix_inter\tombstone_vertikal22.png,tombstone_vertikal22,fix_inter,95,10,95,2.0,l6_human_[rock]_wall14 l6_human_[rock]_wall10
+fix_inter\torch_rotating.png,torch_rotating,fix_inter,36,24,52,2.0,l3_caves_[wood]_board04 l3_caves_[wood]_pillar03
+fix_inter\tortured_corpse.png,tortured_corpse,fix_inter,46,62,171,2.0,l6_human_[fabric]_rope01 l6_ratmen_[clothe]_mummy01 l6_ratmen_[clothe]_mummy02 l6_ratmen_[clothe]_mummy03
+fix_inter\training_dummy.png,training_dummy,fix_inter,103,44,54,2.0,(fabrics)_straw_mattress [wood]_human_plank
+fix_inter\trap_hole.png,trap_hole,fix_inter,200,200,140,2.0,gobground fixinter_oil_lamp
+fix_inter\trap_pit.png,trap_pit,fix_inter,200,400,0,2.0,l5_caves_[metal]_board01
+fix_inter\trap_sewers.png,trap_sewers,fix_inter,165,140,20,2.0,[metal]_human_various1 [organic]_mud [wood]_chest_blacksmith [metal]_dwarf1
+fix_inter\trap_sewers_jail.png,trap_sewers_jail,fix_inter,165,165,20,2.0,[metal]_human_various1 [organic]_mud [wood]_chest_blacksmith [metal]_dwarf1
+fix_inter\trap_sewers_lovers.png,trap_sewers_lovers,fix_inter,165,190,20,2.0,[metal]_human_various1 [organic]_mud [wood]_chest_blacksmith [metal]_dwarf1
+fix_inter\trolley.png,trolley,fix_inter,133,199,107,2.0,l4_dwarf_[metal]_weel01 l4_dwarf_[iron]_board01 l4_dwarf_[wood]_board02 l4_dwarf_[wood]_board04 l4_dwarf_[wood]_pillar03
+fix_inter\tumbling_cross.png,tumbling_cross,fix_inter,53,7,85,2.0,l3_human_[stone]_wall23
+fix_inter\untwisted_portcullis.png,untwisted_portcullis,fix_inter,198,20,282,2.0,[stone]_human_stone_wall (wood) door
+fix_inter\untwisted_portcullis_1.png,untwisted_portcullis_1,fix_inter,45,20,282,2.0,[stone]_human_stone_wall (wood) door
+fix_inter\untwisted_portcullis_2.png,untwisted_portcullis_2,fix_inter,60,17,300,2.0,l1_prison_[iron]_chain01
+fix_inter\untwisted_portcullis_3.png,untwisted_portcullis_3,fix_inter,93,20,282,2.0,[stone]_human_stone_wall (wood) door
+fix_inter\useless_book.png,useless_book,fix_inter,50,0,50,2.0,alpha
+fix_inter\vertical_lever.png,vertical_lever,fix_inter,39,81,53,2.0,l3_dissid_[iron]_wall01 l3_dissid_[wood]_construct05
+fix_inter\vision_ball.png,vision_ball,fix_inter,100,100,169,2.0,l5_snake_[metal]_frize06 l5_snake_[marble]_wall11 l5_snake_[metal]_frize01 l5_snake_[stone]_floor07 l5_snake_[stone]_celling05 (fx)_big_greypouf
+fix_inter\vivarium_glass.png,vivarium_glass,fix_inter,80,0,65,2.0,[metal]_glass01
+fix_inter\vivarium_portcullis.png,vivarium_portcullis,fix_inter,10,65,85,2.0,l4_ylside_[iron]_feu02 l4_ylside_[stone]_wall08 l4_ylside_[stone]_wall09 l4_ylside_[wood]_forge01
+fix_inter\wall_arrow.png,wall_arrow,fix_inter,25,15,28,2.0,l3_dissid_[stone]_wall05
+fix_inter\wall_breakable.png,wall_breakable,fix_inter,359,25,300,2.0,l2_gobru_(stone)_wall01 l2_gobru_(stone)_wall02 l2_gobru_(stone)_wall03 l2_gobru_(stone)_wall04
+fix_inter\wall_breakable_blackthing.png,wall_breakable_blackthing,fix_inter,304,30,324,2.0,l7_dwarf_[wood]_board02 l7_dwarf_[wood]_board06 l7_dwarf_[wood]_board05 l7_dwarf_[wood]_board01 l7_dwarf_[wood]_board12 l7_dwarf_[wood]_board20 l7_cave_[woodl]_board01 l7_cave_[woodl]_board02
+fix_inter\wall_fireball.png,wall_fireball,fix_inter,200,20,250,2.0,stone 4 a stone 4 c
+fix_inter\wall_poison.png,wall_poison,fix_inter,50,25,30,2.0,l5_human_[stone]_wall23 l5_human_[stone]_ceiling02 l5_caves_[metal]_door01
+fix_inter\wall_secret.png,wall_secret,fix_inter,200,200,250,2.0,stone 4 a stone 4 b stone 4 c
+fix_inter\wall_secret\wall_secret.png,wall_secret,fix_inter/wall_secret,200,200,250,2.0,stone 4 a stone 4 b stone 4 c
+fix_inter\wall_secret_goblin_prison.png,wall_secret_goblin_prison,fix_inter,200,25,300,2.0,l1_prison_[stone]_wall02 l1_prison_[stone]_wall03 l1_prison_[stone]_wall04 l1_prison_[stone]_wall05
+fix_inter\wall_secret_to_arkane.png,wall_secret_to_arkane,fix_inter,250,930,210,2.0,(rock)_mine_standard_rock pierre1
+fix_inter\water_bassin.png,water_bassin,fix_inter,71,114,0,2.0,[water]_dark_and_dirt
+fix_inter\water_bassin_dissident.png,water_bassin_dissident,fix_inter,123,123,0,2.0,l3_caves_[water]_ground01
+fix_inter\water_bassin_dissident2.png,water_bassin_dissident2,fix_inter,173,78,0,2.0,l3_caves_[water]_ground01
+fix_inter\water_bucket.png,water_bucket,fix_inter,38,38,0,2.0,[water]_dark_and_dirt
+fix_inter\water_chinka_bedroom.png,water_chinka_bedroom,fix_inter,400,400,0,2.0,[water]_dark_and_dirt
+fix_inter\water_lavabo.png,water_lavabo,fix_inter,62,25,0,2.0,(water)gobwater
+fix_inter\water_lavabo_poisoned.png,water_lavabo_poisoned,fix_inter,62,25,0,2.0,(water)gobwater
+fix_inter\watering_place.png,watering_place,fix_inter,182,92,63,2.0,(water)gobwater
+fix_inter\watering_place_poisoned.png,watering_place_poisoned,fix_inter,182,92,63,2.0,(water)gobwater
+fix_inter\worm_gore1.png,worm_gore1,fix_inter,36,61,37,2.0,npc_worm_head npc_worm_body_part3 l1_temple_(fabric)_diam01
+fix_inter\worm_gore2.png,worm_gore2,fix_inter,31,38,1,2.0,npc_worm_head npc_worm_body_part3 l1_temple_(fabric)_diam01
+fix_inter\worm_gore3.png,worm_gore3,fix_inter,22,20,8,2.0,npc_worm_body_part3
+fix_inter\worm_gore4.png,worm_gore4,fix_inter,92,101,16,2.0,npc_worm_body_part2 l1_temple_(fabric)_diam01
+fix_inter\worm_gore.png,worm_gore,fix_inter,123,115,10,2.0,npc_worm_body_part1 l1_temple_(fabric)_diam01
+fix_inter\zohark_hidden.png,zohark_hidden,fix_inter,85,70,100,2.0,stone 4 a stone 4 b
+items\armor\chest_chain.png,chest_chain,items/armor,46,44,17,2.0,npc_human_chainmail_body
+items\armor\chest_chain_dissident.png,chest_chain_dissident,items/armor,46,44,17,2.0,npc_human_chainmail_sacred_body
+items\armor\chest_leather.png,chest_leather,items/armor,84,53,28,2.0,npc_human_leatherbrown_body
+items\armor\chest_leather_ac.png,chest_leather_ac,items/armor,85,52,34,2.0,npc_human_leatherbrown_body
+items\armor\chest_leather_stealth.png,chest_leather_stealth,items/armor,84,53,28,2.0,npc_human_leatherblack_body
+items\armor\chest_mythril.png,chest_mythril,items/armor,46,44,17,2.0,npc_human_chainmail_mithril_body
+items\armor\chest_plate.png,chest_plate,items/armor,56,62,36,2.0,npc_human_plate_body
+items\armor\chest_plate_ac.png,chest_plate_ac,items/armor,56,62,36,2.0,npc_human_plate_body
+items\armor\chest_plate_cm.png,chest_plate_cm,items/armor,56,62,36,2.0,npc_human_plate_body_cm
+items\armor\helmet_chain.png,helmet_chain,items/armor,28,23,15,2.0,npc_human_chainmail_hero_head
+items\armor\helmet_leather_stealth.png,helmet_leather_stealth,items/armor,30,28,4,2.0,npc_human_leather_hero_head
+items\armor\helmet_mythril.png,helmet_mythril,items/armor,28,23,15,2.0,npc_human_chainmail_mithril_hero_head
+items\armor\helmet_plate.png,helmet_plate,items/armor,32,31,22,2.0,npc_human_plate_head
+items\armor\helmet_plate_ac.png,helmet_plate_ac,items/armor,32,31,22,2.0,npc_human_plate_head
+items\armor\helmet_plate_cm.png,helmet_plate_cm,items/armor,32,31,22,2.0,npc_human_plate_head_cm
+items\armor\helmet_poxsellis.png,helmet_poxsellis,items/armor,22,55,48,2.0,npc_human_plate_full_head
+items\armor\legging_chain.png,legging_chain,items/armor,44,100,27,2.0,npc_human_chainmail_body
+items\armor\legging_chain_dissident.png,legging_chain_dissident,items/armor,44,100,27,2.0,npc_human_chainmail_sacred_body
+items\armor\legging_leather.png,legging_leather,items/armor,40,61,50,2.0,npc_human_leatherbrown_body
+items\armor\legging_leather_ac.png,legging_leather_ac,items/armor,101,79,40,2.0,npc_human_leatherbrown_body
+items\armor\legging_leather_stealth.png,legging_leather_stealth,items/armor,40,61,50,2.0,npc_human_leatherblack_body
+items\armor\legging_mythril.png,legging_mythril,items/armor,44,100,27,2.0,npc_human_chainmail_mithril_body
+items\armor\legging_plate.png,legging_plate,items/armor,63,85,42,2.0,npc_human_plate_body
+items\armor\legging_plate_ac.png,legging_plate_ac,items/armor,63,85,42,2.0,npc_human_plate_body
+items\armor\legging_plate_cm.png,legging_plate_cm,items/armor,63,85,42,2.0,npc_human_plate_body_cm
+items\armor\shield.png,shield,items/armor,50,50,6,2.0,item_shield_r item_shield_f_new
+items\armor\shield_elders.png,shield_elders,items/armor,49,83,7,2.0,item_shield_elders
+items\armor\shield_metal.png,shield_metal,items/armor,50,50,8,2.0,item_ironshield_r item_ironshield_f_new
+items\armor\shield_tower_metal.png,shield_tower_metal,items/armor,51,83,10,2.0,item_shield_tower_metal
+items\armor\ylside_armor.png,ylside_armor,items/armor,70,81,41,2.0,npc_human_ylside_body
+items\armor\ylside_leggings.png,ylside_leggings,items/armor,62,115,37,2.0,npc_human_ylside_body
+items\jewelry\bracelet.png,bracelet,items/jewelry,31,23,17,2.0,item_bracelet
+items\jewelry\diamond.png,diamond,items/jewelry,25,25,12,2.0,item_diamond
+items\jewelry\emerald.png,emerald,items/jewelry,23,23,11,2.0,item_emerald
+items\jewelry\gem.png,gem,items/jewelry,29,26,34,2.0,item_gems
+items\jewelry\gold_bar.png,gold_bar,items/jewelry,37,12,5,2.0,item_goldbar
+items\jewelry\gold_coin.png,gold_coin,items/jewelry,7,7,1,2.0,item_gold_coin item_gold_coin7
+items\jewelry\gold_coin2.png,gold_coin2,items/jewelry,8,9,2,2.0,item_gold_coin item_gold_coin7
+items\jewelry\gold_coin3.png,gold_coin3,items/jewelry,8,9,3,2.0,item_gold_coin item_gold_coin7
+items\jewelry\gold_coin4.png,gold_coin4,items/jewelry,9,11,5,2.0,item_gold_coin item_gold_coin7
+items\jewelry\gold_coin5.png,gold_coin5,items/jewelry,16,12,3,2.0,item_gold_coin item_gold_coin7 item_gold_coin item_gold_coin7
+items\jewelry\gold_coin6.png,gold_coin6,items/jewelry,16,12,5,2.0,item_gold_coin item_gold_coin7 item_gold_coin item_gold_coin7
+items\jewelry\gold_coin7.png,gold_coin7,items/jewelry,25,29,25,2.0,item_gold_coin item_gold_coin7
+items\jewelry\gold_cup.png,gold_cup,items/jewelry,25,25,28,2.0,item_gold_cup
+items\jewelry\gold_ring.png,gold_ring,items/jewelry,7,11,11,2.0,item_gold_ring
+items\jewelry\necklace.png,necklace,items/jewelry,25,27,2,2.0,item_necklace
+items\jewelry\ruby.png,ruby,items/jewelry,31,23,12,2.0,item_rubis
+items\jewelry\silver_ring.png,silver_ring,items/jewelry,7,11,11,2.0,item_silver_ring
+items\l2_gobel_r19_secretdoor.png,l2_gobel_r19_secretdoor,items,196,37,449,2.0,l2_gobel_[stone]_coinhg l2_gobel_[stone]_crown01 l2_gobel_[stone]_half02 l2_gobel_[stone]_stair01 l2_gobel_[stone]_wall01 l2_troll_[fabric]_nocol_rope01
+items\magic\fern.png,fern,items/magic,104,97,45,2.0,item_fern
+items\magic\golem_heart.png,golem_heart,items/magic,25,25,6,2.0,npc_golem_stone_heart
+items\magic\medicinal_herb.png,medicinal_herb,items/magic,40,11,33,2.0,item_medicinal_herb
+items\magic\morning_glory.png,morning_glory,items/magic,28,22,32,2.0,item_morning_glory
+items\magic\potion2beblue.png,potion2beblue,items/magic,27,23,39,2.0,item_potion_2beblue
+items\magic\potion2begreen.png,potion2begreen,items/magic,27,23,39,2.0,item_potion_2begreen
+items\magic\potion2beorange.png,potion2beorange,items/magic,27,23,39,2.0,item_bottle empty item_potion_2beorange
+items\magic\potion2bepurple.png,potion2bepurple,items/magic,27,23,39,2.0,item_potion_2bepurple
+items\magic\potion2bewhite.png,potion2bewhite,items/magic,27,23,39,2.0,item_potion_2bewhite
+items\magic\potion_green.png,potion_green,items/magic,27,23,39,2.0,item_potion_green
+items\magic\potion_invisible.png,potion_invisible,items/magic,27,23,39,2.0,item_potion_invisible
+items\magic\potion_life.png,potion_life,items/magic,27,23,39,2.0,item_potion_life
+items\magic\potion_mana.png,potion_mana,items/magic,27,23,39,2.0,item_potion_mana
+items\magic\potion_purple.png,potion_purple,items/magic,27,23,39,2.0,item_potion_purple
+items\magic\powder_antidote.png,powder_antidote,items/magic,42,43,12,2.0,item_powder_antidote
+items\magic\powder_bone.png,powder_bone,items/magic,37,38,5,2.0,item_bones
+items\magic\dragon_bone_powder.png,dragon_bone_powder,items/magic,37,35,5,2.0,item_bones
+items\magic\powder_fern.png,powder_fern,items/magic,42,43,12,2.0,item_powder_fern
+items\magic\powder_morning_glory.png,powder_morning_glory,items/magic,43,43,12,2.0,item_powder_morning_glory
+items\magic\powder_snow_drop.png,powder_snow_drop,items/magic,35,40,5,2.0,item_powder_snow_drop
+items\magic\powder_water_lily.png,powder_water_lily,items/magic,43,43,12,2.0,item_powder_watrlily
+items\magic\power_stone.png,power_stone,items/magic,15,17,39,2.0,item_power_stone
+items\magic\ring.png,ring,items/magic,7,11,11,2.0,item_silver_ring
+items\magic\ring_casting.png,ring_casting,items/magic,6,10,13,2.0,item_ring_casting
+items\magic\ring_curse.png,ring_curse,items/magic,8,10,13,2.0,item_ring_curse
+items\magic\ring_daarka.png,ring_daarka,items/magic,6,10,12,2.0,item_ring_daarka
+items\magic\ring_invisibility.png,ring_invisibility,items/magic,8,10,12,2.0,item_ring_invisibility
+items\magic\ring_invisibility_handmade.png,ring_invisibility_handmade,items/magic,8,10,12,2.0,item_ring_invisibility
+items\magic\ring_master_anselmo.png,ring_master_anselmo,items/magic,4,10,12,2.0,item_ring_master_anselmo
+items\magic\ring_misery.png,ring_misery,items/magic,6,13,12,2.0,item_ring_misery
+items\magic\ring_oliver.png,ring_oliver,items/magic,4,10,12,2.0,item_ring_oliver
+items\magic\ring_player.png,ring_player,items/magic,6,13,12,2.0,item_ring_misery
+items\magic\ring_protection.png,ring_protection,items/magic,10,10,10,2.0,item_ring_protection item_ring_misery
+items\magic\ring_regeneration.png,ring_regeneration,items/magic,7,10,12,2.0,item_ring_regeneration
+items\magic\ring_regeneration_handmade.png,ring_regeneration_handmade,items/magic,7,10,12,2.0,item_ring_regeneration
+items\magic\ring_water_point.png,ring_water_point,items/magic,6,10,13,2.0,item_ring_casting
+items\magic\rune_aam.png,rune_aam,items/magic,28,36,9,2.0,item_rune_aam item_rune_back
+items\magic\scroll_generic.png,scroll_generic,items/magic,37,10,7,2.0,item_scroll_generic
+items\magic\snow_drop.png,snow_drop,items/magic,11,15,27,2.0,item_snow_drop
+items\magic\waterlily.png,waterlily,items/magic,47,54,16,2.0,item_wlilly
+items\movable\akbaa_blood.png,akbaa_blood,items/movable,200,0,200,2.0,[stone]_blood_akbaa
+items\movable\akbaa_blood_chicken.png,akbaa_blood_chicken,items/movable,110,66,19,2.0,npc_chicken_head_off npc_gore [stone]_human_blood04
+items\movable\akbaa_blood_chicken_head.png,akbaa_blood_chicken_head,items/movable,14,19,4,2.0,npc_chicken_head_off npc_gore
+items\movable\bet.png,bet,items/movable,15,15,10,2.0,item_mug
+items\movable\blackbox.png,blackbox,items/movable,76,76,55,2.0,item_blackbox
+items\movable\bone_bassin.png,bone_bassin,items/movable,51,33,36,2.0,item_bone_bassin
+items\movable\broken_bottle.png,broken_bottle,items/movable,58,20,17,2.0,item_bottle empty
+items\movable\broken_shield.png,broken_shield,items/movable,50,49,17,2.0,item_shield_r item_shield_f_new
+items\movable\broken_stool.png,broken_stool,items/movable,51,44,35,2.0,[wood]_table
+items\movable\broken_sword.png,broken_sword,items/movable,26,78,6,2.0,[weapon]shortsword
+items\movable\bucket.png,bucket,items/movable,48,48,50,2.0,fixinter_barrel
+items\movable\card.png,card,items/movable,80,44,7,2.0,item_games
+items\movable\chess.png,chess,items/movable,60,60,8,2.0,item_games
+items\movable\cuscion.png,cuscion,items/movable,56,56,15,2.0,item_cuscion
+items\movable\dwarf_pan.png,dwarf_pan,items/movable,32,19,9,2.0,l7_dwarf_[metal]_plate01 l7_dwarf_[metal]_plate03
+items\movable\dwarf_pot_closed.png,dwarf_pot_closed,items/movable,12,12,11,2.0,l7_dwarf_[wood]_board08 l7_dwarf_[stone]_wall03 l7_dwarf_[stone]_wall09
+items\movable\dwarf_pot_coffee.png,dwarf_pot_coffee,items/movable,18,18,10,2.0,l7_dwarf_[stone]_wall03 l7_dwarf_[stone]_wall05 l7_dwarf_[stone]_wall09 l7_dwarf_[fabric]_food01
+items\movable\dwarf_pot_forks.png,dwarf_pot_forks,items/movable,12,11,31,2.0,l7_dwarf_[stone]_wall09 l7_dwarf_[wood]_ustensiles01 l7_mines_[metal]_teleporteur01 l7_dwarf_[stone]_wall01
+items\movable\flee_marker.png,flee_marker,items/movable,11,11,23,2.0,system_marker
+items\movable\flour_bag.png,flour_bag,items/movable,50,81,67,2.0,item_floorbag
+items\movable\fork.png,fork,items/movable,3,19,2,2.0,item_fork
+items\movable\goblin_gore01.png,goblin_gore01,items/movable,62,29,22,2.0,npc_goblin_base_body npc_gore
+items\movable\goblin_gore02.png,goblin_gore02,items/movable,28,26,25,2.0,npc_goblin_nohelm_head npc_goblin_base_body npc_gore
+items\movable\goblin_gore03.png,goblin_gore03,items/movable,69,64,15,2.0,npc_goblin_base_body npc_gore
+items\movable\greu_art1.png,greu_art1,items/movable,42,42,59,2.0,item_greu_art01 item_greu_art_socle
+items\movable\greu_art2.png,greu_art2,items/movable,39,74,70,2.0,item_greu_art_socle item_greu_art02
+items\movable\greu_art3.png,greu_art3,items/movable,161,61,91,2.0,item_greu_art03 [wood]_table
+items\movable\guard_chopped_head.png,guard_chopped_head,items/movable,28,26,17,2.0,npc_gore npc_human_chainmail_hero_head [soil]_human_blood03
+items\movable\guard_chopped_leg.png,guard_chopped_leg,items/movable,96,45,21,2.0,npc_gore npc_human_chainmail_guard_body_dirty
+items\movable\hoe.png,hoe,items/movable,30,165,40,2.0,[wood]_human_roughcast_wall [metal]_human_various1
+items\movable\human_gore.png,human_gore,items/movable,70,38,19,2.0,npc_gore npc_human_hero_naked_body [soil]_human_blood01 npc_human_leatherbrown_body
+items\movable\human_gore02.png,human_gore02,items/movable,64,17,11,2.0,npc_human_leatherbrown_body npc_gore npc_human_hero_naked_body [soil]_human_blood01
+items\movable\human_gore03.png,human_gore03,items/movable,119,48,31,2.0,npc_gore npc_human_chainmail_body
+items\movable\jar.png,jar,items/movable,30,23,34,2.0,item_jar
+items\movable\l2_gobel_chair_01.png,l2_gobel_chair_01,items/movable,63,65,119,2.0,l2_gobel_[metal]_metal03 l2_gobel_[wood]_board01 l2_gobel_[wood]_board02 l2_gobel_[wood]_board05
+items\movable\l2_gobel_chair_02.png,l2_gobel_chair_02,items/movable,64,64,118,2.0,l2_gobel_[wood]_board01 l2_gobel_[wood]_board02 l2_gobel_[wood]_board05
+items\movable\l2_gobel_chair_03.png,l2_gobel_chair_03,items/movable,74,80,62,2.0,l2_gobel_[wood]_board01 l2_gobel_[wood]_board05
+items\movable\l3_1_dissidents_barrel.png,l3_1_dissidents_barrel,items/movable,69,70,80,2.0,l3_dissid_[wood]_fabric03
+items\movable\l3_1_dissidents_bench.png,l3_1_dissidents_bench,items/movable,156,49,52,2.0,l3_dissid_[wood]_fabric04
+items\movable\l3_1_dissidents_bucket.png,l3_1_dissidents_bucket,items/movable,38,38,30,2.0,l3_dissid_[wood]_fabric03
+items\movable\l3_1_dissidents_stool.png,l3_1_dissidents_stool,items/movable,40,38,50,2.0,l3_dissid_[wood]_construct01
+items\movable\l7_dwarf_bench01.png,l7_dwarf_bench01,items/movable,101,114,0,2.0,l7_dwarf_[wood]_board56 l7_dwarf_[wood]_board57
+items\movable\l7_dwarf_bench02.png,l7_dwarf_bench02,items/movable,130,33,1,2.0,l7_dwarf_[wood]_board10
+items\movable\l7_dwarf_head.png,l7_dwarf_head,items/movable,40,36,24,2.0,l7_cave_(flesh)_head03 l7_cave_(flesh)_head04 l7_cave_(flesh)_body06 l7_cave_(hair)_bearb01 l7_cave_(flesh)_brain01 l7_cave_(hair)_bearb03 l7_cave_(hair)_bearb04
+items\movable\l7_dwaves_flourbag.png,l7_dwaves_flourbag,items/movable,56,42,2,2.0,l7_human_[rock]_wall08 l7_dwarf_[fabric]_bag01
+items\movable\little_chest.png,little_chest,items/movable,37,49,20,2.0,fixinter_chest_metal1 fixinter_chest_metal2
+items\movable\mirette.png,mirette,items/movable,365,0,138,2.0,
+items\movable\mithril_chunk_big.png,mithril_chunk_big,items/movable,76,74,59,2.0,[metal]_mithril_chunk
+items\movable\mug.png,mug,items/movable,25,23,8,2.0,item_mug
+items\movable\mug_full2.png,mug_full2,items/movable,25,26,15,2.0,item_mug
+items\movable\plate_clean.png,plate_clean,items/movable,36,36,1,2.0,item_plate_clean
+items\movable\plate_dirty.png,plate_dirty,items/movable,36,36,9,2.0,item_plate_dirty item_plate_clean
+items\movable\plate_goblin_cakes_cooked.png,plate_goblin_cakes_cooked,items/movable,34,34,0,2.0,item_plate_clean item_applepie
+items\movable\plate_goblin_cakes_rare.png,plate_goblin_cakes_rare,items/movable,34,34,0,2.0,item_plate_clean item_applepie
+items\movable\rat_base_dead.png,rat_base_dead,items/movable,26,91,23,2.0,npc_rat_base
+items\movable\rat_base_dead2.png,rat_base_dead2,items/movable,20,46,15,2.0,npc_rat_base npc_gore
+items\movable\rat_base_dead2old.png,rat_base_dead2old,items/movable,20,48,15,2.0,npc_rat_base
+items\movable\rat_base_dead2old2.png,rat_base_dead2old2,items/movable,20,48,15,2.0,npc_rat_base npc_gore
+items\movable\rat_base_dead3.png,rat_base_dead3,items/movable,32,78,11,2.0,npc_rat_base [weapon]shortsword
+items\movable\ribcage.png,ribcage,items/movable,38,27,16,2.0,l2_troll_[bone]_ribcage 
+items\movable\rubbish.png,rubbish,items/movable,55,47,17,2.0,[plant]_vegetables
+items\movable\rubble.png,rubble,items/movable,101,124,28,2.0,l2_caves_[stone]_ground11 l1_prison_(wood)_piece03
+items\movable\seat_armchair1_basic.png,seat_armchair1_basic,items/movable,71,61,100,2.0,(wood)_gobelin_bed [wood]_table
+items\movable\seat_armchair2_rich.png,seat_armchair2_rich,items/movable,99,78,110,2.0,[wood]_armchair
+items\movable\seat_bench1.png,seat_bench1,items/movable,150,40,50,2.0,(wood)_gobelin_bed
+items\movable\seat_bench2_rich.png,seat_bench2_rich,items/movable,120,55,50,2.0,(wood)_gobelin_bed [wood]_human_various
+items\movable\seat_bench3_rich.png,seat_bench3_rich,items/movable,120,55,50,2.0,(fabric)_gobelin_bed (wood)_gobelin_bed [wood]_human_various
+items\movable\seat_bench4_goblin.png,seat_bench4_goblin,items/movable,172,44,40,2.0,l1_prison_(wood)_piece01 l1_prison_[fabric]_card&tor01
+items\movable\seat_chair1_rustic.png,seat_chair1_rustic,items/movable,52,55,115,2.0,(wood)_waggon [wood]_light_door
+items\movable\seat_chair2_rustic.png,seat_chair2_rustic,items/movable,69,79,113,2.0,(fabrics)_straw_mattress [wood]_human_plank [wood]_light_door [metal]_dwarf_wall1
+items\movable\seat_chair3_goblin.png,seat_chair3_goblin,items/movable,57,54,118,2.0,l1_prison_(wood)_piece01
+items\movable\seat_stool1.png,seat_stool1,items/movable,42,44,50,2.0,[wood]_table
+items\movable\seat_stool2.png,seat_stool2,items/movable,42,45,104,2.0,[wood]_table
+items\movable\seat_stool3_rich.png,seat_stool3_rich,items/movable,62,35,48,2.0,(wood)_gobelin_bed [wood]_table
+items\movable\seat_stool4_goblin.png,seat_stool4_goblin,items/movable,55,55,65,2.0,l1_prison_(wood)_piece01 l1_prison_[fabric]_card&tor01
+items\movable\bone_skull.png,bone_skull,items/movable,10,12,6,2.0,item_skull
+items\movable\skull.png,skull,items/movable,20,25,21,2.0,item_skull
+items\movable\skull02.png,skull02,items/movable,29,22,11,2.0,l2_troll_[bone]_skull
+items\movable\stone_big.png,stone_big,items/movable,51,35,23,2.0,[stone]_gobwall19
+items\movable\stone_crypt_01.png,stone_crypt_01,items/movable,45,15,10,2.0,l4_human_[stone]_ceiling01
+items\movable\stone_crypt_02.png,stone_crypt_02,items/movable,28,32,5,2.0,l4_human_[stone]_ground01
+items\movable\stone_crypt_03.png,stone_crypt_03,items/movable,51,42,11,2.0,l4_human_[stone]_wall01
+items\movable\tool_blacksmith_bar1.png,tool_blacksmith_bar1,items/movable,10,127,6,2.0,[metal]_human_various1
+items\movable\tool_blacksmith_bar2.png,tool_blacksmith_bar2,items/movable,8,125,3,2.0,[metal]_human_various1
+items\movable\tool_blacksmith_club.png,tool_blacksmith_club,items/movable,22,97,7,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\movable\tool_blacksmith_file1.png,tool_blacksmith_file1,items/movable,5,64,4,2.0,[metal]_dwarf1 [wood]_chest_blacksmith
+items\movable\tool_blacksmith_file2.png,tool_blacksmith_file2,items/movable,6,61,5,2.0,[metal]_dwarf1 [wood]_chest_blacksmith
+items\movable\tool_blacksmith_file3.png,tool_blacksmith_file3,items/movable,5,57,4,2.0,[metal]_dwarf1 [wood]_chest_blacksmith
+items\movable\tool_blacksmith_hammer1.png,tool_blacksmith_hammer1,items/movable,21,39,5,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\movable\tool_blacksmith_hammer2.png,tool_blacksmith_hammer2,items/movable,16,34,6,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\movable\tool_blacksmith_hammer3.png,tool_blacksmith_hammer3,items/movable,19,43,9,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\movable\tool_blacksmith_hammer4.png,tool_blacksmith_hammer4,items/movable,18,41,8,2.0,[metal]_dwarf_wall1 [wood]_human_dirt_planks
+items\movable\tool_blacksmith_pliers1.png,tool_blacksmith_pliers1,items/movable,14,82,8,2.0,[metal]_dwarf_wall1
+items\movable\tool_blacksmith_pliers2.png,tool_blacksmith_pliers2,items/movable,20,96,4,2.0,[metal]_dwarf_wall1 [metal]_dwarf_wall5
+items\movable\tool_blacksmith_pliers3.png,tool_blacksmith_pliers3,items/movable,16,81,3,2.0,[metal]_dwarf_wall1 [metal]_dwarf_wall5
+items\movable\tool_blacksmith_sword1.png,tool_blacksmith_sword1,items/movable,10,112,4,2.0,[metal]_dwarf_wall1 [metal]_human_various3
+items\movable\tool_blacksmith_sword2.png,tool_blacksmith_sword2,items/movable,10,157,5,2.0,[metal]_dwarf_wall1 [metal]_dwarf_wall5 [metal]_human_various3
+items\movable\transparence.png,transparence,items/movable,280,0,145,2.0,(stone) stone ruin c
+items\movable\troll_skull.png,troll_skull,items/movable,65,53,38,2.0,item_troll_skull
+items\movable\ylsides_stool.png,ylsides_stool,items/movable,40,38,50,2.0,l4_ylside_[wood]_construc
+items\provisions\applepie.png,applepie,items/provisions,38,41,5,2.0,item_applepie
+items\provisions\applepie_uncooked.png,applepie_uncooked,items/provisions,26,28,3,2.0,item_applepie
+items\provisions\applepie_uncooked_wine.png,applepie_uncooked_wine,items/provisions,26,28,3,2.0,item_applepie_wine
+items\provisions\applepie_wine.png,applepie_wine,items/provisions,38,41,5,2.0,item_applepie_wine
+items\provisions\backpack.png,backpack,items/provisions,50,40,42,2.0,fixinter_backpack
+items\provisions\bedroll.png,bedroll,items/provisions,39,58,18,2.0,item_bedroll
+items\provisions\bone.png,bone,items/provisions,21,71,10,2.0,item_bones
+items\provisions\bottle_blood.png,bottle_blood,items/provisions,27,23,39,2.0,item_bottle_blood
+items\provisions\bottle_empty.png,bottle_empty,items/provisions,27,23,39,2.0,item_bottle empty
+items\provisions\bottle_water.png,bottle_water,items/provisions,27,23,39,2.0,item_bottle_water
+items\provisions\bottle_wine.png,bottle_wine,items/provisions,27,23,39,2.0,item_bottle_wine
+items\provisions\bread.png,bread,items/provisions,39,36,14,2.0,item_bread_cooked
+items\provisions\bread_half.png,bread_half,items/provisions,39,27,14,2.0,item_bread
+items\provisions\bread_uncooked.png,bread_uncooked,items/provisions,26,26,8,2.0,item_bread_uncooked
+items\provisions\candel.png,candel,items/provisions,30,8,3,2.0,item_candle
+items\provisions\carrot.png,carrot,items/provisions,41,53,24,2.0,[plant]_vegetables
+items\provisions\cheese.png,cheese,items/provisions,21,18,11,2.0,item_cheese
+items\provisions\clock.png,clock,items/provisions,12,12,18,2.0,item_lamp
+items\provisions\compass.png,compass,items/provisions,13,13,3,2.0,item_compass
+items\provisions\crusher.png,crusher,items/provisions,27,24,40,2.0,item_crusher
+items\provisions\dragon_bone.png,dragon_bone,items/provisions,31,56,9,2.0,item_bones
+items\provisions\fishing_pole.png,fishing_pole,items/provisions,13,134,3,2.0,item_fishing pole2
+items\provisions\flour.png,flour,items/provisions,41,39,9,2.0,item_flour
+items\provisions\food_apple.png,food_apple,items/provisions,18,19,22,2.0,item_fruits
+items\provisions\food_chicken.png,food_chicken,items/provisions,32,10,10,2.0,item_chickenleg_02
+items\provisions\food_chicken_uncooked.png,food_chicken_uncooked,items/provisions,32,10,10,2.0,item_chickenleg_01
+items\provisions\food_fish.png,food_fish,items/provisions,46,17,7,2.0,item_fish_01
+items\provisions\food_fish_cooked.png,food_fish_cooked,items/provisions,46,17,9,2.0,item_fish_02
+items\provisions\food_fish_eaten.png,food_fish_eaten,items/provisions,17,38,12,2.0,item_fish_02 npc_gore
+items\provisions\food_leek.png,food_leek,items/provisions,26,80,21,2.0,[plant]_vegetables
+items\provisions\garlic.png,garlic,items/provisions,7,7,11,2.0,item_fruits
+items\provisions\hammer.png,hammer,items/provisions,18,41,3,2.0,[metal]_dwarf_wall1 [wood]_human_dirt_planks
+items\provisions\hammer2.png,hammer2,items/provisions,21,39,5,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\provisions\hammer_club.png,hammer_club,items/provisions,22,97,7,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\provisions\keyring.png,keyring,items/provisions,37,49,11,2.0,[metal]_gold
+items\provisions\keyring_1key.png,keyring_1key,items/provisions,37,62,15,2.0,item_key_base1 [metal]_gold
+items\provisions\keyring_2key.png,keyring_2key,items/provisions,39,63,8,2.0,item_key_base1 [metal]_gold
+items\provisions\keyring_3key.png,keyring_3key,items/provisions,54,64,8,2.0,item_key_base1 [metal]_gold item_key_gob_chest_idol
+items\provisions\keyring_full.png,keyring_full,items/provisions,54,64,8,2.0,item_key_base1 [metal]_gold item_key_gob_chest_idol item_key_crypt
+items\provisions\lamp.png,lamp,items/provisions,34,34,76,2.0,item_lamp
+items\provisions\lockpicks.png,lockpicks,items/provisions,43,35,10,2.0,item_lockpick1 item_lockpick2
+items\provisions\mug_full.png,mug_full,items/provisions,25,26,15,2.0,item_mug
+items\provisions\food_mushroom.png,food_mushroom,items/provisions,13,12,17,2.0,item_mushroom
+items\provisions\oil_can.png,oil_can,items/provisions,46,12,27,2.0,item_oil can$ item_oil can$$
+items\provisions\pick_axe.png,pick_axe,items/provisions,105,160,15,2.0,[wood]_human_roughcast_wall [metal]_human_various1
+items\provisions\pie.png,pie,items/provisions,38,41,5,2.0,item_applepie item.pie
+items\provisions\pie_uncooked.png,pie_uncooked,items/provisions,26,28,3,2.0,item_applepie item.pie
+items\provisions\pole.png,pole,items/provisions,53,119,25,2.0,item_fishing pole2
+items\provisions\pole_with_fish.png,pole_with_fish,items/provisions,46,129,7,2.0,item_fishing pole2 item_fish_01
+items\provisions\ribs.png,ribs,items/provisions,15,26,5,2.0,item_pork_ribs_01
+items\provisions\ribs_cooked.png,ribs_cooked,items/provisions,15,25,5,2.0,item_pork_ribs_02
+items\provisions\ribs_cooked_mini.png,ribs_cooked_mini,items/provisions,7,13,2,2.0,item_pork_ribs_02
+items\provisions\ribs_mini.png,ribs_mini,items/provisions,8,13,3,2.0,item_pork_ribs_01
+items\provisions\roast_chicken.png,roast_chicken,items/provisions,41,26,15,2.0,item_chicken
+items\provisions\rope.png,rope,items/provisions,47,58,6,2.0,item_rope
+items\provisions\shovel.png,shovel,items/provisions,33,9,137,2.0,item_shovel
+items\provisions\torch.png,torch,items/provisions,11,49,8,2.0,item_torch2
+items\quest_item\actions_mines.png,actions_mines,items/quest_item,15,20,0,2.0,item_note item_actions_mine
+items\quest_item\amulet_great_luck.png,amulet_great_luck,items/quest_item,10,21,2,2.0,item_amulet_great_luck
+items\quest_item\amulet_red.png,amulet_red,items/quest_item,15,19,1,2.0,item_amulet_red
+items\quest_item\amulet_troll.png,amulet_troll,items/quest_item,24,25,4,2.0,item_amulet_troll
+items\quest_item\blank_form.png,blank_form,items/quest_item,15,20,0,2.0,item_blank_form
+items\quest_item\blood.png,blood,items/quest_item,40,38,3,2.0,item_blood
+items\quest_item\book.png,book,items/quest_item,35,47,15,2.0,item_book1
+items\quest_item\bookgreu.png,bookgreu,items/quest_item,35,47,15,2.0,item_book1
+items\quest_item\dissident_key.png,dissident_key,items/quest_item,9,18,1,2.0,l3_dissid_[iron]_ground01
+items\quest_item\dragon_egg.png,dragon_egg,items/quest_item,49,49,89,2.0,item_dragon_egg
+items\quest_item\drowned_bones.png,drowned_bones,items/quest_item,47,74,27,2.0,fixinter_corpse
+items\quest_item\fake_golden_snake.png,fake_golden_snake,items/quest_item,39,39,49,2.0,item_golden_snake
+items\quest_item\gem_dealer_badge.png,gem_dealer_badge,items/quest_item,15,20,0,2.0,item_gem_dealer_badge
+items\quest_item\gold_chunk.png,gold_chunk,items/quest_item,40,38,31,2.0,[metal]_gold
+items\quest_item\golden_snake.png,golden_snake,items/quest_item,39,39,49,2.0,item_golden_snake
+items\quest_item\ingot_metal.png,ingot_metal,items/quest_item,50,17,7,2.0,item_lingot_metal
+items\quest_item\ingot_mythril.png,ingot_mythril,items/quest_item,50,17,7,2.0,item_lingot_mithril
+items\quest_item\ingot_mythril_koltk.png,ingot_mythril_koltk,items/quest_item,50,16,6,2.0,item_lingot_mithril_klotk
+items\quest_item\jail_stone.png,jail_stone,items/quest_item,50,40,25,2.0,l1_prison_[stone]_wall04
+items\quest_item\jewel_troll.png,jewel_troll,items/quest_item,20,20,45,2.0,
+items\quest_item\key_bank.png,key_bank,items/quest_item,10,29,9,2.0,item_key_bank
+items\quest_item\key_base.png,key_base,items/quest_item,15,35,4,2.0,item_key_base1
+items\quest_item\key_base2.png,key_base2,items/quest_item,12,35,4,2.0,item_key_base2
+items\quest_item\key_calpale.png,key_calpale,items/quest_item,15,35,4,2.0,item_key_base4
+items\quest_item\key_crypt.png,key_crypt,items/quest_item,9,23,2,2.0,item_key_crypt
+items\quest_item\key_gob_chest_idol.png,key_gob_chest_idol,items/quest_item,10,29,10,2.0,item_key_gob_chest_idol
+items\quest_item\key_gob_treasure.png,key_gob_treasure,items/quest_item,9,34,2,2.0,item_key_gob_treasure
+items\quest_item\key_gob_weap.png,key_gob_weap,items/quest_item,9,24,2,2.0,item_key_gob_weap
+items\quest_item\key_oliverquest.png,key_oliverquest,items/quest_item,10,27,3,2.0,item_key_oliverquest
+items\quest_item\koltk_powder.png,koltk_powder,items/quest_item,42,43,12,2.0,item_powder_koltk
+items\quest_item\koltk_sample.png,koltk_sample,items/quest_item,40,38,31,2.0,[metal]_koltk_sample
+items\quest_item\krahoz&zohark.png,krahoz&zohark,items/quest_item,34,46,108,2.0,item_zohark item_krahoz
+items\quest_item\krahoz.png,krahoz,items/quest_item,9,11,16,2.0,item_diamond item_krahoz
+items\quest_item\mauld_2sword.png,mauld_2sword,items/quest_item,94,204,15,2.0,item_mauld2sword
+items\quest_item\mauld_key.png,mauld_key,items/quest_item,28,41,9,2.0,item_key_mauld [stone]_mud_putty
+items\quest_item\mauld_sabre.png,mauld_sabre,items/quest_item,62,148,9,2.0,item_mauld_sabre
+items\quest_item\mauld_sword.png,mauld_sword,items/quest_item,62,148,9,2.0,item_mauldsword
+items\quest_item\metal_chunk.png,metal_chunk,items/quest_item,40,38,31,2.0,[metal]_metal_chunk
+items\quest_item\mirror.png,mirror,items/quest_item,32,3,40,2.0,item_mirror
+items\quest_item\mithril_chunk.png,mithril_chunk,items/quest_item,40,38,31,2.0,[metal]_mithril_chunk
+items\quest_item\mithril_chunk_big.png,mithril_chunk_big,items/quest_item,76,74,59,2.0,[metal]_mithril_chunk
+items\quest_item\mud_putty.png,mud_putty,items/quest_item,41,39,14,2.0,[stone]_mud_putty
+items\quest_item\note.png,note,items/quest_item,15,20,0,2.0,item_note
+items\quest_item\note2.png,note2,items/quest_item,15,23,0,2.0,item_note
+items\quest_item\puzzle_orb_crypt.png,puzzle_orb_crypt,items/quest_item,25,31,15,2.0,l5_human_[stone]_wall02 [metal]_gold
+items\quest_item\puzzle_stone01.png,puzzle_stone01,items/quest_item,27,25,4,2.0,item_puzzle_stone01 item_puzzle_stone_back
+items\quest_item\puzzle_stone02.png,puzzle_stone02,items/quest_item,22,21,10,2.0,item_puzzle_stone02 item_puzzle_stone_back
+items\quest_item\puzzle_stone03.png,puzzle_stone03,items/quest_item,22,21,10,2.0,item_puzzle_stone03 item_puzzle_stone_back
+items\quest_item\puzzle_stone04.png,puzzle_stone04,items/quest_item,22,21,10,2.0,item_puzzle_stone_back item_puzzle_stone04
+items\quest_item\puzzle_stone05.png,puzzle_stone05,items/quest_item,22,21,10,2.0,item_puzzle_stone_back item_puzzle_stone05
+items\quest_item\puzzle_stone06.png,puzzle_stone06,items/quest_item,22,21,10,2.0,item_puzzle_stone_back item_puzzle_stone06
+items\quest_item\ritual_blooding_device.png,ritual_blooding_device,items/quest_item,15,37,3,2.0,item_ritual_blooding_device
+items\quest_item\rock_akbaa.png,rock_akbaa,items/quest_item,25,28,42,2.0,item_rock_of_akbaa
+items\quest_item\rock_amikar.png,rock_amikar,items/quest_item,40,38,31,2.0,[stone]_rock_amilcar
+items\quest_item\sedative_dose.png,sedative_dose,items/quest_item,6,5,27,2.0,item_sedative_dose
+items\quest_item\shiny_orb.png,shiny_orb,items/quest_item,14,12,29,2.0,l5_snake_[glass]_mirror01 l5_snake_[metal]_frize02 l5_snake_[metal]_frize03
+items\quest_item\shiny_orb_end.png,shiny_orb_end,items/quest_item,18,18,43,2.0,item_shiny_orb_end
+items\quest_item\signed_form.png,signed_form,items/quest_item,15,20,0,2.0,item_signed_form
+items\quest_item\troll_idol.png,troll_idol,items/quest_item,53,65,38,2.0,item_troll_idol
+items\quest_item\zohark.png,zohark,items/quest_item,9,11,16,2.0,item_diamond_red item_krahoz
+items\special\body_chunk.png,body_chunk,items/special,13,10,5,2.0,npc_gore
+items\special\deed_chicken.png,deed_chicken,items/special,15,20,0,2.0,
+items\special\deed_dog.png,deed_dog,items/special,15,20,0,2.0,
+items\special\deed_rat.png,deed_rat,items/special,15,20,0,2.0,
+items\special\deed_sausage.png,deed_sausage,items/special,15,20,0,2.0,items_deed_sausage
+items\special\deed_spider.png,deed_spider,items/special,15,20,0,2.0,
+items\special\dwarf_ribs.png,dwarf_ribs,items/special,15,26,5,2.0,item_pork_ribs_01
+items\special\egg_debug.png,egg_debug,items/special,49,49,89,2.0,item_dragon_egg
+items\special\essai_zmaps.png,essai_zmaps,items/special,300,0,200,2.0,[soil]_human_standard3  l4_ylside_[metal]_gold [fabric]_human_various4 l5_snake_[marble]_wall02 [wood]_blacksmith_ceiling2
+items\special\flute.png,flute,items/special,28,68,25,2.0,item_flute
+items\special\fx_essai.png,fx_essai,items/special,200,200,200,2.0,
+items\special\incense.png,incense,items/special,20,20,15,2.0,
+items\special\luth.png,luth,items/special,23,61,17,2.0,item_luth
+items\special\piece_wood.png,piece_wood,items/special,66,8,10,2.0,fixinter_barrel
+items\special\rolling_pin.png,rolling_pin,items/special,60,8,8,2.0,item_rollingpin
+items\special\sausage.png,sausage,items/special,12,12,55,2.0,npc_sausage
+items\special\sausage_demo.png,sausage_demo,items/special,12,12,55,2.0,npc_sausage
+items\special\sausagev.png,sausagev,items/special,12,12,55,2.0,npc_sausage
+items\special\stake.png,stake,items/special,6,6,35,2.0,item_stake
+items\special\stake_blessed.png,stake_blessed,items/special,4,3,1,2.0,item_stake
+items\special\transtest.png,transtest,items/special,185,0,145,2.0,[fabric]_human_curtains2
+items\special\trashcan.png,trashcan,items/special,12,12,55,2.0,npc_sausage
+items\special\wall_block.png,wall_block,items/special,48,30,18,2.0,stone 4 b
+items\weapons\arrow.png,arrow,items/weapons,97,6,0,2.0,[weapon]arrow
+items\weapons\arrows.png,arrows,items/weapons,35,90,17,2.0,[weapon]arrow item_quiver
+items\weapons\axe.png,axe,items/weapons,23,65,6,2.0,[weapon]arrow
+items\weapons\axe_2handed.png,axe_2handed,items/weapons,41,121,8,2.0,[weapon]2handedaxe
+items\weapons\bone_weap.png,bone_weap,items/weapons,21,71,10,2.0,item_bones
+items\weapons\bow.png,bow,items/weapons,30,92,9,2.0,[weapon]bow
+items\weapons\bow_mx.png,bow_mx,items/weapons,32,93,5,2.0,item_troll_skull [weapon]bow_mx
+items\weapons\club.png,club,items/weapons,21,89,16,2.0,[weapon]club
+items\weapons\dagger.png,dagger,items/weapons,22,55,5,2.0,[weapon]longsword
+items\weapons\dagger_assassin.png,dagger_assassin,items/weapons,23,86,6,2.0,[weapon]assassindagger2
+items\weapons\dagger_jeweld.png,dagger_jeweld,items/weapons,23,68,6,2.0,[weapon]jewelleddagger
+items\weapons\giant_slayer.png,giant_slayer,items/weapons,42,143,11,2.0,[weapon]giant_slayer
+items\weapons\hammer.png,hammer,items/weapons,18,41,3,2.0,[metal]_dwarf_wall1 [wood]_human_dirt_planks
+items\weapons\hammer2.png,hammer2,items/weapons,21,39,1,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\weapons\hammer_club.png,hammer_club,items/weapons,23,97,6,2.0,[metal]_dwarf1 [wood]_human_dirt_planks
+items\weapons\long_sword.png,long_sword,items/weapons,26,103,5,2.0,[weapon]longsword
+items\weapons\long_sword_ciprian.png,long_sword_ciprian,items/weapons,29,99,6,2.0,[weapon]longsword_ciprian
+items\weapons\long_sword_feather.png,long_sword_feather,items/weapons,29,93,5,2.0,[weapon]longsword_feather
+items\weapons\long_sword_jeweld.png,long_sword_jeweld,items/weapons,33,98,6,2.0,[weapon]longsword_jewelled
+items\weapons\long_sword_recovery.png,long_sword_recovery,items/weapons,22,108,7,2.0,[weapon]longsword_recovery
+items\weapons\sabre.png,sabre,items/weapons,18,112,12,2.0,[weapon]_sabre2
+items\weapons\sabre_meteor.png,sabre_meteor,items/weapons,18,112,12,2.0,[weapon]_sabre2_meteor
+items\weapons\sabre_meteor_enchant.png,sabre_meteor_enchant,items/weapons,18,112,12,2.0,[weapon]_sabre2_meteor
+items\weapons\sabre_mithril.png,sabre_mithril,items/weapons,18,112,12,2.0,[weapon]_sabre2_mithril
+items\weapons\sabre_ylside.png,sabre_ylside,items/weapons,15,107,10,2.0,(weapon) ylside
+items\weapons\short_sword.png,short_sword,items/weapons,26,78,6,2.0,[weapon]shortsword
+items\weapons\sword_2handed.png,sword_2handed,items/weapons,40,131,10,2.0,[weapon]2handed_sword
+items\weapons\sword_2handed_forged.png,sword_2handed_forged,items/weapons,40,131,10,2.0,[weapon]2handed_sword
+items\weapons\sword_2handed_meteor.png,sword_2handed_meteor,items/weapons,40,131,10,2.0,[weapon]2handed_sword_meteor
+items\weapons\sword_2handed_meteor_enchant.png,sword_2handed_meteor_enchant,items/weapons,40,131,10,2.0,[weapon]2handed_sword_meteor
+items\weapons\sword_2handed_mithril.png,sword_2handed_mithril,items/weapons,40,131,10,2.0,[weapon]2handed_sword_mithril
+items\weapons\sword_mx.png,sword_mx,items/weapons,40,131,10,2.0,[weapon]2handed_sword_mithril
+npc\akbaa_phase1.png,akbaa_phase1,npc,259,132,225,2.0,npc_akbaa_phase1_body npc_akbaa_phase1_head npc_gore_akbaa npc_akbaa_tentacle
+npc\akbaa_phase2.png,akbaa_phase2,npc,347,162,311,2.0,npc_akbaa_phase2_body npc_akbaa_phase1_head npc_gore_akbaa npc_akbaa_tentacle
+npc\akbaa_tentacle.png,akbaa_tentacle,npc,30,37,184,2.0,npc_gore_akbaa npc_akbaa_tentacle
+npc\bat.png,bat,npc,145,55,25,2.0,npc_bat
+npc\black_thing.png,black_thing,npc,143,443,237,2.0,npc_blackthing
+npc\chicken_base.png,chicken_base,npc,38,46,43,2.0,npc_chicken_base
+npc\demon.png,demon,npc,125,349,310,2.0,npc_demon npc_gore
+npc\dog.png,dog,npc,18,65,59,2.0,npc_dog npc_gore
+npc\dragon_ice.png,dragon_ice,npc,1350,1103,250,2.0,npc_dragon_ice_head npc_dragon_ice_body npc_gore
+npc\flying_creature.png,flying_creature,npc,291,133,83,2.0,npc_flyingcreature
+npc\frog.png,frog,npc,30,27,10,2.0,npc_frog
+npc\gargoyle.png,gargoyle,npc,100,102,110,2.0,l4_human_gargoyle01
+npc\goblin_base.png,goblin_base,npc,197,44,165,2.0,npc_goblin_base_head npc_goblin_base_body npc_gore
+npc\goblin_base\goblin_nohelm.png,goblin_nohelm,npc/goblin_base,186,29,163,2.0,npc_goblin_nohelm_head npc_goblin_base_body npc_gore
+npc\goblin_base\goblin_weaker.png,goblin_weaker,npc/goblin_base,165,43,165,2.0,npc_goblin_base_head npc_goblin_base_body
+npc\goblin_king.png,goblin_king,npc,222,57,180,2.0,npc_goblin_king_head npc_goblin_king_body npc_gore
+npc\goblin_lord.png,goblin_lord,npc,241,50,215,2.0,npc_goblord_head npc_goblord_body npc_gore
+npc\goblin_test.png,goblin_test,npc,197,44,165,2.0,npc_goblin_base_head npc_goblin_base_body npc_gore
+npc\golem.png,golem,npc,270,60,226,2.0,npc_golem_stone_body npc_golem_stone_head npc_golem_stone_heart
+npc\hanged_gob.png,hanged_gob,npc,56,47,226,2.0,npc_goblin_base_head npc_goblin_base_body npc_gore
+npc\human_base.png,human_base,npc,192,38,180,2.0,npc_gore npc_human_base_hero_head npc_human_hero_naked_body
+npc\human_base\human_chainmail.png,human_chainmail,npc/human_base,192,38,179,2.0,npc_gore npc_human_chainmail_hero_head npc_human_chainmail_body
+npc\human_base\human_chainmail_german.png,human_chainmail_german,npc/human_base,184,180,38,2.0,npc_gore npc_human_chainmail_hero_head npc_human_chainmail_guard_body_blood
+npc\human_base\human_guard_helm.png,human_guard_helm,npc/human_base,182,33,188,2.0,npc_human_base_hero_head
+npc\human_base\human_guard_helm_onshoulders.png,human_guard_helm_onshoulders,npc/human_base,182,33,185,2.0,npc_human_base_hero_head
+npc\human_base\human_kultar.png,human_kultar,npc/human_base,181,32,180,2.0,npc_gore npc_human_base_kultar_head
+npc\human_base\human_leather_black.png,human_leather_black,npc/human_base,191,48,181,2.0,npc_gore npc_human_leatherblack_body npc_human_leather_hero_head
+npc\human_base\human_nolegs.png,human_nolegs,npc/human_base,192,30,180,2.0,npc_gore npc_human_base_hero_head npc_human_base_naked_body
+npc\human_base\human_plate.png,human_plate,npc/human_base,195,41,183,2.0,npc_gore npc_human_plate_body npc_human_plate_head
+npc\human_base\human_plate_helm_full.png,human_plate_helm_full,npc/human_base,182,53,204,2.0,npc_human_plate_full_head
+npc\human_base\human_villager_chest1.png,human_villager_chest1,npc/human_base,193,35,170,2.0,npc_gore npc_human_villager_leg1b_chest1_a
+npc\human_base\human_villager_chest2.png,human_villager_chest2,npc/human_base,193,35,170,2.0,npc_gore npc_human_villager_leg2a_chest2_a
+npc\human_base\human_villager_head1.png,human_villager_head1,npc/human_base,182,35,191,2.0,npc_human_villager1_tafiok npc_gore
+npc\human_base\human_villager_head2.png,human_villager_head2,npc/human_base,182,35,181,2.0,npc_gore npc_human_villager2_carlo
+npc\human_base\human_villager_head3.png,human_villager_head3,npc/human_base,182,36,180,2.0,npc_gore npc_human_villager3_twins
+npc\human_base\human_villager_head4.png,human_villager_head4,npc/human_base,182,35,188,2.0,npc_gore npc_human_villager4_gary
+npc\human_base\human_villager_head5.png,human_villager_head5,npc/human_base,182,35,180,2.0,npc_gore npc_human_villager5_bard
+npc\human_base\human_villager_head6.png,human_villager_head6,npc/human_base,182,35,189,2.0,npc_gore npc_human_villager6_anon1
+npc\human_base\human_villager_legs1.png,human_villager_legs1,npc/human_base,182,42,170,2.0,npc_gore npc_human_villager_leg1a_chest1_b
+npc\human_base\human_villager_legs2.png,human_villager_legs2,npc/human_base,182,42,170,2.0,npc_gore npc_human_villager_leg2a_chest2_a
+npc\human_base\human_villager_legs3.png,human_villager_legs3,npc/human_base,182,43,170,2.0,npc_gore npc_human_villager_leg3a_chest2b
+npc\human_base\human_ylside.png,human_ylside,npc/human_base,195,45,183,2.0,npc_gore npc_human_ylside_body
+npc\human_female_base.png,human_female_base,npc,178,43,175,2.0,npc_human_female_base_head npc_human_female_base_body npc_gore
+npc\human_female_base\human_female_demon.png,human_female_demon,npc/human_female_base,185,37,168,2.0,npc_human_female_base_demon_head2 npc_undead_base_body item_stake
+npc\human_female_base\human_female_plate.png,human_female_plate,npc/human_female_base,178,34,166,2.0,npc_gore npc_human_female_plate_body
+npc\human_female_base\human_female_villager.png,human_female_villager,npc/human_female_base,177,38,177,2.0,npc_human_villager_female_anon1 npc_gore npc_human_villager_female_body
+npc\human_female_base\human_female_villager_head2.png,human_female_villager_head2,npc/human_female_base,167,29,175,2.0,npc_human_villager_female_tizzy
+npc\human_female_child.png,human_female_child,npc,116,27,124,2.0,npc_human_female_child_head_shany npc_gore npc_human_female_child_body
+npc\human_king.png,human_king,npc,193,38,182,2.0,npc_gore npc_human_king_head npc_human_king_body
+npc\human_king\human_king_nolegs.png,human_king_nolegs,npc/human_king,193,32,182,2.0,npc_gore npc_human_king_head npc_human_king_body
+npc\human_priest.png,human_priest,npc,198,40,184,2.0,npc_human_priest_akbaa_body npc_human_priest_akbaa_head npc_gore
+npc\human_priest\human_priest_naked_head.png,human_priest_naked_head,npc/human_priest,182,46,181,2.0,npc_human_priest_akbaa_body npc_human_priest_akbaa_head npc_gore
+npc\human_priest\human_priest_nolegs.png,human_priest_nolegs,npc/human_priest,198,35,184,2.0,npc_human_priest_akbaa_body npc_human_priest_akbaa_head npc_gore
+npc\human_priest\human_villager_head1.png,human_villager_head1,npc/human_priest,182,30,191,2.0,npc_human_villager1_tafiok npc_gore
+npc\mice.png,mice,npc,9,32,6,2.0,npc_mice npc_gore
+npc\pig.png,pig,npc,51,166,82,2.0,npc_pig
+npc\rat_base.png,rat_base,npc,44,203,56,2.0,npc_rat_base
+npc\ratman_base.png,ratman_base,npc,195,120,165,2.0,npc_gore npc_ratman_body npc_ratman_head
+npc\snake_woman_base.png,snake_woman_base,npc,337,68,280,2.0,npc_snake_woman_base_body npc_snake_woman_base_head
+npc\snake_woman_base\snake_woman_nolegs.png,snake_woman_nolegs,npc/snake_woman_base,337,68,280,2.0,npc_snake_woman_base_body npc_snake_woman_base_head
+npc\spider_base.png,spider_base,npc,252,116,38,2.0,npc_spider
+npc\spider_nasty.png,spider_nasty,npc,467,206,96,2.0,npc_spider_nasty
+npc\sylib.png,sylib,npc,527,418,217,2.0,npc_sylib_base_head npc_sylib_base_body
+npc\test.png,test,npc,44,203,56,2.0,npc_rat_base
+npc\tortured_corpse.png,tortured_corpse,npc,46,62,227,2.0,l6_human_[fabric]_rope01 l6_ratmen_[clothe]_mummy01 l6_ratmen_[clothe]_mummy02 l6_ratmen_[clothe]_mummy03
+npc\troll_base.png,troll_base,npc,360,80,269,2.0,npc_trollbase_body npc_trollbase_head
+npc\tsu_test.png,tsu_test,npc,100,0,250,2.0,npc_akbaa_phase2_head
+npc\undead_base.png,undead_base,npc,195,39,183,2.0,npc_undead_base_head npc_undead_base_body item_stake
+npc\undead_liche.png,undead_liche,npc,244,40,224,2.0,npc_undead_liche_body npc_undead_liche_head
+npc\undead_mummy.png,undead_mummy,npc,218,35,195,2.0,npc_mummy_body npc_mummy_head
+npc\worm_big.png,worm_big,npc,350,347,369,2.0,npc_worm_head npc_worm_body_part1 npc_worm_body_part2 npc_worm_body_part3
+npc\wrat_base.png,wrat_base,npc,44,179,63,2.0,npc_rat_base_cm
+npc\y_mx\y_mx2.png,y_mx2,npc/y_mx,195,45,175,2.0,npc_gore npc_human_ylside_body_mx
+npc\y_mx.png,y_mx,npc,178,43,175,2.0,npc_human_female_base_head npc_human_female_base_body npc_gore
+system\camera.png,camera,system,26,74,19,2.0,system_camera
+system\marker.png,marker,system,11,11,22,2.0,system_marker
