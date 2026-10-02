@@ -1,0 +1,8 @@
+# images and map files are binary: never touch their bytes
+*.png binary
+*.jpg binary
+*.gif binary
+*.ds  binary
+# tables are written once by the build scripts, keep them byte for byte
+*.csv -text
+*.json -text
