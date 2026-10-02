@@ -1,0 +1,112 @@
+﻿nom;categorie;images;taille_cases;dossier
+Rat;Animaux;4;1;Animaux/Rat
+Rat des cryptes;Animaux;4;1;Animaux/Rat des cryptes
+Souris;Animaux;3;1;Animaux/Souris
+Chauve-souris;Animaux;2;1;Animaux/Chauve-souris
+Chien;Animaux;4;1;Animaux/Chien
+Cochon;Animaux;3;1;Animaux/Cochon
+Poulet;Animaux;3;1;Animaux/Poulet
+Grenouille;Animaux;2;1;Animaux/Grenouille
+Araignée;Animaux;4;2;Animaux/Araignée
+Araignée venimeuse;Animaux;4;4;Animaux/Araignée venimeuse
+Ver géant;Animaux;3;4;Animaux/Ver géant
+Dragon de glace;Monstres;4;7;Monstres/Dragon de glace
+Troll;Monstres;4;1;Monstres/Troll
+Homme-rat;Monstres;4;1;Monstres/Homme-rat
+Femme-serpent;Monstres;4;2;Monstres/Femme-serpent
+Golem de pierre;Monstres;4;2;Monstres/Golem de pierre
+Golem de fer;Monstres;4;2;Monstres/Golem de fer
+Gargouille;Monstres;2;1;Monstres/Gargouille
+Démon;Monstres;4;2;Monstres/Démon
+Chose noire;Monstres;4;2;Monstres/Chose noire
+Créature volante;Monstres;3;3;Monstres/Créature volante
+Sylib;Monstres;2;2;Monstres/Sylib
+Akbaa (première forme);Monstres;2;2;Monstres/Akbaa (première forme)
+Akbaa (seconde forme);Monstres;4;3;Monstres/Akbaa (seconde forme)
+Tentacule d'Akbaa;Monstres;4;1;Monstres/Tentacule d'Akbaa
+Mort-vivant;Morts-vivants;4;1;Morts-vivants/Mort-vivant
+Liche;Morts-vivants;4;1;Morts-vivants/Liche
+Momie;Morts-vivants;4;1;Morts-vivants/Momie
+Gobelin;Gobelins;4;1;Gobelins/Gobelin
+Gobelin gris;Gobelins;4;1;Gobelins/Gobelin gris
+Gobelin sans casque;Gobelins;4;1;Gobelins/Gobelin sans casque
+Atok (gobelin);Gobelins;4;1;Gobelins/Atok (gobelin)
+Isak (gobelin);Gobelins;4;1;Gobelins/Isak (gobelin)
+Gobelin chétif;Gobelins;4;1;Gobelins/Gobelin chétif
+Roi gobelin Alotar;Gobelins;4;1;Gobelins/Roi gobelin Alotar
+Seigneur gobelin;Gobelins;4;1;Gobelins/Seigneur gobelin
+Am Shaegar (le héros, sans armure);Humains;4;1;Humains/Am Shaegar (le héros, sans armure)
+Garde (cotte de mailles, coiffe de mailles);Humains;4;1;Humains/Garde (cotte de mailles, coiffe de mailles)
+Garde (visage 2);Humains;4;1;Humains/Garde (visage 2)
+Garde (visage 3);Humains;4;1;Humains/Garde (visage 3)
+Garde (visage 4);Humains;4;1;Humains/Garde (visage 4)
+Garde casqué;Humains;4;1;Humains/Garde casqué
+Garde casqué (casque sur les épaules);Humains;4;1;Humains/Garde casqué (casque sur les épaules)
+Garde (armure sale);Humains;4;1;Humains/Garde (armure sale)
+Garde blessé (armure ensanglantée);Humains;4;2;Humains/Garde blessé (armure ensanglantée)
+Chevalier de la Dague Sacrée;Humains;4;1;Humains/Chevalier de la Dague Sacrée
+Chevalier en plates;Humains;4;1;Humains/Chevalier en plates
+Chevalier en plates (heaume intégral);Humains;4;1;Humains/Chevalier en plates (heaume intégral)
+Ylside;Humains;4;1;Humains/Ylside
+Voleur en cuir noir;Humains;4;1;Humains/Voleur en cuir noir
+Kultar;Humains;4;1;Humains/Kultar
+Erzog;Humains;4;1;Humains/Erzog
+Calpale;Humains;4;1;Humains/Calpale
+Ortiern;Humains;4;1;Humains/Ortiern
+Thorgal;Humains;4;1;Humains/Thorgal
+Tafiok (villageois);Humains;4;1;Humains/Tafiok (villageois)
+Carlo (villageois);Humains;4;1;Humains/Carlo (villageois)
+Villageois (jumeau);Humains;4;1;Humains/Villageois (jumeau)
+Gary (villageois);Humains;4;1;Humains/Gary (villageois)
+Le barde;Humains;4;1;Humains/Le barde
+Miguel (villageois);Humains;4;1;Humains/Miguel (villageois)
+Villageois anonyme;Humains;4;1;Humains/Villageois anonyme
+Le roi Lunshire;Humains;4;1;Humains/Le roi Lunshire
+Prêtre d'Akbaa;Humains;4;1;Humains/Prêtre d'Akbaa
+Falan;Humains;4;1;Humains/Falan
+Felnor;Humains;4;1;Humains/Felnor
+Iserbius;Humains;4;1;Humains/Iserbius
+Kacel;Humains;4;1;Humains/Kacel
+Suiberis;Humains;4;1;Humains/Suiberis
+Fidèle du culte d'Akbaa;Humains;4;1;Humains/Fidèle du culte d'Akbaa
+Prêtre (tête nue);Humains;4;1;Humains/Prêtre (tête nue)
+Femme;Humaines;4;1;Humaines/Femme
+Villageoise;Humaines;4;1;Humaines/Villageoise
+Villageoise (visage 2);Humaines;4;1;Humaines/Villageoise (visage 2)
+Villageoise (visage 3);Humaines;4;1;Humaines/Villageoise (visage 3)
+Maria;Humaines;4;1;Humaines/Maria
+Tizzy;Humaines;4;1;Humaines/Tizzy
+Villageoise (robe 2);Humaines;4;1;Humaines/Villageoise (robe 2)
+Alia (armure de plates);Humaines;4;2;Humaines/Alia (armure de plates)
+Femme possédée;Humaines;4;1;Humaines/Femme possédée
+Ylside (femme);Humaines;4;1;Humaines/Ylside (femme)
+Shany (fillette);Humaines;4;1;Humaines/Shany (fillette)
+Garde - coiffe de mailles;Variantes créées/Gardes;4;1;Variantes créées/Gardes/Garde - coiffe de mailles
+Garde - casque de mailles;Variantes créées/Gardes;4;1;Variantes créées/Gardes/Garde - casque de mailles
+Garde - tête nue brun;Variantes créées/Gardes;4;1;Variantes créées/Gardes/Garde - tête nue brun
+Garde - tête nue barbu;Variantes créées/Gardes;4;1;Variantes créées/Gardes/Garde - tête nue barbu
+Garde - tête nue vétéran;Variantes créées/Gardes;4;1;Variantes créées/Gardes/Garde - tête nue vétéran
+Garde - casque, cotte sale;Variantes créées/Gardes;4;1;Variantes créées/Gardes/Garde - casque, cotte sale
+Garde royal - armure de plates dorée;Variantes créées/Gardes;4;1;Variantes créées/Gardes/Garde royal - armure de plates dorée
+Marchand;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Marchand
+Forgeron;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Forgeron
+Mineur;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Mineur
+Aubergiste;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Aubergiste
+Vieux sage;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Vieux sage
+Chasseur;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Chasseur
+Mendiant;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Mendiant
+Messager;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Messager
+Apprenti mage;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Apprenti mage
+Mercenaire;Variantes créées/PNJ hommes;4;1;Variantes créées/PNJ hommes/Mercenaire
+Marchande;Variantes créées/PNJ femmes;4;1;Variantes créées/PNJ femmes/Marchande
+Guérisseuse;Variantes créées/PNJ femmes;4;1;Variantes créées/PNJ femmes/Guérisseuse
+Tavernière;Variantes créées/PNJ femmes;4;1;Variantes créées/PNJ femmes/Tavernière
+Noble dame;Variantes créées/PNJ femmes;4;1;Variantes créées/PNJ femmes/Noble dame
+Aventurière;Variantes créées/PNJ femmes;4;2;Variantes créées/PNJ femmes/Aventurière
+Rat-garou (pelage de givre);Variantes créées/Rats-garous;4;1;Variantes créées/Rats-garous/Rat-garou (pelage de givre)
+Rat-garou (pelage sombre);Variantes créées/Rats-garous;4;1;Variantes créées/Rats-garous/Rat-garou (pelage sombre)
+Rat-garou (vieux mâle);Variantes créées/Rats-garous;4;2;Variantes créées/Rats-garous/Rat-garou (vieux mâle)
+Rat-garou (jeune);Variantes créées/Rats-garous;4;1;Variantes créées/Rats-garous/Rat-garou (jeune)
+La Mère des Glaces;Variantes créées/Mère des Glaces;4;8;Variantes créées/Mère des Glaces/La Mère des Glaces
+Araignée des glaces;Variantes créées/Mère des Glaces;4;2;Variantes créées/Mère des Glaces/Araignée des glaces
+Araignée des glaces (grande);Variantes créées/Mère des Glaces;4;5;Variantes créées/Mère des Glaces/Araignée des glaces (grande)
