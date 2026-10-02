@@ -25,14 +25,15 @@ Ce dépôt ne contient **aucun code**. Il est le produit de deux autres projets 
 - Première version : 5 489 fichiers, 948 Mo, 11 dossiers. Tout a été vérifié à la construction : aucun fichier
   au-dessus de 100 Mo, toutes les images d'objets, de personnages et de zones ont un fond transparent sauf trois
   icônes pleines par nature.
-- **Dépôt privé pour l'instant.** Farid a demandé un dépôt public ; la bascule attend sa confirmation, parce que ces
-  images appartiennent à Arkane Studios et qu'un dépôt public peut faire l'objet d'une demande de retrait.
+- **Dépôt privé.** Farid l'avait demandé public ; prévenu que ces images appartiennent à Arkane Studios et qu'un
+  dépôt public peut faire l'objet d'une demande de retrait, il a décidé le 02/10/2026 de le **laisser privé** et de
+  reprendre le sujet plus tard. Ne pas changer la visibilité sans qu'il le redemande.
 - Tant qu'il est privé, la fiche continue de lire ses images chez Chafik. Une fois public :
   dans `Projet_JDR-ATR`, construire avec
   `ARX_ASSET_BASE=https://raw.githubusercontent.com/Alpharid/ATR-assets/main/fiche python build.py`, puis recoller
   `sheet.css` dans Roll20.
 
-Reste à faire : décision de publication ; poser une étiquette `v1` après publication ; ajouter les 79 icônes
+Reste à faire : la publication, le jour où Farid la redemande (poser alors une étiquette `v1`) ; ajouter les 79 icônes
 d'inventaire manquantes quand elles seront rendues (objets que le jeu affiche avec un « ? »).
 
 ## 3. Reconstruire
@@ -89,4 +90,4 @@ Les numéros de zones (`toit_K`) sont ceux que le MJ cite : ne pas les renuméro
 
 | Date | Quoi |
 |---|---|
-| 02/10/2026 | création : script `build_assets_repo.py`, première version complète, dépôt privé en attente de la décision de publication |
+| 02/10/2026 | création : script `build_assets_repo.py`, première version complète ; Farid choisit de garder le dépôt privé pour l'instant |
