@@ -1,0 +1,10 @@
+{
+ "cases": [
+  137,
+  113
+ ],
+ "pixels_par_case": 70,
+ "murs": 184,
+ "portes": 2,
+ "lumieres": 124
+}
