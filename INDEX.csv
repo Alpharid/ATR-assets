@@ -176,184 +176,364 @@ fiche/dexterity-arx.png;710355;542;781;non;fiche/dexterity-arx.png
 fiche/game-jacket-character.png;28206;106;222;oui;fiche/game-jacket-character.png
 fiche/intelligence-arx.png;738598;561;786;non;fiche/intelligence-arx.png
 fiche/items/action.png;6055;66;68;oui;fiche/items/action.png
-fiche/items/amulet-great-luck.png;1753;32;32;oui;fiche/items/amulet-great-luck.png
-fiche/items/amulet-red.png;2550;32;32;oui;fiche/items/amulet-red.png
-fiche/items/amulet-troll.png;1796;32;32;oui;fiche/items/amulet-troll.png
-fiche/items/apple.png;4368;58;54;oui;fiche/items/apple.png
-fiche/items/applepie-raw-wine.png;2352;32;32;oui;fiche/items/applepie-raw-wine.png
-fiche/items/applepie-raw.png;2325;32;32;oui;fiche/items/applepie-raw.png
-fiche/items/applepie-wine.png;2326;32;32;oui;fiche/items/applepie-wine.png
-fiche/items/applepie.png;2325;32;32;oui;fiche/items/applepie.png
-fiche/items/axe-2handed.png;3563;32;96;oui;fiche/items/axe-2handed.png
-fiche/items/axe.png;2321;32;64;oui;fiche/items/axe.png
-fiche/items/bedroll.png;4849;64;32;oui;fiche/items/bedroll.png
-fiche/items/bone-weap.png;1029;32;32;oui;fiche/items/bone-weap.png
-fiche/items/bottle-empty.png;1594;32;32;oui;fiche/items/bottle-empty.png
-fiche/items/bottle-wine.png;2153;32;32;oui;fiche/items/bottle-wine.png
-fiche/items/bow-mx.png;1709;96;32;oui;fiche/items/bow-mx.png
-fiche/items/bow.png;3295;32;96;oui;fiche/items/bow.png
-fiche/items/bread-half.png;2827;32;32;oui;fiche/items/bread-half.png
-fiche/items/bread.png;2899;32;32;oui;fiche/items/bread.png
-fiche/items/chain-helmet.png;2751;32;32;oui;fiche/items/chain-helmet.png
-fiche/items/cheese.png;2368;32;32;oui;fiche/items/cheese.png
-fiche/items/chest-chain-rebel.png;14513;64;96;oui;fiche/items/chest-chain-rebel.png
-fiche/items/chest-chain.png;15518;64;96;oui;fiche/items/chest-chain.png
-fiche/items/chest-leather-stealth.png;8857;64;64;oui;fiche/items/chest-leather-stealth.png
-fiche/items/chest-leather.png;10161;64;64;oui;fiche/items/chest-leather.png
-fiche/items/chestplate.png;7545;64;64;oui;fiche/items/chestplate.png
-fiche/items/clock.png;3257;32;32;oui;fiche/items/clock.png
-fiche/items/club.png;2914;32;64;oui;fiche/items/club.png
-fiche/items/coin.png;915;32;32;oui;fiche/items/coin.png
-fiche/items/compass-guild.png;2986;32;32;oui;fiche/items/compass-guild.png
-fiche/items/compass.png;2986;32;32;oui;fiche/items/compass.png
-fiche/items/cooked-bread.png;6197;61;61;oui;fiche/items/cooked-bread.png
-fiche/items/cooked-chicken.png;3060;66;55;oui;fiche/items/cooked-chicken.png
-fiche/items/cooked-fish.png;3231;71;64;oui;fiche/items/cooked-fish.png
+fiche/items/actions-mines.png;9877;64;64;oui;fiche/items/actions-mines.png
+fiche/items/amulet-great-luck.png;9028;64;64;oui;fiche/items/amulet-great-luck.png
+fiche/items/amulet-red.png;8787;64;64;oui;fiche/items/amulet-red.png
+fiche/items/amulet-troll.png;9458;64;64;oui;fiche/items/amulet-troll.png
+fiche/items/apple.png;6911;64;64;oui;fiche/items/apple.png
+fiche/items/applepie-raw-wine.png;8051;64;64;oui;fiche/items/applepie-raw-wine.png
+fiche/items/applepie-raw.png;8051;64;64;oui;fiche/items/applepie-raw.png
+fiche/items/applepie-wine.png;7978;64;64;oui;fiche/items/applepie-wine.png
+fiche/items/applepie.png;8051;64;64;oui;fiche/items/applepie.png
+fiche/items/arrow.png;6852;64;128;oui;fiche/items/arrow.png
+fiche/items/arrows-2.png;9937;64;128;oui;fiche/items/arrows-2.png
+fiche/items/arrows.png;14009;64;128;oui;fiche/items/arrows.png
+fiche/items/axe-2handed.png;14744;64;192;oui;fiche/items/axe-2handed.png
+fiche/items/axe.png;10081;64;128;oui;fiche/items/axe.png
+fiche/items/bedroll.png;17118;128;64;oui;fiche/items/bedroll.png
+fiche/items/blank-form.png;8368;64;64;oui;fiche/items/blank-form.png
+fiche/items/blood.png;7498;64;64;oui;fiche/items/blood.png
+fiche/items/body-chunk.png;8732;64;64;oui;fiche/items/body-chunk.png
+fiche/items/bone-weap.png;5226;64;64;oui;fiche/items/bone-weap.png
+fiche/items/bone.png;5226;64;64;oui;fiche/items/bone.png
+fiche/items/book.png;9224;64;64;oui;fiche/items/book.png
+fiche/items/book1.png;9281;64;64;oui;fiche/items/book1.png
+fiche/items/book2.png;8947;64;64;oui;fiche/items/book2.png
+fiche/items/book3.png;9223;64;64;oui;fiche/items/book3.png
+fiche/items/book4.png;8755;64;64;oui;fiche/items/book4.png
+fiche/items/book5.png;9805;64;64;oui;fiche/items/book5.png
+fiche/items/book6.png;9301;64;64;oui;fiche/items/book6.png
+fiche/items/book7.png;8902;64;64;oui;fiche/items/book7.png
+fiche/items/bookgreu.png;8841;64;64;oui;fiche/items/bookgreu.png
+fiche/items/bottle-blood.png;6177;64;64;oui;fiche/items/bottle-blood.png
+fiche/items/bottle-empty.png;6855;64;64;oui;fiche/items/bottle-empty.png
+fiche/items/bottle-wine.png;6126;64;64;oui;fiche/items/bottle-wine.png
+fiche/items/bow-mx.png;8858;192;64;oui;fiche/items/bow-mx.png
+fiche/items/bow.png;14051;64;192;oui;fiche/items/bow.png
+fiche/items/bread-half.png;8972;64;64;oui;fiche/items/bread-half.png
+fiche/items/bread.png;8606;64;64;oui;fiche/items/bread.png
+fiche/items/candel.png;6260;64;128;oui;fiche/items/candel.png
+fiche/items/carrot.png;5383;64;64;oui;fiche/items/carrot.png
+fiche/items/chain-helmet.png;9748;64;64;oui;fiche/items/chain-helmet.png
+fiche/items/cheese.png;8111;64;64;oui;fiche/items/cheese.png
+fiche/items/chest-chain-rebel.png;59033;128;192;oui;fiche/items/chest-chain-rebel.png
+fiche/items/chest-chain.png;59033;128;192;oui;fiche/items/chest-chain.png
+fiche/items/chest-leather-stealth.png;38625;128;128;oui;fiche/items/chest-leather-stealth.png
+fiche/items/chest-leather.png;35697;128;128;oui;fiche/items/chest-leather.png
+fiche/items/chestplate.png;28055;128;128;oui;fiche/items/chestplate.png
+fiche/items/clock.png;9049;64;64;oui;fiche/items/clock.png
+fiche/items/club.png;12569;64;128;oui;fiche/items/club.png
+fiche/items/coin.png;1834;64;64;oui;fiche/items/coin.png
+fiche/items/compass-guild.png;9859;64;64;oui;fiche/items/compass-guild.png
+fiche/items/compass.png;9859;64;64;oui;fiche/items/compass.png
+fiche/items/cooked-bread.png;8606;64;64;oui;fiche/items/cooked-bread.png
+fiche/items/cooked-chicken.png;7822;64;64;oui;fiche/items/cooked-chicken.png
+fiche/items/cooked-fish.png;6671;64;64;oui;fiche/items/cooked-fish.png
+fiche/items/crusher.png;8016;64;64;oui;fiche/items/crusher.png
 fiche/items/dagger-assassin-mithril.png;2307;32;64;oui;fiche/items/dagger-assassin-mithril.png
-fiche/items/dagger-assassin.png;3036;32;64;oui;fiche/items/dagger-assassin.png
-fiche/items/dagger-jeweld.png;2026;32;32;oui;fiche/items/dagger-jeweld.png
-fiche/items/dagger-mythril.png;957;35;34;oui;fiche/items/dagger-mythril.png
-fiche/items/dagger.png;1262;32;32;oui;fiche/items/dagger.png
-fiche/items/diamant-extraordinary.png;1342;32;32;oui;fiche/items/diamant-extraordinary.png
-fiche/items/diamant-lesser.png;662;32;32;oui;fiche/items/diamant-lesser.png
-fiche/items/diamant-ni.png;662;32;32;oui;fiche/items/diamant-ni.png
-fiche/items/diamant-superior.png;1336;32;32;oui;fiche/items/diamant-superior.png
-fiche/items/dragon-bone.png;2258;32;64;oui;fiche/items/dragon-bone.png
+fiche/items/dagger-assassin.png;10235;64;128;oui;fiche/items/dagger-assassin.png
+fiche/items/dagger-jeweld.png;6264;64;64;oui;fiche/items/dagger-jeweld.png
+fiche/items/dagger-mythril.png;6153;64;64;oui;fiche/items/dagger-mythril.png
+fiche/items/dagger.png;6153;64;64;oui;fiche/items/dagger.png
+fiche/items/deed-chicken.png;7373;64;64;oui;fiche/items/deed-chicken.png
+fiche/items/deed-dog.png;7701;64;64;oui;fiche/items/deed-dog.png
+fiche/items/deed-rat.png;3621;64;64;oui;fiche/items/deed-rat.png
+fiche/items/deed-sausage.png;3511;64;64;non;fiche/items/deed-sausage.png
+fiche/items/deed-spider.png;8611;64;64;non;fiche/items/deed-spider.png
+fiche/items/diamant-extraordinary.png;3009;64;64;oui;fiche/items/diamant-extraordinary.png
+fiche/items/diamant-lesser.png;3009;64;64;oui;fiche/items/diamant-lesser.png
+fiche/items/diamant-ni.png;3009;64;64;oui;fiche/items/diamant-ni.png
+fiche/items/diamant-superior.png;3009;64;64;oui;fiche/items/diamant-superior.png
+fiche/items/dissident-key.png;5600;64;64;oui;fiche/items/dissident-key.png
+fiche/items/dragon-bone-powder.png;10386;64;64;oui;fiche/items/dragon-bone-powder.png
+fiche/items/dragon-bone.png;10123;64;128;oui;fiche/items/dragon-bone.png
+fiche/items/dragon-egg.png;22439;128;128;oui;fiche/items/dragon-egg.png
 fiche/items/dragonbone-carved.png;2258;32;64;oui;fiche/items/dragonbone-carved.png
 fiche/items/dragonbone.png;2258;32;64;oui;fiche/items/dragonbone.png
-fiche/items/drowned-bones.png;9689;64;64;oui;fiche/items/drowned-bones.png
+fiche/items/drowned-bones.png;37780;128;128;oui;fiche/items/drowned-bones.png
+fiche/items/dwarf-ribs.png;16433;128;64;oui;fiche/items/dwarf-ribs.png
 fiche/items/ederneum-scepter.png;5884;64;96;oui;fiche/items/ederneum-scepter.png
-fiche/items/emerald-extraordinary.png;1259;32;32;oui;fiche/items/emerald-extraordinary.png
-fiche/items/emerald-lesser.png;697;32;32;oui;fiche/items/emerald-lesser.png
-fiche/items/emerald-ni.png;697;32;32;oui;fiche/items/emerald-ni.png
-fiche/items/emerald-superior.png;1251;32;32;oui;fiche/items/emerald-superior.png
-fiche/items/extra-backpack.png;20294;94;98;oui;fiche/items/extra-backpack.png
-fiche/items/fishing-pole.png;2407;32;96;oui;fiche/items/fishing-pole.png
-fiche/items/flour.png;2393;32;32;oui;fiche/items/flour.png
-fiche/items/flute.png;945;32;32;oui;fiche/items/flute.png
-fiche/items/garlic.png;1163;32;32;oui;fiche/items/garlic.png
-fiche/items/gem-extraordinary.png;3303;48;48;oui;fiche/items/gem-extraordinary.png
-fiche/items/gem-lesser.png;2219;48;48;oui;fiche/items/gem-lesser.png
-fiche/items/gem-ni.png;2219;48;48;oui;fiche/items/gem-ni.png
-fiche/items/gem-superior.png;3314;48;48;oui;fiche/items/gem-superior.png
-fiche/items/giant-slayer.png;4102;32;96;oui;fiche/items/giant-slayer.png
-fiche/items/gold-fifty.png;2829;32;32;oui;fiche/items/gold-fifty.png
-fiche/items/gold-four.png;1324;32;32;oui;fiche/items/gold-four.png
-fiche/items/gold-nine.png;2291;32;32;oui;fiche/items/gold-nine.png
-fiche/items/gold-one.png;531;32;32;oui;fiche/items/gold-one.png
-fiche/items/gold-three.png;923;32;32;oui;fiche/items/gold-three.png
-fiche/items/gold-twenty.png;2673;32;32;oui;fiche/items/gold-twenty.png
-fiche/items/gold-two.png;753;32;32;oui;fiche/items/gold-two.png
-fiche/items/golden-bar.png;1988;32;32;oui;fiche/items/golden-bar.png
-fiche/items/golden-bracelet.png;2972;32;32;oui;fiche/items/golden-bracelet.png
-fiche/items/golden-chestplate.png;8226;64;64;oui;fiche/items/golden-chestplate.png
-fiche/items/golden-cup.png;1954;32;32;oui;fiche/items/golden-cup.png
-fiche/items/golden-legging-plate.png;11952;64;96;oui;fiche/items/golden-legging-plate.png
-fiche/items/golden-neckplace.png;2073;32;32;oui;fiche/items/golden-neckplace.png
-fiche/items/golden-plate-helmet.png;2642;32;32;oui;fiche/items/golden-plate-helmet.png
-fiche/items/golem-heart.png;1411;32;32;oui;fiche/items/golem-heart.png
-fiche/items/hammer-2.png;1690;32;32;oui;fiche/items/hammer-2.png
-fiche/items/hammer-club.png;1953;32;64;oui;fiche/items/hammer-club.png
-fiche/items/hammer.png;1295;32;32;oui;fiche/items/hammer.png
-fiche/items/health-potion.png;2329;32;32;oui;fiche/items/health-potion.png
-fiche/items/helmet-leather-stealth.png;2389;32;32;oui;fiche/items/helmet-leather-stealth.png
-fiche/items/jewel-troll.png;1925;32;32;oui;fiche/items/jewel-troll.png
-fiche/items/key-1.png;1760;67;52;oui;fiche/items/key-1.png
-fiche/items/key-2.png;2249;65;54;oui;fiche/items/key-2.png
-fiche/items/keyring.png;736;32;32;oui;fiche/items/keyring.png
-fiche/items/keyringfull.png;2486;32;32;oui;fiche/items/keyringfull.png
-fiche/items/king-gold-cup.png;1670;32;32;oui;fiche/items/king-gold-cup.png
-fiche/items/krahoz.png;1811;32;32;oui;fiche/items/krahoz.png
-fiche/items/lamp.png;4310;32;64;oui;fiche/items/lamp.png
-fiche/items/legging-chain-rebel.png;9645;64;96;oui;fiche/items/legging-chain-rebel.png
-fiche/items/legging-chain.png;10033;64;96;oui;fiche/items/legging-chain.png
-fiche/items/legging-leather-ac.png;8941;64;96;oui;fiche/items/legging-leather-ac.png
-fiche/items/legging-leather-stealth.png;7428;64;96;oui;fiche/items/legging-leather-stealth.png
-fiche/items/legging-leather.png;10228;64;96;oui;fiche/items/legging-leather.png
-fiche/items/legging-mythril.png;10339;64;96;oui;fiche/items/legging-mythril.png
-fiche/items/legging-plate.png;10821;64;96;oui;fiche/items/legging-plate.png
-fiche/items/lockpick.png;9964;119;69;oui;fiche/items/lockpick.png
-fiche/items/long-sword-ciprian.png;4228;32;96;oui;fiche/items/long-sword-ciprian.png
-fiche/items/long-sword-feather.png;3519;32;96;oui;fiche/items/long-sword-feather.png
-fiche/items/long-sword-jeweld.png;3864;32;96;oui;fiche/items/long-sword-jeweld.png
-fiche/items/long-sword-recovery.png;3417;96;32;oui;fiche/items/long-sword-recovery.png
-fiche/items/long-sword.png;3687;32;96;oui;fiche/items/long-sword.png
+fiche/items/emerald-extraordinary.png;3330;64;64;oui;fiche/items/emerald-extraordinary.png
+fiche/items/emerald-lesser.png;3330;64;64;oui;fiche/items/emerald-lesser.png
+fiche/items/emerald-ni.png;3330;64;64;oui;fiche/items/emerald-ni.png
+fiche/items/emerald-superior.png;3330;64;64;oui;fiche/items/emerald-superior.png
+fiche/items/extra-backpack.png;28976;128;128;oui;fiche/items/extra-backpack.png
+fiche/items/fake-golden-snake.png;15576;64;128;oui;fiche/items/fake-golden-snake.png
+fiche/items/fern.png;9136;64;64;oui;fiche/items/fern.png
+fiche/items/fishing-pole.png;11294;64;192;oui;fiche/items/fishing-pole.png
+fiche/items/flour.png;8504;64;64;oui;fiche/items/flour.png
+fiche/items/flute.png;4758;64;64;oui;fiche/items/flute.png
+fiche/items/food-chicken-uncooked.png;7195;64;64;oui;fiche/items/food-chicken-uncooked.png
+fiche/items/food-chicken.png;5991;64;64;oui;fiche/items/food-chicken.png
+fiche/items/food-fish-eaten.png;6671;64;64;oui;fiche/items/food-fish-eaten.png
+fiche/items/food-fish.png;6622;64;64;oui;fiche/items/food-fish.png
+fiche/items/food-leek.png;9639;64;128;oui;fiche/items/food-leek.png
+fiche/items/garlic.png;4353;64;64;oui;fiche/items/garlic.png
+fiche/items/gem-dealer-badge.png;7684;64;64;oui;fiche/items/gem-dealer-badge.png
+fiche/items/gem-extraordinary.png;8958;64;64;oui;fiche/items/gem-extraordinary.png
+fiche/items/gem-lesser.png;8958;64;64;oui;fiche/items/gem-lesser.png
+fiche/items/gem-ni.png;8958;64;64;oui;fiche/items/gem-ni.png
+fiche/items/gem-superior.png;8958;64;64;oui;fiche/items/gem-superior.png
+fiche/items/giant-slayer.png;17552;64;192;oui;fiche/items/giant-slayer.png
+fiche/items/gold-10.png;1834;64;64;oui;fiche/items/gold-10.png
+fiche/items/gold-11.png;1834;64;64;oui;fiche/items/gold-11.png
+fiche/items/gold-12.png;1834;64;64;oui;fiche/items/gold-12.png
+fiche/items/gold-13.png;1834;64;64;oui;fiche/items/gold-13.png
+fiche/items/gold-14.png;1834;64;64;oui;fiche/items/gold-14.png
+fiche/items/gold-15.png;1834;64;64;oui;fiche/items/gold-15.png
+fiche/items/gold-16.png;1834;64;64;oui;fiche/items/gold-16.png
+fiche/items/gold-17.png;1834;64;64;oui;fiche/items/gold-17.png
+fiche/items/gold-18.png;1834;64;64;oui;fiche/items/gold-18.png
+fiche/items/gold-19.png;1834;64;64;oui;fiche/items/gold-19.png
+fiche/items/gold-21.png;1834;64;64;oui;fiche/items/gold-21.png
+fiche/items/gold-22.png;1834;64;64;oui;fiche/items/gold-22.png
+fiche/items/gold-23.png;1834;64;64;oui;fiche/items/gold-23.png
+fiche/items/gold-24.png;1834;64;64;oui;fiche/items/gold-24.png
+fiche/items/gold-25.png;1834;64;64;oui;fiche/items/gold-25.png
+fiche/items/gold-26.png;1834;64;64;oui;fiche/items/gold-26.png
+fiche/items/gold-27.png;1834;64;64;oui;fiche/items/gold-27.png
+fiche/items/gold-28.png;1834;64;64;oui;fiche/items/gold-28.png
+fiche/items/gold-29.png;1834;64;64;oui;fiche/items/gold-29.png
+fiche/items/gold-30.png;1834;64;64;oui;fiche/items/gold-30.png
+fiche/items/gold-31.png;1834;64;64;oui;fiche/items/gold-31.png
+fiche/items/gold-32.png;1834;64;64;oui;fiche/items/gold-32.png
+fiche/items/gold-33.png;1834;64;64;oui;fiche/items/gold-33.png
+fiche/items/gold-34.png;1834;64;64;oui;fiche/items/gold-34.png
+fiche/items/gold-35.png;1834;64;64;oui;fiche/items/gold-35.png
+fiche/items/gold-36.png;1834;64;64;oui;fiche/items/gold-36.png
+fiche/items/gold-37.png;1834;64;64;oui;fiche/items/gold-37.png
+fiche/items/gold-38.png;1834;64;64;oui;fiche/items/gold-38.png
+fiche/items/gold-39.png;1834;64;64;oui;fiche/items/gold-39.png
+fiche/items/gold-40.png;1834;64;64;oui;fiche/items/gold-40.png
+fiche/items/gold-41.png;1834;64;64;oui;fiche/items/gold-41.png
+fiche/items/gold-42.png;1834;64;64;oui;fiche/items/gold-42.png
+fiche/items/gold-43.png;1834;64;64;oui;fiche/items/gold-43.png
+fiche/items/gold-44.png;1834;64;64;oui;fiche/items/gold-44.png
+fiche/items/gold-45.png;1834;64;64;oui;fiche/items/gold-45.png
+fiche/items/gold-46.png;1834;64;64;oui;fiche/items/gold-46.png
+fiche/items/gold-47.png;1834;64;64;oui;fiche/items/gold-47.png
+fiche/items/gold-48.png;1834;64;64;oui;fiche/items/gold-48.png
+fiche/items/gold-49.png;1834;64;64;oui;fiche/items/gold-49.png
+fiche/items/gold-5.png;1834;64;64;oui;fiche/items/gold-5.png
+fiche/items/gold-6.png;1834;64;64;oui;fiche/items/gold-6.png
+fiche/items/gold-7.png;1834;64;64;oui;fiche/items/gold-7.png
+fiche/items/gold-8.png;1834;64;64;oui;fiche/items/gold-8.png
+fiche/items/gold-chunk.png;5952;64;64;oui;fiche/items/gold-chunk.png
+fiche/items/gold-fifty.png;1834;64;64;oui;fiche/items/gold-fifty.png
+fiche/items/gold-four.png;1834;64;64;oui;fiche/items/gold-four.png
+fiche/items/gold-nine.png;1834;64;64;oui;fiche/items/gold-nine.png
+fiche/items/gold-one.png;1834;64;64;oui;fiche/items/gold-one.png
+fiche/items/gold-three.png;1834;64;64;oui;fiche/items/gold-three.png
+fiche/items/gold-twenty.png;1834;64;64;oui;fiche/items/gold-twenty.png
+fiche/items/gold-two.png;1834;64;64;oui;fiche/items/gold-two.png
+fiche/items/golden-bar.png;7605;64;64;oui;fiche/items/golden-bar.png
+fiche/items/golden-bracelet-cmb.png;9874;64;64;oui;fiche/items/golden-bracelet-cmb.png
+fiche/items/golden-bracelet-def.png;9874;64;64;oui;fiche/items/golden-bracelet-def.png
+fiche/items/golden-bracelet-dst.png;9874;64;64;oui;fiche/items/golden-bracelet-dst.png
+fiche/items/golden-bracelet.png;9874;64;64;oui;fiche/items/golden-bracelet.png
+fiche/items/golden-chestplate.png;25947;128;128;oui;fiche/items/golden-chestplate.png
+fiche/items/golden-cup.png;7429;64;64;oui;fiche/items/golden-cup.png
+fiche/items/golden-legging-plate.png;40327;128;192;oui;fiche/items/golden-legging-plate.png
+fiche/items/golden-neckplace-inc.png;8756;64;64;oui;fiche/items/golden-neckplace-inc.png
+fiche/items/golden-neckplace-int.png;8756;64;64;oui;fiche/items/golden-neckplace-int.png
+fiche/items/golden-neckplace-psy.png;8756;64;64;oui;fiche/items/golden-neckplace-psy.png
+fiche/items/golden-neckplace.png;8756;64;64;oui;fiche/items/golden-neckplace.png
+fiche/items/golden-plate-helmet.png;8816;64;64;oui;fiche/items/golden-plate-helmet.png
+fiche/items/golden-snake.png;15576;64;128;oui;fiche/items/golden-snake.png
+fiche/items/golem-heart.png;5045;64;64;oui;fiche/items/golem-heart.png
+fiche/items/hammer-2.png;5150;64;64;oui;fiche/items/hammer-2.png
+fiche/items/hammer-club.png;11638;64;192;oui;fiche/items/hammer-club.png
+fiche/items/hammer.png;5150;64;64;oui;fiche/items/hammer.png
+fiche/items/handwritten-note-2.png;6873;64;64;oui;fiche/items/handwritten-note-2.png
+fiche/items/handwritten-note.png;7831;64;64;oui;fiche/items/handwritten-note.png
+fiche/items/health-potion.png;7056;64;64;oui;fiche/items/health-potion.png
+fiche/items/helmet-leather-stealth.png;7031;64;64;oui;fiche/items/helmet-leather-stealth.png
+fiche/items/incense.png;6559;64;64;oui;fiche/items/incense.png
+fiche/items/ingot-metal.png;6853;64;64;oui;fiche/items/ingot-metal.png
+fiche/items/ingot-mythril-koltk.png;6710;64;64;oui;fiche/items/ingot-mythril-koltk.png
+fiche/items/ingot-mythril.png;6703;64;64;oui;fiche/items/ingot-mythril.png
+fiche/items/jail-stone.png;9027;64;64;oui;fiche/items/jail-stone.png
+fiche/items/jewel-troll.png;6051;64;64;oui;fiche/items/jewel-troll.png
+fiche/items/key-1.png;4650;64;64;oui;fiche/items/key-1.png
+fiche/items/key-2.png;4314;64;64;oui;fiche/items/key-2.png
+fiche/items/key-bank.png;3472;64;64;oui;fiche/items/key-bank.png
+fiche/items/key-base3.png;4193;64;64;oui;fiche/items/key-base3.png
+fiche/items/key-base4.png;3695;64;64;oui;fiche/items/key-base4.png
+fiche/items/key-calpale.png;2926;64;64;oui;fiche/items/key-calpale.png
+fiche/items/key-crypt.png;4698;64;64;oui;fiche/items/key-crypt.png
+fiche/items/key-gob-chest-idol.png;3453;64;64;oui;fiche/items/key-gob-chest-idol.png
+fiche/items/key-gob-treasure.png;5574;64;64;oui;fiche/items/key-gob-treasure.png
+fiche/items/key-gob-weap.png;5591;64;64;oui;fiche/items/key-gob-weap.png
+fiche/items/key-oliverquest.png;3971;64;64;oui;fiche/items/key-oliverquest.png
+fiche/items/keyring-1key.png;5673;64;64;oui;fiche/items/keyring-1key.png
+fiche/items/keyring-2key.png;7405;64;64;oui;fiche/items/keyring-2key.png
+fiche/items/keyring-3key.png;8319;64;64;oui;fiche/items/keyring-3key.png
+fiche/items/keyring.png;4215;64;64;oui;fiche/items/keyring.png
+fiche/items/keyringfull.png;9200;64;64;oui;fiche/items/keyringfull.png
+fiche/items/king-gold-cup.png;7429;64;64;oui;fiche/items/king-gold-cup.png
+fiche/items/koltk-powder.png;8468;64;64;oui;fiche/items/koltk-powder.png
+fiche/items/koltk-sample.png;5944;64;64;oui;fiche/items/koltk-sample.png
+fiche/items/krahoz-and-zohark.png;26081;128;192;oui;fiche/items/krahoz-and-zohark.png
+fiche/items/krahoz.png;8445;64;64;oui;fiche/items/krahoz.png
+fiche/items/lamp.png;20215;64;128;oui;fiche/items/lamp.png
+fiche/items/legging-chain-rebel.png;40799;128;192;oui;fiche/items/legging-chain-rebel.png
+fiche/items/legging-chain.png;40799;128;192;oui;fiche/items/legging-chain.png
+fiche/items/legging-leather-ac.png;35974;128;192;oui;fiche/items/legging-leather-ac.png
+fiche/items/legging-leather-stealth.png;32911;128;192;oui;fiche/items/legging-leather-stealth.png
+fiche/items/legging-leather.png;38607;128;192;oui;fiche/items/legging-leather.png
+fiche/items/legging-mythril.png;40971;128;192;oui;fiche/items/legging-mythril.png
+fiche/items/legging-plate.png;42617;128;192;oui;fiche/items/legging-plate.png
+fiche/items/lockpick.png;16254;128;64;oui;fiche/items/lockpick.png
+fiche/items/long-sword-ciprian.png;11347;64;128;oui;fiche/items/long-sword-ciprian.png
+fiche/items/long-sword-feather.png;12667;64;192;oui;fiche/items/long-sword-feather.png
+fiche/items/long-sword-jeweld.png;13316;64;192;oui;fiche/items/long-sword-jeweld.png
+fiche/items/long-sword-recovery.png;11990;192;64;oui;fiche/items/long-sword-recovery.png
+fiche/items/long-sword.png;12943;64;192;oui;fiche/items/long-sword.png
+fiche/items/mauld-2sword.png;30695;192;128;oui;fiche/items/mauld-2sword.png
+fiche/items/mauld-key.png;8394;64;64;oui;fiche/items/mauld-key.png
+fiche/items/mauld-sabre.png;37514;128;192;oui;fiche/items/mauld-sabre.png
+fiche/items/medicinal-herb.png;9826;64;64;oui;fiche/items/medicinal-herb.png
+fiche/items/metal-chunk.png;7166;64;64;oui;fiche/items/metal-chunk.png
 fiche/items/metal-shield.png;9884;64;64;oui;fiche/items/metal-shield.png
-fiche/items/mirror.png;9953;64;64;oui;fiche/items/mirror.png
-fiche/items/mithril-bracelet.png;2822;32;32;oui;fiche/items/mithril-bracelet.png
-fiche/items/mithril-neckplace.png;2174;32;32;oui;fiche/items/mithril-neckplace.png
-fiche/items/mithril-ring.png;562;32;32;oui;fiche/items/mithril-ring.png
+fiche/items/mirette.png;6902;64;64;oui;fiche/items/mirette.png
+fiche/items/mirror.png;27704;128;128;oui;fiche/items/mirror.png
+fiche/items/mithril-bracelet-cmb.png;10496;64;64;oui;fiche/items/mithril-bracelet-cmb.png
+fiche/items/mithril-bracelet-def.png;10496;64;64;oui;fiche/items/mithril-bracelet-def.png
+fiche/items/mithril-bracelet-dst.png;10496;64;64;oui;fiche/items/mithril-bracelet-dst.png
+fiche/items/mithril-bracelet.png;10496;64;64;oui;fiche/items/mithril-bracelet.png
+fiche/items/mithril-chunk.png;7007;64;64;oui;fiche/items/mithril-chunk.png
+fiche/items/mithril-neckplace-inc.png;9838;64;64;oui;fiche/items/mithril-neckplace-inc.png
+fiche/items/mithril-neckplace-int.png;9838;64;64;oui;fiche/items/mithril-neckplace-int.png
+fiche/items/mithril-neckplace-psy.png;9838;64;64;oui;fiche/items/mithril-neckplace-psy.png
+fiche/items/mithril-neckplace.png;9838;64;64;oui;fiche/items/mithril-neckplace.png
+fiche/items/mithril-ring-dis.png;2527;64;64;oui;fiche/items/mithril-ring-dis.png
+fiche/items/mithril-ring-man.png;2527;64;64;oui;fiche/items/mithril-ring-man.png
+fiche/items/mithril-ring-tec.png;2527;64;64;oui;fiche/items/mithril-ring-tec.png
+fiche/items/mithril-ring.png;2527;64;64;oui;fiche/items/mithril-ring.png
+fiche/items/morning-glory.png;8541;64;64;oui;fiche/items/morning-glory.png
 fiche/items/moulinette.png;4840;122;66;oui;fiche/items/moulinette.png
-fiche/items/mushroom.png;2769;49;68;oui;fiche/items/mushroom.png
-fiche/items/mythril-chest.png;15837;64;96;oui;fiche/items/mythril-chest.png
-fiche/items/mythril-helmet.png;2757;32;32;oui;fiche/items/mythril-helmet.png
+fiche/items/mud-putty.png;8466;64;64;oui;fiche/items/mud-putty.png
+fiche/items/mug-full.png;8664;64;64;oui;fiche/items/mug-full.png
+fiche/items/mushroom.png;5918;64;64;oui;fiche/items/mushroom.png
+fiche/items/mythril-chest.png;56129;128;192;oui;fiche/items/mythril-chest.png
+fiche/items/mythril-helmet.png;9435;64;64;oui;fiche/items/mythril-helmet.png
+fiche/items/oil-can.png;6972;64;64;oui;fiche/items/oil-can.png
+fiche/items/old-golden-snake.png;14208;64;128;oui;fiche/items/old-golden-snake.png
 fiche/items/one-handed-sword-light.png;3889;67;105;oui;fiche/items/one-handed-sword-light.png
 fiche/items/one-handed-sword.png;7330;60;145;oui;fiche/items/one-handed-sword.png
-fiche/items/pick-axe.png;1912;32;64;oui;fiche/items/pick-axe.png
-fiche/items/piece-wood.png;1994;32;64;oui;fiche/items/piece-wood.png
-fiche/items/plate-helmet.png;2803;32;32;oui;fiche/items/plate-helmet.png
-fiche/items/pole.png;2949;32;96;oui;fiche/items/pole.png
-fiche/items/potion-antidote.png;2284;32;32;oui;fiche/items/potion-antidote.png
-fiche/items/potion-invisibility.png;2359;32;32;oui;fiche/items/potion-invisibility.png
-fiche/items/potion-mana.png;2265;32;32;oui;fiche/items/potion-mana.png
-fiche/items/potion-poison.png;2332;32;32;oui;fiche/items/potion-poison.png
-fiche/items/powerstone.png;4798;32;64;oui;fiche/items/powerstone.png
-fiche/items/poxelis-helmet.png;4254;32;64;oui;fiche/items/poxelis-helmet.png
-fiche/items/ring-casting.png;1049;32;32;oui;fiche/items/ring-casting.png
-fiche/items/ring-cursed.png;1056;32;32;oui;fiche/items/ring-cursed.png
-fiche/items/ring-daarka.png;1750;32;32;oui;fiche/items/ring-daarka.png
-fiche/items/ring-gold.png;583;32;32;oui;fiche/items/ring-gold.png
-fiche/items/ring-invisibility-handmade.png;1558;32;32;oui;fiche/items/ring-invisibility-handmade.png
-fiche/items/ring-invisibility.png;1553;32;32;oui;fiche/items/ring-invisibility.png
-fiche/items/ring-master-anselmo.png;966;32;32;oui;fiche/items/ring-master-anselmo.png
-fiche/items/ring-misery.png;1064;32;32;oui;fiche/items/ring-misery.png
-fiche/items/ring-oliver.png;1524;32;32;oui;fiche/items/ring-oliver.png
-fiche/items/ring-plain.png;1590;32;32;oui;fiche/items/ring-plain.png
-fiche/items/ring-player.png;1086;32;32;oui;fiche/items/ring-player.png
-fiche/items/ring-protection.png;1109;32;32;oui;fiche/items/ring-protection.png
-fiche/items/ring-regeneration-handmade.png;1581;32;32;oui;fiche/items/ring-regeneration-handmade.png
-fiche/items/ring-regeneration.png;1579;32;32;oui;fiche/items/ring-regeneration.png
-fiche/items/ring-silver.png;1013;32;32;oui;fiche/items/ring-silver.png
-fiche/items/ring-water-point.png;1548;32;32;oui;fiche/items/ring-water-point.png
-fiche/items/ritual-blooding-device.png;2117;32;32;oui;fiche/items/ritual-blooding-device.png
-fiche/items/rolling-pin.png;2520;64;32;oui;fiche/items/rolling-pin.png
-fiche/items/ruby-extraordinary.png;1657;32;32;oui;fiche/items/ruby-extraordinary.png
-fiche/items/ruby-lesser.png;932;32;32;oui;fiche/items/ruby-lesser.png
-fiche/items/ruby-ni.png;932;32;32;oui;fiche/items/ruby-ni.png
-fiche/items/ruby-superior.png;1659;32;32;oui;fiche/items/ruby-superior.png
-fiche/items/sabre-meteor.png;3266;32;96;oui;fiche/items/sabre-meteor.png
-fiche/items/sabre-mythril.png;3257;32;96;oui;fiche/items/sabre-mythril.png
-fiche/items/sabre-ylside.png;1751;32;64;oui;fiche/items/sabre-ylside.png
-fiche/items/sabre.png;3183;32;96;oui;fiche/items/sabre.png
+fiche/items/pick-axe.png;9411;64;128;oui;fiche/items/pick-axe.png
+fiche/items/pie-uncooked.png;9060;64;64;oui;fiche/items/pie-uncooked.png
+fiche/items/pie.png;8616;64;64;oui;fiche/items/pie.png
+fiche/items/piece-wood.png;6001;64;128;oui;fiche/items/piece-wood.png
+fiche/items/plate-helmet.png;9417;64;64;oui;fiche/items/plate-helmet.png
+fiche/items/pole-with-fish.png;6681;64;128;oui;fiche/items/pole-with-fish.png
+fiche/items/pole.png;9601;64;192;oui;fiche/items/pole.png
+fiche/items/potion-antidote.png;7055;64;64;oui;fiche/items/potion-antidote.png
+fiche/items/potion-invisibility.png;6637;64;64;oui;fiche/items/potion-invisibility.png
+fiche/items/potion-mana.png;6932;64;64;oui;fiche/items/potion-mana.png
+fiche/items/potion-poison.png;6879;64;64;oui;fiche/items/potion-poison.png
+fiche/items/potion2beblue.png;6839;64;64;oui;fiche/items/potion2beblue.png
+fiche/items/potion2begreen.png;6797;64;64;oui;fiche/items/potion2begreen.png
+fiche/items/potion2beorange.png;6868;64;64;oui;fiche/items/potion2beorange.png
+fiche/items/potion2bepurple.png;6868;64;64;oui;fiche/items/potion2bepurple.png
+fiche/items/potion2bewhite.png;6859;64;64;oui;fiche/items/potion2bewhite.png
+fiche/items/powder-antidote.png;9247;64;64;oui;fiche/items/powder-antidote.png
+fiche/items/powder-bone.png;9066;64;64;oui;fiche/items/powder-bone.png
+fiche/items/powder-fern.png;9131;64;64;oui;fiche/items/powder-fern.png
+fiche/items/powder-morning-glory.png;10326;64;64;oui;fiche/items/powder-morning-glory.png
+fiche/items/powder-snow-drop.png;8981;64;64;oui;fiche/items/powder-snow-drop.png
+fiche/items/powder-water-lily.png;9058;64;64;oui;fiche/items/powder-water-lily.png
+fiche/items/powerstone.png;9228;64;64;oui;fiche/items/powerstone.png
+fiche/items/poxelis-helmet.png;9156;64;64;oui;fiche/items/poxelis-helmet.png
+fiche/items/puzzle-orb-crypt.png;8822;64;64;oui;fiche/items/puzzle-orb-crypt.png
+fiche/items/puzzle-stone01.png;8589;64;64;oui;fiche/items/puzzle-stone01.png
+fiche/items/puzzle-stone02.png;9370;64;64;oui;fiche/items/puzzle-stone02.png
+fiche/items/puzzle-stone03.png;9098;64;64;oui;fiche/items/puzzle-stone03.png
+fiche/items/puzzle-stone04.png;9788;64;64;oui;fiche/items/puzzle-stone04.png
+fiche/items/puzzle-stone05.png;9586;64;64;oui;fiche/items/puzzle-stone05.png
+fiche/items/puzzle-stone06.png;9652;64;64;oui;fiche/items/puzzle-stone06.png
+fiche/items/ribs-cooked-mini.png;5630;64;64;oui;fiche/items/ribs-cooked-mini.png
+fiche/items/ribs-cooked.png;16749;128;64;oui;fiche/items/ribs-cooked.png
+fiche/items/ribs-mini.png;5771;64;64;oui;fiche/items/ribs-mini.png
+fiche/items/ribs.png;16433;128;64;oui;fiche/items/ribs.png
+fiche/items/ring-casting.png;4352;64;64;oui;fiche/items/ring-casting.png
+fiche/items/ring-cursed.png;3937;64;64;oui;fiche/items/ring-cursed.png
+fiche/items/ring-daarka.png;4843;64;64;oui;fiche/items/ring-daarka.png
+fiche/items/ring-gold-dis.png;3937;64;64;oui;fiche/items/ring-gold-dis.png
+fiche/items/ring-gold-man.png;3937;64;64;oui;fiche/items/ring-gold-man.png
+fiche/items/ring-gold-tec.png;3937;64;64;oui;fiche/items/ring-gold-tec.png
+fiche/items/ring-gold.png;3937;64;64;oui;fiche/items/ring-gold.png
+fiche/items/ring-invisibility-handmade.png;4094;64;64;oui;fiche/items/ring-invisibility-handmade.png
+fiche/items/ring-invisibility.png;4094;64;64;oui;fiche/items/ring-invisibility.png
+fiche/items/ring-master-anselmo.png;4209;64;64;oui;fiche/items/ring-master-anselmo.png
+fiche/items/ring-misery.png;4858;64;64;oui;fiche/items/ring-misery.png
+fiche/items/ring-oliver.png;3976;64;64;oui;fiche/items/ring-oliver.png
+fiche/items/ring-plain.png;3937;64;64;oui;fiche/items/ring-plain.png
+fiche/items/ring-player.png;4811;64;64;oui;fiche/items/ring-player.png
+fiche/items/ring-protection.png;4205;64;64;oui;fiche/items/ring-protection.png
+fiche/items/ring-regeneration-handmade.png;4007;64;64;oui;fiche/items/ring-regeneration-handmade.png
+fiche/items/ring-regeneration.png;4007;64;64;oui;fiche/items/ring-regeneration.png
+fiche/items/ring-silver-dis.png;3937;64;64;oui;fiche/items/ring-silver-dis.png
+fiche/items/ring-silver-man.png;3937;64;64;oui;fiche/items/ring-silver-man.png
+fiche/items/ring-silver-tec.png;3937;64;64;oui;fiche/items/ring-silver-tec.png
+fiche/items/ring-silver.png;3937;64;64;oui;fiche/items/ring-silver.png
+fiche/items/ring-water-point.png;4222;64;64;oui;fiche/items/ring-water-point.png
+fiche/items/ritual-blooding-device-blood.png;5937;64;64;oui;fiche/items/ritual-blooding-device-blood.png
+fiche/items/ritual-blooding-device.png;6144;64;64;oui;fiche/items/ritual-blooding-device.png
+fiche/items/rock-akbaa.png;14416;64;128;oui;fiche/items/rock-akbaa.png
+fiche/items/rock-amikar.png;8107;64;64;oui;fiche/items/rock-amikar.png
+fiche/items/rolling-pin.png;9079;128;64;oui;fiche/items/rolling-pin.png
+fiche/items/rope.png;28189;128;128;oui;fiche/items/rope.png
+fiche/items/ruby-extraordinary.png;4184;64;64;oui;fiche/items/ruby-extraordinary.png
+fiche/items/ruby-lesser.png;4184;64;64;oui;fiche/items/ruby-lesser.png
+fiche/items/ruby-ni.png;4184;64;64;oui;fiche/items/ruby-ni.png
+fiche/items/ruby-superior.png;4184;64;64;oui;fiche/items/ruby-superior.png
+fiche/items/sabre-meteor.png;10725;64;192;oui;fiche/items/sabre-meteor.png
+fiche/items/sabre-mythril.png;10627;64;192;oui;fiche/items/sabre-mythril.png
+fiche/items/sabre-ylside.png;8268;64;128;oui;fiche/items/sabre-ylside.png
+fiche/items/sabre.png;10627;64;192;oui;fiche/items/sabre.png
 fiche/items/sam-sword.png;14618;159;146;oui;fiche/items/sam-sword.png
+fiche/items/sausage.png;3511;64;64;non;fiche/items/sausage.png
+fiche/items/sedative-dose.png;3991;64;64;oui;fiche/items/sedative-dose.png
 fiche/items/sheet.png;4930;41;52;oui;fiche/items/sheet.png
-fiche/items/shield-elder.png;14258;64;96;oui;fiche/items/shield-elder.png
-fiche/items/shield-metal.png;9884;64;64;oui;fiche/items/shield-metal.png
+fiche/items/shield-elder.png;52709;128;192;oui;fiche/items/shield-elder.png
+fiche/items/shield-metal.png;34337;128;128;oui;fiche/items/shield-metal.png
 fiche/items/shield-of-elders.png;14258;64;96;oui;fiche/items/shield-of-elders.png
-fiche/items/shield-tower-metal.png;13235;64;96;oui;fiche/items/shield-tower-metal.png
-fiche/items/shield.png;10634;64;64;oui;fiche/items/shield.png
-fiche/items/shiny-orb-end.png;4105;32;64;oui;fiche/items/shiny-orb-end.png
-fiche/items/shiny-orb.png;1500;32;32;oui;fiche/items/shiny-orb.png
-fiche/items/short-sword.png;1905;32;64;oui;fiche/items/short-sword.png
-fiche/items/shovel.png;4136;32;96;oui;fiche/items/shovel.png
-fiche/items/silver-bracelet.png;2759;32;32;oui;fiche/items/silver-bracelet.png
-fiche/items/silver-neckplace.png;2161;32;32;oui;fiche/items/silver-neckplace.png
-fiche/items/stake-blessed.png;1196;32;32;oui;fiche/items/stake-blessed.png
-fiche/items/stake.png;1086;32;32;oui;fiche/items/stake.png
-fiche/items/sword-2handed-meteor.png;3959;32;96;oui;fiche/items/sword-2handed-meteor.png
-fiche/items/sword-2handed-mythril.png;3962;32;96;oui;fiche/items/sword-2handed-mythril.png
-fiche/items/sword-2handed.png;3863;32;96;oui;fiche/items/sword-2handed.png
-fiche/items/sword-mx.png;6248;96;96;oui;fiche/items/sword-mx.png
-fiche/items/torch.png;2202;32;64;oui;fiche/items/torch.png
+fiche/items/shield-tower-metal.png;44844;128;192;oui;fiche/items/shield-tower-metal.png
+fiche/items/shield.png;37418;128;128;oui;fiche/items/shield.png
+fiche/items/shiny-orb-end.png;15498;64;128;oui;fiche/items/shiny-orb-end.png
+fiche/items/shiny-orb.png;5768;64;64;oui;fiche/items/shiny-orb.png
+fiche/items/short-sword.png;9458;64;128;oui;fiche/items/short-sword.png
+fiche/items/shovel.png;13696;64;192;oui;fiche/items/shovel.png
+fiche/items/signed-form.png;8353;64;64;oui;fiche/items/signed-form.png
+fiche/items/silver-bracelet-cmb.png;10671;64;64;oui;fiche/items/silver-bracelet-cmb.png
+fiche/items/silver-bracelet-def.png;10671;64;64;oui;fiche/items/silver-bracelet-def.png
+fiche/items/silver-bracelet-dst.png;10671;64;64;oui;fiche/items/silver-bracelet-dst.png
+fiche/items/silver-bracelet.png;10671;64;64;oui;fiche/items/silver-bracelet.png
+fiche/items/silver-neckplace-inc.png;9994;64;64;oui;fiche/items/silver-neckplace-inc.png
+fiche/items/silver-neckplace-int.png;9994;64;64;oui;fiche/items/silver-neckplace-int.png
+fiche/items/silver-neckplace-psy.png;9994;64;64;oui;fiche/items/silver-neckplace-psy.png
+fiche/items/silver-neckplace.png;9994;64;64;oui;fiche/items/silver-neckplace.png
+fiche/items/snow-drop.png;5256;64;64;oui;fiche/items/snow-drop.png
+fiche/items/stake-blessed.png;3802;64;64;oui;fiche/items/stake-blessed.png
+fiche/items/stake.png;4570;64;64;oui;fiche/items/stake.png
+fiche/items/stone-big.png;4714;64;64;oui;fiche/items/stone-big.png
+fiche/items/sword-2handed-meteor.png;13955;64;192;oui;fiche/items/sword-2handed-meteor.png
+fiche/items/sword-2handed-mythril.png;14113;64;192;oui;fiche/items/sword-2handed-mythril.png
+fiche/items/sword-2handed.png;14113;64;192;oui;fiche/items/sword-2handed.png
+fiche/items/sword-mx.png;27475;192;192;oui;fiche/items/sword-mx.png
+fiche/items/torch.png;9353;64;128;oui;fiche/items/torch.png
 fiche/items/tower-shield-metal.png;13235;64;96;oui;fiche/items/tower-shield-metal.png
-fiche/items/uncooked-bread.png;2520;32;32;oui;fiche/items/uncooked-bread.png
-fiche/items/wall-block.png;2686;32;32;oui;fiche/items/wall-block.png
-fiche/items/water.png;3580;74;68;oui;fiche/items/water.png
+fiche/items/troll-idol.png;29704;128;128;oui;fiche/items/troll-idol.png
+fiche/items/uncooked-bread.png;7699;64;64;oui;fiche/items/uncooked-bread.png
+fiche/items/wall-block.png;8614;64;64;oui;fiche/items/wall-block.png
+fiche/items/water.png;6249;64;64;oui;fiche/items/water.png
+fiche/items/waterlily.png;10316;64;64;oui;fiche/items/waterlily.png
 fiche/items/wooden-club.png;6472;72;109;oui;fiche/items/wooden-club.png
 fiche/items/wooden-shield.png;24249;110;103;oui;fiche/items/wooden-shield.png
-fiche/items/ylside-bottoms.png;12538;64;96;oui;fiche/items/ylside-bottoms.png
-fiche/items/ylside-chest.png;10563;64;96;oui;fiche/items/ylside-chest.png
-fiche/items/zohark.png;1821;32;32;oui;fiche/items/zohark.png
+fiche/items/ylside-bottoms.png;48015;128;192;oui;fiche/items/ylside-bottoms.png
+fiche/items/ylside-chest.png;28482;128;128;oui;fiche/items/ylside-chest.png
+fiche/items/zohark.png;8492;64;64;oui;fiche/items/zohark.png
 fiche/presets/antidote.png;2574;48;48;oui;fiche/presets/antidote.png
 fiche/presets/armor.png;2394;48;48;oui;fiche/presets/armor.png
 fiche/presets/blessing.png;2358;48;48;oui;fiche/presets/blessing.png
@@ -615,10 +795,12 @@ objets/decor/Autels et magie/Œuf de dragon flottant (0,5x0,5).png;19822;102;102
 objets/decor/Cadavres et restes/Bassin (os) (0,5x0,5).png;8996;107;70;oui;objets/decor/Cadavres%20et%20restes/Bassin%20%28os%29%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Cadavre (1x1,5).png;43372;172;281;oui;objets/decor/Cadavres%20et%20restes/Cadavre%20%281x1%2C5%29.png
 objets/decor/Cadavres et restes/Cadavre torturé (0,5x0,5).png;17835;97;128;oui;objets/decor/Cadavres%20et%20restes/Cadavre%20tortur%C3%A9%20%280%2C5x0%2C5%29.png
+objets/decor/Cadavres et restes/Cage thoracique (0,5x0,5).png;7572;80;58;oui;objets/decor/Cadavres%20et%20restes/Cage%20thoracique%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Crâne (1) (0,5x0,5).png;4341;45;55;oui;objets/decor/Cadavres%20et%20restes/Cr%C3%A2ne%20%281%29%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Crâne (2) (0,5x0,5).png;4771;63;49;oui;objets/decor/Cadavres%20et%20restes/Cr%C3%A2ne%20%282%29%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Crâne de troll (0,5x0,5).png;19284;134;110;oui;objets/decor/Cadavres%20et%20restes/Cr%C3%A2ne%20de%20troll%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Crâne de troll (Mirette) (3,5x0,5).png;92;734;4;oui;objets/decor/Cadavres%20et%20restes/Cr%C3%A2ne%20de%20troll%20%28Mirette%29%20%283%2C5x0%2C5%29.png
+objets/decor/Cadavres et restes/Fémur (0,5x0,5).png;6779;46;146;oui;objets/decor/Cadavres%20et%20restes/F%C3%A9mur%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Garde empalé (0,5x1).png;20276;144;177;oui;objets/decor/Cadavres%20et%20restes/Garde%20empal%C3%A9%20%280%2C5x1%29.png
 objets/decor/Cadavres et restes/Garde mort (2x2).png;75842;373;364;oui;objets/decor/Cadavres%20et%20restes/Garde%20mort%20%282x2%29.png
 objets/decor/Cadavres et restes/Gobelin mort (1) (1,5x1,5).png;57430;281;346;oui;objets/decor/Cadavres%20et%20restes/Gobelin%20mort%20%281%29%20%281%2C5x1%2C5%29.png
@@ -631,9 +813,13 @@ objets/decor/Cadavres et restes/Nain mort (1) (1x1).png;51892;232;150;oui;objets
 objets/decor/Cadavres et restes/Nain mort (2) (1x1).png;53147;218;171;oui;objets/decor/Cadavres%20et%20restes/Nain%20mort%20%282%29%20%281x1%29.png
 objets/decor/Cadavres et restes/Nain mort (3) (1x1).png;58708;196;248;oui;objets/decor/Cadavres%20et%20restes/Nain%20mort%20%283%29%20%281x1%29.png
 objets/decor/Cadavres et restes/Nain mort (4) (1x1).png;54424;180;184;oui;objets/decor/Cadavres%20et%20restes/Nain%20mort%20%284%29%20%281x1%29.png
+objets/decor/Cadavres et restes/Petit crâne (0,5x0,5).png;1245;24;29;oui;objets/decor/Cadavres%20et%20restes/Petit%20cr%C3%A2ne%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Rat mort (1) (0,5x1).png;12628;56;187;oui;objets/decor/Cadavres%20et%20restes/Rat%20mort%20%281%29%20%280%2C5x1%29.png
 objets/decor/Cadavres et restes/Rat mort (2) (0,5x0,5).png;5655;44;96;oui;objets/decor/Cadavres%20et%20restes/Rat%20mort%20%282%29%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Rat mort (3) (0,5x1).png;8970;69;160;oui;objets/decor/Cadavres%20et%20restes/Rat%20mort%20%283%29%20%280%2C5x1%29.png
+objets/decor/Cadavres et restes/Restes de gobelin (1) (0,5x0,5).png;9595;128;63;oui;objets/decor/Cadavres%20et%20restes/Restes%20de%20gobelin%20%281%29%20%280%2C5x0%2C5%29.png
+objets/decor/Cadavres et restes/Restes de gobelin (2) (0,5x0,5).png;5312;60;56;oui;objets/decor/Cadavres%20et%20restes/Restes%20de%20gobelin%20%282%29%20%280%2C5x0%2C5%29.png
+objets/decor/Cadavres et restes/Restes de gobelin (3) (0,5x0,5).png;12849;143;133;oui;objets/decor/Cadavres%20et%20restes/Restes%20de%20gobelin%20%283%29%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Restes de ver (1) (1x1).png;109874;250;234;oui;objets/decor/Cadavres%20et%20restes/Restes%20de%20ver%20%281%29%20%281x1%29.png
 objets/decor/Cadavres et restes/Restes de ver (2) (0,5x0,5).png;15642;77;127;oui;objets/decor/Cadavres%20et%20restes/Restes%20de%20ver%20%282%29%20%280%2C5x0%2C5%29.png
 objets/decor/Cadavres et restes/Restes de ver (3) (0,5x0,5).png;8696;66;80;oui;objets/decor/Cadavres%20et%20restes/Restes%20de%20ver%20%283%29%20%280%2C5x0%2C5%29.png
@@ -645,6 +831,7 @@ objets/decor/Cadavres et restes/Restes humains (3) (1x0,5).png;25179;242;101;oui
 objets/decor/Cadavres et restes/Torse de garde tranché (1,5x1,5).png;48300;317;294;oui;objets/decor/Cadavres%20et%20restes/Torse%20de%20garde%20tranch%C3%A9%20%281%2C5x1%2C5%29.png
 objets/decor/Cadavres et restes/Troll mort (1,5x3,5).png;175231;334;707;oui;objets/decor/Cadavres%20et%20restes/Troll%20mort%20%281%2C5x3%2C5%29.png
 objets/decor/Cadavres et restes/Tête de garde tranchée (0,5x0,5).png;6691;61;57;oui;objets/decor/Cadavres%20et%20restes/T%C3%AAte%20de%20garde%20tranch%C3%A9e%20%280%2C5x0%2C5%29.png
+objets/decor/Cadavres et restes/Tête de nain (0,5x0,5).png;9047;84;77;oui;objets/decor/Cadavres%20et%20restes/T%C3%AAte%20de%20nain%20%280%2C5x0%2C5%29.png
 objets/decor/Contenants/Armoire (1x0,5).png;24355;220;97;oui;objets/decor/Contenants/Armoire%20%281x0%2C5%29.png
 objets/decor/Contenants/Coffre (1) (1,5x0,5).png;66128;289;145;oui;objets/decor/Contenants/Coffre%20%281%29%20%281%2C5x0%2C5%29.png
 objets/decor/Contenants/Coffre (2) (1,5x0,5).png;51108;289;145;oui;objets/decor/Contenants/Coffre%20%282%29%20%281%2C5x0%2C5%29.png
@@ -666,7 +853,7 @@ objets/decor/Contenants/Tonneau (1x1).png;53619;212;208;oui;objets/decor/Contena
 objets/decor/Contenants/Tonneau des dissidents (0,5x0,5).png;28233;143;145;oui;objets/decor/Contenants/Tonneau%20des%20dissidents%20%280%2C5x0%2C5%29.png
 objets/decor/Contenants/Tonneau ylside (1x1).png;27359;151;152;oui;objets/decor/Contenants/Tonneau%20ylside%20%281x1%29.png
 objets/decor/Contenants/Tonneau à robinet (0,5x0,5).png;1982;33;37;oui;objets/decor/Contenants/Tonneau%20%C3%A0%20robinet%20%280%2C5x0%2C5%29.png
-objets/decor/decor.csv;67582;;;;objets/decor/decor.csv
+objets/decor/decor.csv;70829;;;;objets/decor/decor.csv
 objets/decor/Divers/Bouclier brisé (0,5x0,5).png;12927;104;103;oui;objets/decor/Divers/Bouclier%20bris%C3%A9%20%280%2C5x0%2C5%29.png
 objets/decor/Divers/Bouteille cassée (0,5x0,5).png;5684;121;45;oui;objets/decor/Divers/Bouteille%20cass%C3%A9e%20%280%2C5x0%2C5%29.png
 objets/decor/Divers/Chariot de mine (1,5x2).png;182277;270;403;oui;objets/decor/Divers/Chariot%20de%20mine%20%281%2C5x2%29.png
@@ -709,6 +896,7 @@ objets/decor/Forge et artisanat/Convertisseur de moules (3,5x2).png;110451;664;4
 objets/decor/Forge et artisanat/Enclume (0,5x1).png;20995;96;184;oui;objets/decor/Forge%20et%20artisanat/Enclume%20%280%2C5x1%29.png
 objets/decor/Forge et artisanat/Forge naine (3x1,5).png;123329;604;304;oui;objets/decor/Forge%20et%20artisanat/Forge%20naine%20%283x1%2C5%29.png
 objets/decor/Forge et artisanat/Four (1x1).png;23939;244;224;oui;objets/decor/Forge%20et%20artisanat/Four%20%281x1%29.png
+objets/decor/Forge et artisanat/Godet du broyeur nain (1x1).png;10897;184;204;oui;objets/decor/Forge%20et%20artisanat/Godet%20du%20broyeur%20nain%20%281x1%29.png
 objets/decor/Forge et artisanat/Lame d'épée brute (1) (0,5x1).png;4514;24;229;oui;objets/decor/Forge%20et%20artisanat/Lame%20d%27%C3%A9p%C3%A9e%20brute%20%281%29%20%280%2C5x1%29.png
 objets/decor/Forge et artisanat/Lame d'épée brute (2) (0,5x1,5).png;6204;25;319;oui;objets/decor/Forge%20et%20artisanat/Lame%20d%27%C3%A9p%C3%A9e%20brute%20%282%29%20%280%2C5x1%2C5%29.png
 objets/decor/Forge et artisanat/Lime de forgeron (1) (0,5x0,5).png;2322;14;132;oui;objets/decor/Forge%20et%20artisanat/Lime%20de%20forgeron%20%281%29%20%280%2C5x0%2C5%29.png
@@ -719,6 +907,7 @@ objets/decor/Forge et artisanat/Marteau de forgeron (2) (0,5x0,5).png;1415;37;72
 objets/decor/Forge et artisanat/Marteau de forgeron (3) (0,5x0,5).png;3026;42;90;oui;objets/decor/Forge%20et%20artisanat/Marteau%20de%20forgeron%20%283%29%20%280%2C5x0%2C5%29.png
 objets/decor/Forge et artisanat/Marteau de forgeron (4) (0,5x0,5).png;3073;40;86;oui;objets/decor/Forge%20et%20artisanat/Marteau%20de%20forgeron%20%284%29%20%280%2C5x0%2C5%29.png
 objets/decor/Forge et artisanat/Masse de forgeron (0,5x1).png;7761;49;199;oui;objets/decor/Forge%20et%20artisanat/Masse%20de%20forgeron%20%280%2C5x1%29.png
+objets/decor/Forge et artisanat/Moule d'épée longue (0,5x1,5).png;74201;128;301;oui;objets/decor/Forge%20et%20artisanat/Moule%20d%27%C3%A9p%C3%A9e%20longue%20%280%2C5x1%2C5%29.png
 objets/decor/Forge et artisanat/Moule à lingots (3,5x2).png;75684;664;404;oui;objets/decor/Forge%20et%20artisanat/Moule%20%C3%A0%20lingots%20%283%2C5x2%29.png
 objets/decor/Forge et artisanat/Petit concasseur nain (1x2).png;131543;236;350;oui;objets/decor/Forge%20et%20artisanat/Petit%20concasseur%20nain%20%281x2%29.png
 objets/decor/Forge et artisanat/Soufflet de forgé (1,5x2,5).png;100944;348;500;oui;objets/decor/Forge%20et%20artisanat/Soufflet%20de%20forg%C3%A9%20%281%2C5x2%2C5%29.png
@@ -731,6 +920,7 @@ objets/decor/Herses et grilles/Grande herse gobeline (3,5x0,5).png;8860;685;15;o
 objets/decor/Herses et grilles/Grille de cachot bois et métal (2x2).png;207920;404;404;oui;objets/decor/Herses%20et%20grilles/Grille%20de%20cachot%20bois%20et%20m%C3%A9tal%20%282x2%29.png
 objets/decor/Herses et grilles/Grille de cachot en bois (2x2).png;109777;404;404;oui;objets/decor/Herses%20et%20grilles/Grille%20de%20cachot%20en%20bois%20%282x2%29.png
 objets/decor/Herses et grilles/Grille de métal (1,5x2).png;126989;324;374;oui;objets/decor/Herses%20et%20grilles/Grille%20de%20m%C3%A9tal%20%281%2C5x2%29.png
+objets/decor/Herses et grilles/Grille des catacombes (1,5x2).png;57523;324;374;oui;objets/decor/Herses%20et%20grilles/Grille%20des%20catacombes%20%281%2C5x2%29.png
 objets/decor/Herses et grilles/Herse (2x0,5).png;3369;420;19;oui;objets/decor/Herses%20et%20grilles/Herse%20%282x0%2C5%29.png
 objets/decor/Herses et grilles/Herse d'Alicia (3x0,5).png;5363;554;19;oui;objets/decor/Herses%20et%20grilles/Herse%20d%27Alicia%20%283x0%2C5%29.png
 objets/decor/Herses et grilles/Herse de crypte (0,5x3).png;5417;31;565;oui;objets/decor/Herses%20et%20grilles/Herse%20de%20crypte%20%280%2C5x3%29.png
@@ -747,11 +937,14 @@ objets/decor/Herses et grilles/Herse tordue (3) (1x0,5).png;8078;190;44;oui;obje
 objets/decor/Mobilier/Banc (1,5x0,5).png;13696;305;85;oui;objets/decor/Mobilier/Banc%20%281%2C5x0%2C5%29.png
 objets/decor/Mobilier/Banc des dissidents (1,5x0,5).png;48010;316;103;oui;objets/decor/Mobilier/Banc%20des%20dissidents%20%281%2C5x0%2C5%29.png
 objets/decor/Mobilier/Banc gobelin (1,5x0,5).png;36227;348;92;oui;objets/decor/Mobilier/Banc%20gobelin%20%281%2C5x0%2C5%29.png
+objets/decor/Mobilier/Banc nain (1) (1x1).png;22424;207;232;oui;objets/decor/Mobilier/Banc%20nain%20%281%29%20%281x1%29.png
+objets/decor/Mobilier/Banc nain (2) (1,5x0,5).png;25340;264;70;oui;objets/decor/Mobilier/Banc%20nain%20%282%29%20%281%2C5x0%2C5%29.png
 objets/decor/Mobilier/Banc riche (1) (1x0,5).png;31593;244;115;oui;objets/decor/Mobilier/Banc%20riche%20%281%29%20%281x0%2C5%29.png
 objets/decor/Mobilier/Banc riche (2) (1x0,5).png;25692;244;115;oui;objets/decor/Mobilier/Banc%20riche%20%282%29%20%281x0%2C5%29.png
 objets/decor/Mobilier/Chaise gobeline (1) (0,5x0,5).png;29239;130;134;oui;objets/decor/Mobilier/Chaise%20gobeline%20%281%29%20%280%2C5x0%2C5%29.png
 objets/decor/Mobilier/Chaise gobeline (2) (0,5x0,5).png;28208;133;132;oui;objets/decor/Mobilier/Chaise%20gobeline%20%282%29%20%280%2C5x0%2C5%29.png
 objets/decor/Mobilier/Chaise gobeline (3) (0,5x0,5).png;29745;119;112;oui;objets/decor/Mobilier/Chaise%20gobeline%20%283%29%20%280%2C5x0%2C5%29.png
+objets/decor/Mobilier/Chaise gobeline (4) (1x1).png;29168;152;164;oui;objets/decor/Mobilier/Chaise%20gobeline%20%284%29%20%281x1%29.png
 objets/decor/Mobilier/Chaise rustique (1) (0,5x0,5).png;19484;107;114;oui;objets/decor/Mobilier/Chaise%20rustique%20%281%29%20%280%2C5x0%2C5%29.png
 objets/decor/Mobilier/Chaise rustique (2) (0,5x1).png;34222;142;163;oui;objets/decor/Mobilier/Chaise%20rustique%20%282%29%20%280%2C5x1%29.png
 objets/decor/Mobilier/Coussin (0,5x0,5).png;13228;117;117;oui;objets/decor/Mobilier/Coussin%20%280%2C5x0%2C5%29.png
@@ -765,7 +958,9 @@ objets/decor/Mobilier/Tabouret gobelin (0,5x0,5).png;20511;115;114;oui;objets/de
 objets/decor/Mobilier/Tabouret nain (0,5x0,5).png;5943;72;72;oui;objets/decor/Mobilier/Tabouret%20nain%20%280%2C5x0%2C5%29.png
 objets/decor/Mobilier/Tabouret riche (0,5x0,5).png;9532;129;74;oui;objets/decor/Mobilier/Tabouret%20riche%20%280%2C5x0%2C5%29.png
 objets/decor/Mobilier/Tabouret ylside (0,5x0,5).png;10315;84;81;oui;objets/decor/Mobilier/Tabouret%20ylside%20%280%2C5x0%2C5%29.png
+objets/decor/Mécanismes et pièges/Bloc de glace du plafond (2x2).png;243412;404;411;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Bloc%20de%20glace%20du%20plafond%20%282x2%29.png
 objets/decor/Mécanismes et pièges/Bloc à chaîne (2x2).png;70865;404;444;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Bloc%20%C3%A0%20cha%C3%AEne%20%282x2%29.png
+objets/decor/Mécanismes et pièges/Bouche de piège à feu (0,5x0,5).png;6340;104;44;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Bouche%20de%20pi%C3%A8ge%20%C3%A0%20feu%20%280%2C5x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Bouton secret (0,5x0,5).png;82;134;4;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Bouton%20secret%20%280%2C5x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Bouton secret de crypte (0,5x0,5).png;82;105;5;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Bouton%20secret%20de%20crypte%20%280%2C5x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Bouton secret de crypte (2) (0,5x0,5).png;9316;104;54;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Bouton%20secret%20de%20crypte%20%282%29%20%280%2C5x0%2C5%29.png
@@ -794,9 +989,13 @@ objets/decor/Mécanismes et pièges/Machine naine à pierre de pouvoir (0,5x0,5)
 objets/decor/Mécanismes et pièges/Mécanisme d'ascenseur cassé (2x0,5).png;69441;373;109;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/M%C3%A9canisme%20d%27ascenseur%20cass%C3%A9%20%282x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Mécanisme d'ascenseur réparé (2x0,5).png;69441;373;109;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/M%C3%A9canisme%20d%27ascenseur%20r%C3%A9par%C3%A9%20%282x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Pilier à énigme (0,5x0,5).png;14179;108;108;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Pilier%20%C3%A0%20%C3%A9nigme%20%280%2C5x0%2C5%29.png
+objets/decor/Mécanismes et pièges/Piège mural à boules de feu (2x0,5).png;6876;404;44;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Pi%C3%A8ge%20mural%20%C3%A0%20boules%20de%20feu%20%282x0%2C5%29.png
+objets/decor/Mécanismes et pièges/Piège mural à flèches (0,5x0,5).png;2355;54;34;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Pi%C3%A8ge%20mural%20%C3%A0%20fl%C3%A8ches%20%280%2C5x0%2C5%29.png
+objets/decor/Mécanismes et pièges/Piège mural à poison (0,5x0,5).png;7409;104;54;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Pi%C3%A8ge%20mural%20%C3%A0%20poison%20%280%2C5x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Piège à lances (2x0,5).png;6671;355;15;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Pi%C3%A8ge%20%C3%A0%20lances%20%282x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Piège à lances mural (2x0,5).png;4559;404;14;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Pi%C3%A8ge%20%C3%A0%20lances%20mural%20%282x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Plaque tournante (1,5x1,5).png;87979;310;310;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Plaque%20tournante%20%281%2C5x1%2C5%29.png
+objets/decor/Mécanismes et pièges/Plateau de métal (1,5x1,5).png;188124;304;344;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Plateau%20de%20m%C3%A9tal%20%281%2C5x1%2C5%29.png
 objets/decor/Mécanismes et pièges/Serrure (0,5x0,5).png;568;40;10;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Serrure%20%280%2C5x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Serrure des dissidents (0,5x0,5).png;472;31;9;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Serrure%20des%20dissidents%20%280%2C5x0%2C5%29.png
 objets/decor/Mécanismes et pièges/Serrure serpent (pleine) (0,5x0,5).png;4163;84;31;oui;objets/decor/M%C3%A9canismes%20et%20pi%C3%A8ges/Serrure%20serpent%20%28pleine%29%20%280%2C5x0%2C5%29.png
@@ -1053,6 +1252,8 @@ objets/decor/Objets au sol/Épée météore à deux mains enchantée (0,5x1,5).p
 objets/decor/Objets au sol/Épée à deux mains (0,5x1,5).png;8746;85;266;oui;objets/decor/Objets%20au%20sol/%C3%89p%C3%A9e%20%C3%A0%20deux%20mains%20%280%2C5x1%2C5%29.png
 objets/decor/Objets au sol/Épée à deux mains forgée (0,5x1,5).png;8746;85;266;oui;objets/decor/Objets%20au%20sol/%C3%89p%C3%A9e%20%C3%A0%20deux%20mains%20forg%C3%A9e%20%280%2C5x1%2C5%29.png
 objets/decor/Objets au sol/Œuf de dragon (0,5x0,5).png;19822;102;102;oui;objets/decor/Objets%20au%20sol/%C5%92uf%20de%20dragon%20%280%2C5x0%2C5%29.png
+objets/decor/Passages secrets/Cache de Zohark (1x0,5).png;40616;174;144;oui;objets/decor/Passages%20secrets/Cache%20de%20Zohark%20%281x0%2C5%29.png
+objets/decor/Passages secrets/Faux mur (1x0,5).png;4142;204;43;oui;objets/decor/Passages%20secrets/Faux%20mur%20%281x0%2C5%29.png
 objets/decor/Passages secrets/Faux mur de crypte (1) (1,5x0,5).png;3506;325;24;oui;objets/decor/Passages%20secrets/Faux%20mur%20de%20crypte%20%281%29%20%281%2C5x0%2C5%29.png
 objets/decor/Passages secrets/Faux mur de crypte (2) (3x0,5).png;38550;595;75;oui;objets/decor/Passages%20secrets/Faux%20mur%20de%20crypte%20%282%29%20%283x0%2C5%29.png
 objets/decor/Passages secrets/Mur fragile (3,5x0,5).png;62828;723;54;oui;objets/decor/Passages%20secrets/Mur%20fragile%20%283%2C5x0%2C5%29.png
@@ -1141,6 +1342,7 @@ objets/decor/Portes/Porte des latrines gobelines (1,5x0,5).png;6983;277;30;oui;o
 objets/decor/Portes/Porte du château (1,5x0,5).png;4768;285;34;oui;objets/decor/Portes/Porte%20du%20ch%C3%A2teau%20%281%2C5x0%2C5%29.png
 objets/decor/Portes/Porte du laboratoire du palais (1,5x0,5).png;13183;285;50;oui;objets/decor/Portes/Porte%20du%20laboratoire%20du%20palais%20%281%2C5x0%2C5%29.png
 objets/decor/Portes/Porte du prêtre (2,5x0,5).png;151;534;34;oui;objets/decor/Portes/Porte%20du%20pr%C3%AAtre%20%282%2C5x0%2C5%29.png
+objets/decor/Portes/Porte du temple (2x0,5).png;16272;354;34;oui;objets/decor/Portes/Porte%20du%20temple%20%282x0%2C5%29.png
 objets/decor/Portes/Porte du temple du serpent (2x0,5).png;86;404;4;oui;objets/decor/Portes/Porte%20du%20temple%20du%20serpent%20%282x0%2C5%29.png
 objets/decor/Portes/Porte gobeline lourde (1,5x0,5).png;24027;304;61;oui;objets/decor/Portes/Porte%20gobeline%20lourde%20%281%2C5x0%2C5%29.png
 objets/decor/Portes/Porte gobeline lourde (2) (2x0,5).png;8743;354;54;oui;objets/decor/Portes/Porte%20gobeline%20lourde%20%282%29%20%282x0%2C5%29.png
@@ -1157,8 +1359,11 @@ objets/decor/Portes/Porte légère du poste de garde (1,5x0,5).png;21918;305;44;
 objets/decor/Portes/Porte naine (2,5x0,5).png;20228;494;94;oui;objets/decor/Portes/Porte%20naine%20%282%2C5x0%2C5%29.png
 objets/decor/Portes/Porte tout métal (2x0,5).png;15550;364;74;oui;objets/decor/Portes/Porte%20tout%20m%C3%A9tal%20%282x0%2C5%29.png
 objets/decor/Portes/Porte ylside (2x1).png;50868;361;204;oui;objets/decor/Portes/Porte%20ylside%20%282x1%29.png
+objets/decor/Roches et nature/Bloc de glace (1x1).png;26229;181;181;oui;objets/decor/Roches%20et%20nature/Bloc%20de%20glace%20%281x1%29.png
 objets/decor/Roches et nature/Bloc de glace (2,5x2,5).png;571291;524;544;oui;objets/decor/Roches%20et%20nature/Bloc%20de%20glace%20%282%2C5x2%2C5%29.png
 objets/decor/Roches et nature/Boue (1x1).png;30993;189;181;oui;objets/decor/Roches%20et%20nature/Boue%20%281x1%29.png
+objets/decor/Roches et nature/Coulée de lave (1) (2x2).png;219283;404;404;oui;objets/decor/Roches%20et%20nature/Coul%C3%A9e%20de%20lave%20%281%29%20%282x2%29.png
+objets/decor/Roches et nature/Coulée de lave (2) (1,5x1).png;61062;309;164;oui;objets/decor/Roches%20et%20nature/Coul%C3%A9e%20de%20lave%20%282%29%20%281%2C5x1%29.png
 objets/decor/Roches et nature/Détritus (0,5x0,5).png;11211;115;98;oui;objets/decor/Roches%20et%20nature/D%C3%A9tritus%20%280%2C5x0%2C5%29.png
 objets/decor/Roches et nature/Gravats (1x1,5).png;55523;206;253;oui;objets/decor/Roches%20et%20nature/Gravats%20%281x1%2C5%29.png
 objets/decor/Roches et nature/Grosse pierre (0,5x0,5).png;14752;106;75;oui;objets/decor/Roches%20et%20nature/Grosse%20pierre%20%280%2C5x0%2C5%29.png
@@ -1181,6 +1386,9 @@ objets/decor/Tentures/Tenture des femmes-serpents (2x0,5).png;4252;365;20;oui;ob
 objets/decor/Tentures/Tenture du temple d'Akbaa (1,5x0,5).png;3306;332;19;oui;objets/decor/Tentures/Tenture%20du%20temple%20d%27Akbaa%20%281%2C5x0%2C5%29.png
 objets/decor/Tombes et statues/Cercueil (1,5x3).png;150894;287;552;oui;objets/decor/Tombes%20et%20statues/Cercueil%20%281%2C5x3%29.png
 objets/decor/Tombes et statues/Couvercle de tombe (1x2,5).png;113358;244;485;oui;objets/decor/Tombes%20et%20statues/Couvercle%20de%20tombe%20%281x2%2C5%29.png
+objets/decor/Tombes et statues/Dalle de crypte (1) (0,5x0,5).png;3061;95;35;oui;objets/decor/Tombes%20et%20statues/Dalle%20de%20crypte%20%281%29%20%280%2C5x0%2C5%29.png
+objets/decor/Tombes et statues/Dalle de crypte (2) (0,5x0,5).png;4396;59;69;oui;objets/decor/Tombes%20et%20statues/Dalle%20de%20crypte%20%282%29%20%280%2C5x0%2C5%29.png
+objets/decor/Tombes et statues/Dalle de crypte (3) (0,5x0,5).png;10161;107;89;oui;objets/decor/Tombes%20et%20statues/Dalle%20de%20crypte%20%283%29%20%280%2C5x0%2C5%29.png
 objets/decor/Tombes et statues/Grand couvercle de tombe (3,5x1,5).png;261760;705;305;oui;objets/decor/Tombes%20et%20statues/Grand%20couvercle%20de%20tombe%20%283%2C5x1%2C5%29.png
 objets/decor/Tombes et statues/Grande pierre tombale (1,5x0,5).png;7721;260;26;oui;objets/decor/Tombes%20et%20statues/Grande%20pierre%20tombale%20%281%2C5x0%2C5%29.png
 objets/decor/Tombes et statues/Pierre tombale (1,5x0,5).png;9346;304;24;oui;objets/decor/Tombes%20et%20statues/Pierre%20tombale%20%281%2C5x0%2C5%29.png
@@ -1221,7 +1429,9 @@ objets/decor/Vaisselle et cuisine/Jarre (0,5x0,5).png;4451;64;50;oui;objets/deco
 objets/decor/Vaisselle et cuisine/Marmite naine fermée (0,5x0,5).png;1430;29;28;oui;objets/decor/Vaisselle%20et%20cuisine/Marmite%20naine%20ferm%C3%A9e%20%280%2C5x0%2C5%29.png
 objets/decor/Vaisselle et cuisine/Pot à couverts nain (0,5x0,5).png;1204;28;26;oui;objets/decor/Vaisselle%20et%20cuisine/Pot%20%C3%A0%20couverts%20nain%20%280%2C5x0%2C5%29.png
 objets/decor/Vaisselle et cuisine/Poêle naine (0,5x0,5).png;3106;68;43;oui;objets/decor/Vaisselle%20et%20cuisine/Po%C3%AAle%20naine%20%280%2C5x0%2C5%29.png
+objets/decor/Vaisselle et cuisine/Sac de farine nain (0,5x0,5).png;20569;116;89;oui;objets/decor/Vaisselle%20et%20cuisine/Sac%20de%20farine%20nain%20%280%2C5x0%2C5%29.png
 objets/decor/Vaisselle et cuisine/Seau (0,5x0,5).png;13986;101;101;oui;objets/decor/Vaisselle%20et%20cuisine/Seau%20%280%2C5x0%2C5%29.png
+objets/decor/Vaisselle et cuisine/Seau des dissidents (0,5x0,5).png;10489;79;79;oui;objets/decor/Vaisselle%20et%20cuisine/Seau%20des%20dissidents%20%280%2C5x0%2C5%29.png
 objets/decor/Éclairage et feux/Feu de camp (1x1).png;105512;237;236;oui;objets/decor/%C3%89clairage%20et%20feux/Feu%20de%20camp%20%281x1%29.png
 objets/decor/Éclairage et feux/Lampe (1) (0,5x0,5).png;6164;64;74;oui;objets/decor/%C3%89clairage%20et%20feux/Lampe%20%281%29%20%280%2C5x0%2C5%29.png
 objets/decor/Éclairage et feux/Lampe (2) (0,5x0,5).png;2628;44;137;oui;objets/decor/%C3%89clairage%20et%20feux/Lampe%20%282%29%20%280%2C5x0%2C5%29.png
@@ -1315,7 +1525,7 @@ objets/inventaire/Bijoux et trésors/Pièces d'or (7) (1x1).png;10483;64;64;oui;
 objets/inventaire/Bijoux et trésors/Pièces d'or (tas) (1x1).png;1834;64;64;oui;objets/inventaire/Bijoux%20et%20tr%C3%A9sors/Pi%C3%A8ces%20d%27or%20%28tas%29%20%281x1%29.png
 objets/inventaire/Bijoux et trésors/Rubis (1x1).png;4184;64;64;oui;objets/inventaire/Bijoux%20et%20tr%C3%A9sors/Rubis%20%281x1%29.png
 objets/inventaire/Bijoux et trésors/Émeraude (1x1).png;3330;64;64;oui;objets/inventaire/Bijoux%20et%20tr%C3%A9sors/%C3%89meraude%20%281x1%29.png
-objets/inventaire/inventaire.csv;29532;;;;objets/inventaire/inventaire.csv
+objets/inventaire/inventaire.csv;42516;;;;objets/inventaire/inventaire.csv
 objets/inventaire/Magie/Anneau d'argent simple (1x1).png;3937;64;64;oui;objets/inventaire/Magie/Anneau%20d%27argent%20simple%20%281x1%29.png
 objets/inventaire/Magie/Anneau d'incantation (1x1).png;4352;64;64;oui;objets/inventaire/Magie/Anneau%20d%27incantation%20%281x1%29.png
 objets/inventaire/Magie/Anneau d'invisibilité (1x1).png;4094;64;64;oui;objets/inventaire/Magie/Anneau%20d%27invisibilit%C3%A9%20%281x1%29.png
@@ -1452,9 +1662,87 @@ objets/inventaire/Objets de quête/Vieux serpent d'or (1x2).png;14208;64;128;oui
 objets/inventaire/Objets de quête/Zohark (1x1).png;8492;64;64;oui;objets/inventaire/Objets%20de%20qu%C3%AAte/Zohark%20%281x1%29.png
 objets/inventaire/Objets de quête/Échantillon de roche de Koltk (1x1).png;5944;64;64;oui;objets/inventaire/Objets%20de%20qu%C3%AAte/%C3%89chantillon%20de%20roche%20de%20Koltk%20%281x1%29.png
 objets/inventaire/Objets de quête/Œuf de dragon (2x2).png;22439;128;128;oui;objets/inventaire/Objets%20de%20qu%C3%AAte/%C5%92uf%20de%20dragon%20%282x2%29.png
+objets/inventaire/Objets divers/Assiette de galettes gobelines crues (1x1).png;4179;64;64;oui;objets/inventaire/Objets%20divers/Assiette%20de%20galettes%20gobelines%20crues%20%281x1%29.png
+objets/inventaire/Objets divers/Assiette de galettes gobelines cuites (1x1).png;4175;64;64;oui;objets/inventaire/Objets%20divers/Assiette%20de%20galettes%20gobelines%20cuites%20%281x1%29.png
+objets/inventaire/Objets divers/Assiette propre (1x1).png;4358;64;64;oui;objets/inventaire/Objets%20divers/Assiette%20propre%20%281x1%29.png
+objets/inventaire/Objets divers/Assiette sale (1x1).png;5035;64;64;oui;objets/inventaire/Objets%20divers/Assiette%20sale%20%281x1%29.png
+objets/inventaire/Objets divers/Banc (4x3).png;39329;256;192;oui;objets/inventaire/Objets%20divers/Banc%20%284x3%29.png
+objets/inventaire/Objets divers/Banc des dissidents (4x3).png;42460;256;192;oui;objets/inventaire/Objets%20divers/Banc%20des%20dissidents%20%284x3%29.png
+objets/inventaire/Objets divers/Banc gobelin (4x3).png;36563;256;192;oui;objets/inventaire/Objets%20divers/Banc%20gobelin%20%284x3%29.png
+objets/inventaire/Objets divers/Banc riche (1) (3x3).png;34256;192;192;oui;objets/inventaire/Objets%20divers/Banc%20riche%20%281%29%20%283x3%29.png
+objets/inventaire/Objets divers/Banc riche (2) (3x3).png;34491;192;192;oui;objets/inventaire/Objets%20divers/Banc%20riche%20%282%29%20%283x3%29.png
+objets/inventaire/Objets divers/Barre de forgeron (1) (2x2).png;6563;128;128;oui;objets/inventaire/Objets%20divers/Barre%20de%20forgeron%20%281%29%20%282x2%29.png
+objets/inventaire/Objets divers/Barre de forgeron (2) (2x2).png;6302;128;128;oui;objets/inventaire/Objets%20divers/Barre%20de%20forgeron%20%282%29%20%282x2%29.png
+objets/inventaire/Objets divers/Bassin (os) (1x1).png;7009;64;64;oui;objets/inventaire/Objets%20divers/Bassin%20%28os%29%20%281x1%29.png
+objets/inventaire/Objets divers/Bouclier brisé (2x1).png;12979;128;64;oui;objets/inventaire/Objets%20divers/Bouclier%20bris%C3%A9%20%282x1%29.png
+objets/inventaire/Objets divers/Bouteille cassée (2x1).png;9257;128;64;oui;objets/inventaire/Objets%20divers/Bouteille%20cass%C3%A9e%20%282x1%29.png
+objets/inventaire/Objets divers/Cafetière naine (1x1).png;6746;64;64;oui;objets/inventaire/Objets%20divers/Cafeti%C3%A8re%20naine%20%281x1%29.png
+objets/inventaire/Objets divers/Chaise gobeline (1) (2x3).png;21122;128;192;oui;objets/inventaire/Objets%20divers/Chaise%20gobeline%20%281%29%20%282x3%29.png
+objets/inventaire/Objets divers/Chaise gobeline (2) (2x4).png;39505;128;256;oui;objets/inventaire/Objets%20divers/Chaise%20gobeline%20%282%29%20%282x4%29.png
+objets/inventaire/Objets divers/Chaise gobeline (3) (2x4).png;41791;128;256;oui;objets/inventaire/Objets%20divers/Chaise%20gobeline%20%283%29%20%282x4%29.png
+objets/inventaire/Objets divers/Chaise rustique (1) (2x3).png;19606;128;192;oui;objets/inventaire/Objets%20divers/Chaise%20rustique%20%281%29%20%282x3%29.png
+objets/inventaire/Objets divers/Chaise rustique (2) (2x4).png;30761;128;256;oui;objets/inventaire/Objets%20divers/Chaise%20rustique%20%282%29%20%282x4%29.png
+objets/inventaire/Objets divers/Chope (1x1).png;5897;64;64;oui;objets/inventaire/Objets%20divers/Chope%20%281x1%29.png
 objets/inventaire/Objets divers/Chope de bière (2) (1x1).png;8664;64;64;oui;objets/inventaire/Objets%20divers/Chope%20de%20bi%C3%A8re%20%282%29%20%281x1%29.png
+objets/inventaire/Objets divers/Coupe de sang d'Akbaa (4x4).png;24728;256;256;oui;objets/inventaire/Objets%20divers/Coupe%20de%20sang%20d%27Akbaa%20%284x4%29.png
+objets/inventaire/Objets divers/Coussin (2x1).png;11456;128;64;oui;objets/inventaire/Objets%20divers/Coussin%20%282x1%29.png
+objets/inventaire/Objets divers/Crâne (1) (1x1).png;6717;64;64;oui;objets/inventaire/Objets%20divers/Cr%C3%A2ne%20%281%29%20%281x1%29.png
+objets/inventaire/Objets divers/Crâne (2) (1x1).png;5601;64;64;oui;objets/inventaire/Objets%20divers/Cr%C3%A2ne%20%282%29%20%281x1%29.png
+objets/inventaire/Objets divers/Crâne de troll (2x2).png;24509;128;128;oui;objets/inventaire/Objets%20divers/Cr%C3%A2ne%20de%20troll%20%282x2%29.png
 objets/inventaire/Objets divers/Crâne de troll (Mirette) (1x1).png;6902;64;64;oui;objets/inventaire/Objets%20divers/Cr%C3%A2ne%20de%20troll%20%28Mirette%29%20%281x1%29.png
+objets/inventaire/Objets divers/Détritus (2x1).png;11407;128;64;oui;objets/inventaire/Objets%20divers/D%C3%A9tritus%20%282x1%29.png
+objets/inventaire/Objets divers/Fauteuil riche (3x4).png;78589;192;256;oui;objets/inventaire/Objets%20divers/Fauteuil%20riche%20%283x4%29.png
+objets/inventaire/Objets divers/Fauteuil simple (3x3).png;41946;192;192;oui;objets/inventaire/Objets%20divers/Fauteuil%20simple%20%283x3%29.png
+objets/inventaire/Objets divers/Fourchette (1x1).png;2512;64;64;oui;objets/inventaire/Objets%20divers/Fourchette%20%281x1%29.png
+objets/inventaire/Objets divers/Gravats (3x2).png;33537;192;128;oui;objets/inventaire/Objets%20divers/Gravats%20%283x2%29.png
+objets/inventaire/Objets divers/Gros bloc de mithril (2x2).png;24178;128;128;oui;objets/inventaire/Objets%20divers/Gros%20bloc%20de%20mithril%20%282x2%29.png
 objets/inventaire/Objets divers/Grosse pierre (1x1).png;4714;64;64;oui;objets/inventaire/Objets%20divers/Grosse%20pierre%20%281x1%29.png
+objets/inventaire/Objets divers/Houe (3x2).png;13572;192;128;oui;objets/inventaire/Objets%20divers/Houe%20%283x2%29.png
+objets/inventaire/Objets divers/Jambe de garde tranchée (3x1).png;15337;192;64;oui;objets/inventaire/Objets%20divers/Jambe%20de%20garde%20tranch%C3%A9e%20%283x1%29.png
+objets/inventaire/Objets divers/Jarre (1x1).png;5993;64;64;oui;objets/inventaire/Objets%20divers/Jarre%20%281x1%29.png
+objets/inventaire/Objets divers/Jeton de pari (1x1).png;8449;64;64;oui;objets/inventaire/Objets%20divers/Jeton%20de%20pari%20%281x1%29.png
+objets/inventaire/Objets divers/Jeu de cartes (2x1).png;7410;128;64;oui;objets/inventaire/Objets%20divers/Jeu%20de%20cartes%20%282x1%29.png
+objets/inventaire/Objets divers/Jeu gobelin (2x2).png;16915;128;128;oui;objets/inventaire/Objets%20divers/Jeu%20gobelin%20%282x2%29.png
+objets/inventaire/Objets divers/Lame d'épée brute (1) (2x2).png;6356;128;128;oui;objets/inventaire/Objets%20divers/Lame%20d%27%C3%A9p%C3%A9e%20brute%20%281%29%20%282x2%29.png
+objets/inventaire/Objets divers/Lame d'épée brute (2) (3x2).png;8273;192;128;oui;objets/inventaire/Objets%20divers/Lame%20d%27%C3%A9p%C3%A9e%20brute%20%282%29%20%283x2%29.png
+objets/inventaire/Objets divers/Lime de forgeron (1) (1x1).png;1931;64;64;oui;objets/inventaire/Objets%20divers/Lime%20de%20forgeron%20%281%29%20%281x1%29.png
+objets/inventaire/Objets divers/Lime de forgeron (2) (1x1).png;2096;64;64;oui;objets/inventaire/Objets%20divers/Lime%20de%20forgeron%20%282%29%20%281x1%29.png
+objets/inventaire/Objets divers/Lime de forgeron (3) (1x1).png;2165;64;64;oui;objets/inventaire/Objets%20divers/Lime%20de%20forgeron%20%283%29%20%281x1%29.png
+objets/inventaire/Objets divers/Marmite naine fermée (1x1).png;7010;64;64;oui;objets/inventaire/Objets%20divers/Marmite%20naine%20ferm%C3%A9e%20%281x1%29.png
+objets/inventaire/Objets divers/Marteau de forgeron (1) (1x1).png;2846;64;64;oui;objets/inventaire/Objets%20divers/Marteau%20de%20forgeron%20%281%29%20%281x1%29.png
+objets/inventaire/Objets divers/Marteau de forgeron (2) (1x1).png;3042;64;64;oui;objets/inventaire/Objets%20divers/Marteau%20de%20forgeron%20%282%29%20%281x1%29.png
+objets/inventaire/Objets divers/Marteau de forgeron (3) (1x1).png;3679;64;64;oui;objets/inventaire/Objets%20divers/Marteau%20de%20forgeron%20%283%29%20%281x1%29.png
+objets/inventaire/Objets divers/Marteau de forgeron (4) (1x1).png;3654;64;64;oui;objets/inventaire/Objets%20divers/Marteau%20de%20forgeron%20%284%29%20%281x1%29.png
+objets/inventaire/Objets divers/Masse de forgeron (2x2).png;10789;128;128;oui;objets/inventaire/Objets%20divers/Masse%20de%20forgeron%20%282x2%29.png
+objets/inventaire/Objets divers/Petit coffre (2x1).png;8376;128;64;oui;objets/inventaire/Objets%20divers/Petit%20coffre%20%282x1%29.png
+objets/inventaire/Objets divers/Pot à couverts nain (1x1).png;3216;64;64;oui;objets/inventaire/Objets%20divers/Pot%20%C3%A0%20couverts%20nain%20%281x1%29.png
+objets/inventaire/Objets divers/Poulet sacrifié à Akbaa (3x2).png;11796;192;128;oui;objets/inventaire/Objets%20divers/Poulet%20sacrifi%C3%A9%20%C3%A0%20Akbaa%20%283x2%29.png
+objets/inventaire/Objets divers/Poêle naine (1x1).png;3638;64;64;oui;objets/inventaire/Objets%20divers/Po%C3%AAle%20naine%20%281x1%29.png
+objets/inventaire/Objets divers/Rat mort (1) (2x1).png;6946;128;64;oui;objets/inventaire/Objets%20divers/Rat%20mort%20%281%29%20%282x1%29.png
+objets/inventaire/Objets divers/Rat mort (2) (1x1).png;4646;64;64;oui;objets/inventaire/Objets%20divers/Rat%20mort%20%282%29%20%281x1%29.png
+objets/inventaire/Objets divers/Rat mort (3) (2x1).png;5659;128;64;oui;objets/inventaire/Objets%20divers/Rat%20mort%20%283%29%20%282x1%29.png
+objets/inventaire/Objets divers/Restes humains (1) (2x1).png;7073;128;64;oui;objets/inventaire/Objets%20divers/Restes%20humains%20%281%29%20%282x1%29.png
+objets/inventaire/Objets divers/Restes humains (2) (2x1).png;8793;128;64;oui;objets/inventaire/Objets%20divers/Restes%20humains%20%282%29%20%282x1%29.png
+objets/inventaire/Objets divers/Restes humains (3) (3x2).png;21763;192;128;oui;objets/inventaire/Objets%20divers/Restes%20humains%20%283%29%20%283x2%29.png
+objets/inventaire/Objets divers/Sac de farine (2x2).png;15822;128;128;oui;objets/inventaire/Objets%20divers/Sac%20de%20farine%20%282x2%29.png
+objets/inventaire/Objets divers/Seau (2x2).png;22664;128;128;oui;objets/inventaire/Objets%20divers/Seau%20%282x2%29.png
+objets/inventaire/Objets divers/Tabouret (1) (1x2).png;8438;64;128;oui;objets/inventaire/Objets%20divers/Tabouret%20%281%29%20%281x2%29.png
+objets/inventaire/Objets divers/Tabouret (2) (1x3).png;11967;64;192;oui;objets/inventaire/Objets%20divers/Tabouret%20%282%29%20%281x3%29.png
+objets/inventaire/Objets divers/Tabouret cassé (2x1).png;7882;128;64;oui;objets/inventaire/Objets%20divers/Tabouret%20cass%C3%A9%20%282x1%29.png
+objets/inventaire/Objets divers/Tabouret des dissidents (1x2).png;9081;64;128;oui;objets/inventaire/Objets%20divers/Tabouret%20des%20dissidents%20%281x2%29.png
+objets/inventaire/Objets divers/Tabouret gobelin (2x2).png;16246;128;128;oui;objets/inventaire/Objets%20divers/Tabouret%20gobelin%20%282x2%29.png
+objets/inventaire/Objets divers/Tabouret riche (2x2).png;20164;128;128;oui;objets/inventaire/Objets%20divers/Tabouret%20riche%20%282x2%29.png
+objets/inventaire/Objets divers/Tabouret ylside (1x2).png;9100;64;128;oui;objets/inventaire/Objets%20divers/Tabouret%20ylside%20%281x2%29.png
+objets/inventaire/Objets divers/Tenailles de forgeron (1) (2x1).png;3594;128;64;oui;objets/inventaire/Objets%20divers/Tenailles%20de%20forgeron%20%281%29%20%282x1%29.png
+objets/inventaire/Objets divers/Tenailles de forgeron (2) (2x2).png;8002;128;128;oui;objets/inventaire/Objets%20divers/Tenailles%20de%20forgeron%20%282%29%20%282x2%29.png
+objets/inventaire/Objets divers/Tenailles de forgeron (3) (2x1).png;4834;128;64;oui;objets/inventaire/Objets%20divers/Tenailles%20de%20forgeron%20%283%29%20%282x1%29.png
+objets/inventaire/Objets divers/Tonneau des dissidents (2x3).png;43436;128;192;oui;objets/inventaire/Objets%20divers/Tonneau%20des%20dissidents%20%282x3%29.png
+objets/inventaire/Objets divers/Tête de garde tranchée (1x1).png;5921;64;64;oui;objets/inventaire/Objets%20divers/T%C3%AAte%20de%20garde%20tranch%C3%A9e%20%281x1%29.png
+objets/inventaire/Objets divers/Tête de poulet sacrifié (1x1).png;3151;64;64;oui;objets/inventaire/Objets%20divers/T%C3%AAte%20de%20poulet%20sacrifi%C3%A9%20%281x1%29.png
+objets/inventaire/Objets divers/Épée brisée (2x1).png;4837;128;64;oui;objets/inventaire/Objets%20divers/%C3%89p%C3%A9e%20bris%C3%A9e%20%282x1%29.png
+objets/inventaire/Objets divers/Œuvre d'art troll (1) (2x2).png;19179;128;128;oui;objets/inventaire/Objets%20divers/%C5%92uvre%20d%27art%20troll%20%281%29%20%282x2%29.png
+objets/inventaire/Objets divers/Œuvre d'art troll (2) (2x2).png;18450;128;128;oui;objets/inventaire/Objets%20divers/%C5%92uvre%20d%27art%20troll%20%282%29%20%282x2%29.png
+objets/inventaire/Objets divers/Œuvre d'art troll (3) (4x4).png;53722;256;256;oui;objets/inventaire/Objets%20divers/%C5%92uvre%20d%27art%20troll%20%283%29%20%284x4%29.png
 objets/inventaire/Provisions et outils/Ail (1x1).png;4353;64;64;oui;objets/inventaire/Provisions%20et%20outils/Ail%20%281x1%29.png
 objets/inventaire/Provisions et outils/Arêtes de poisson (1x1).png;6671;64;64;oui;objets/inventaire/Provisions%20et%20outils/Ar%C3%AAtes%20de%20poisson%20%281x1%29.png
 objets/inventaire/Provisions et outils/Bougie (1x2).png;6260;64;128;oui;objets/inventaire/Provisions%20et%20outils/Bougie%20%281x2%29.png
@@ -1516,6 +1804,7 @@ objets/inventaire/Spéciaux/Bloc de mur (1x1).png;8614;64;64;oui;objets/inventai
 objets/inventaire/Spéciaux/Chair de nain (2x1).png;16433;128;64;oui;objets/inventaire/Sp%C3%A9ciaux/Chair%20de%20nain%20%282x1%29.png
 objets/inventaire/Spéciaux/Encens (1x1).png;6559;64;64;oui;objets/inventaire/Sp%C3%A9ciaux/Encens%20%281x1%29.png
 objets/inventaire/Spéciaux/Flûte (1x1).png;4758;64;64;oui;objets/inventaire/Sp%C3%A9ciaux/Fl%C3%BBte%20%281x1%29.png
+objets/inventaire/Spéciaux/Luth (1x1).png;4122;64;64;oui;objets/inventaire/Sp%C3%A9ciaux/Luth%20%281x1%29.png
 objets/inventaire/Spéciaux/Morceau de bois (1x2).png;6001;64;128;oui;objets/inventaire/Sp%C3%A9ciaux/Morceau%20de%20bois%20%281x2%29.png
 objets/inventaire/Spéciaux/Morceau de cadavre (1x1).png;8732;64;64;oui;objets/inventaire/Sp%C3%A9ciaux/Morceau%20de%20cadavre%20%281x1%29.png
 objets/inventaire/Spéciaux/Pieu béni (1x1).png;3802;64;64;oui;objets/inventaire/Sp%C3%A9ciaux/Pieu%20b%C3%A9ni%20%281x1%29.png

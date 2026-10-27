@@ -24,10 +24,12 @@ Tête de poulet sacrifié;Autels et magie;0,5x0,5;Autels et magie/Tête de poule
 Bassin (os);Cadavres et restes;0,5x0,5;Cadavres et restes/Bassin (os) (0,5x0,5).png;bone_bassin
 Cadavre;Cadavres et restes;1x1,5;Cadavres et restes/Cadavre (1x1,5).png;corpse
 Cadavre torturé;Cadavres et restes;0,5x0,5;Cadavres et restes/Cadavre torturé (0,5x0,5).png;tortured_corpse
+Cage thoracique;Cadavres et restes;0,5x0,5;Cadavres et restes/Cage thoracique (0,5x0,5).png;ribcage
 Crâne (1);Cadavres et restes;0,5x0,5;Cadavres et restes/Crâne (1) (0,5x0,5).png;skull
 Crâne (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Crâne (2) (0,5x0,5).png;skull02
 Crâne de troll;Cadavres et restes;0,5x0,5;Cadavres et restes/Crâne de troll (0,5x0,5).png;troll_skull
 Crâne de troll (Mirette);Cadavres et restes;3,5x0,5;Cadavres et restes/Crâne de troll (Mirette) (3,5x0,5).png;mirette
+Fémur;Cadavres et restes;0,5x0,5;Cadavres et restes/Fémur (0,5x0,5).png;bone_weap
 Garde empalé;Cadavres et restes;0,5x1;Cadavres et restes/Garde empalé (0,5x1).png;dead_guard_speared
 Garde mort;Cadavres et restes;2x2;Cadavres et restes/Garde mort (2x2).png;dead_guard_german
 Gobelin mort (1);Cadavres et restes;1,5x1,5;Cadavres et restes/Gobelin mort (1) (1,5x1,5).png;dead_gob01
@@ -40,9 +42,13 @@ Nain mort (1);Cadavres et restes;1x1;Cadavres et restes/Nain mort (1) (1x1).png;
 Nain mort (2);Cadavres et restes;1x1;Cadavres et restes/Nain mort (2) (1x1).png;l7_dwarf_corpse2
 Nain mort (3);Cadavres et restes;1x1;Cadavres et restes/Nain mort (3) (1x1).png;l7_dwarf_corpse3
 Nain mort (4);Cadavres et restes;1x1;Cadavres et restes/Nain mort (4) (1x1).png;l7_dwarf_corpse4
+Petit crâne;Cadavres et restes;0,5x0,5;Cadavres et restes/Petit crâne (0,5x0,5).png;bone_skull
 Rat mort (1);Cadavres et restes;0,5x1;Cadavres et restes/Rat mort (1) (0,5x1).png;rat_base_dead
 Rat mort (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Rat mort (2) (0,5x0,5).png;rat_base_dead2
 Rat mort (3);Cadavres et restes;0,5x1;Cadavres et restes/Rat mort (3) (0,5x1).png;rat_base_dead3
+Restes de gobelin (1);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de gobelin (1) (0,5x0,5).png;goblin_gore01
+Restes de gobelin (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de gobelin (2) (0,5x0,5).png;goblin_gore02
+Restes de gobelin (3);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de gobelin (3) (0,5x0,5).png;goblin_gore03
 Restes de ver (1);Cadavres et restes;1x1;Cadavres et restes/Restes de ver (1) (1x1).png;worm_gore
 Restes de ver (2);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de ver (2) (0,5x0,5).png;worm_gore1
 Restes de ver (3);Cadavres et restes;0,5x0,5;Cadavres et restes/Restes de ver (3) (0,5x0,5).png;worm_gore2
@@ -54,6 +60,7 @@ Restes humains (3);Cadavres et restes;1x0,5;Cadavres et restes/Restes humains (3
 Torse de garde tranché;Cadavres et restes;1,5x1,5;Cadavres et restes/Torse de garde tranché (1,5x1,5).png;guard_chest_chopped
 Troll mort;Cadavres et restes;1,5x3,5;Cadavres et restes/Troll mort (1,5x3,5).png;dead_troll
 Tête de garde tranchée;Cadavres et restes;0,5x0,5;Cadavres et restes/Tête de garde tranchée (0,5x0,5).png;guard_chopped_head
+Tête de nain;Cadavres et restes;0,5x0,5;Cadavres et restes/Tête de nain (0,5x0,5).png;l7_dwarf_head
 Armoire;Contenants;1x0,5;Contenants/Armoire (1x0,5).png;cupboard_1
 Coffre (1);Contenants;1,5x0,5;Contenants/Coffre (1) (1,5x0,5).png;chest_1
 Coffre (2);Contenants;1,5x0,5;Contenants/Coffre (2) (1,5x0,5).png;chest_2
@@ -117,6 +124,7 @@ Convertisseur de moules;Forge et artisanat;3,5x2;Forge et artisanat/Convertisseu
 Enclume;Forge et artisanat;0,5x1;Forge et artisanat/Enclume (0,5x1).png;anvil
 Forge naine;Forge et artisanat;3x1,5;Forge et artisanat/Forge naine (3x1,5).png;dwarf_forge
 Four;Forge et artisanat;1x1;Forge et artisanat/Four (1x1).png;oven
+Godet du broyeur nain;Forge et artisanat;1x1;Forge et artisanat/Godet du broyeur nain (1x1).png;dwarf_bucket
 Lame d'épée brute (1);Forge et artisanat;0,5x1;Forge et artisanat/Lame d'épée brute (1) (0,5x1).png;tool_blacksmith_sword1
 Lame d'épée brute (2);Forge et artisanat;0,5x1,5;Forge et artisanat/Lame d'épée brute (2) (0,5x1,5).png;tool_blacksmith_sword2
 Lime de forgeron (1);Forge et artisanat;0,5x0,5;Forge et artisanat/Lime de forgeron (1) (0,5x0,5).png;tool_blacksmith_file1
@@ -127,6 +135,7 @@ Marteau de forgeron (2);Forge et artisanat;0,5x0,5;Forge et artisanat/Marteau de
 Marteau de forgeron (3);Forge et artisanat;0,5x0,5;Forge et artisanat/Marteau de forgeron (3) (0,5x0,5).png;tool_blacksmith_hammer3
 Marteau de forgeron (4);Forge et artisanat;0,5x0,5;Forge et artisanat/Marteau de forgeron (4) (0,5x0,5).png;tool_blacksmith_hammer4
 Masse de forgeron;Forge et artisanat;0,5x1;Forge et artisanat/Masse de forgeron (0,5x1).png;tool_blacksmith_club
+Moule d'épée longue;Forge et artisanat;0,5x1,5;Forge et artisanat/Moule d'épée longue (0,5x1,5).png;mauld_sword
 Moule à lingots;Forge et artisanat;3,5x2;Forge et artisanat/Moule à lingots (3,5x2).png;ingot_maker
 Petit concasseur nain;Forge et artisanat;1x2;Forge et artisanat/Petit concasseur nain (1x2).png;dwarf_little_crusher
 Soufflet de forgé;Forge et artisanat;1,5x2,5;Forge et artisanat/Soufflet de forgé (1,5x2,5).png;bellows
@@ -139,6 +148,7 @@ Grande herse gobeline;Herses et grilles;3,5x0,5;Herses et grilles/Grande herse g
 Grille de cachot bois et métal;Herses et grilles;2x2;Herses et grilles/Grille de cachot bois et métal (2x2).png;jail_wood&metal_grid
 Grille de cachot en bois;Herses et grilles;2x2;Herses et grilles/Grille de cachot en bois (2x2).png;jail_wood_grid
 Grille de métal;Herses et grilles;1,5x2;Herses et grilles/Grille de métal (1,5x2).png;metal_grid
+Grille des catacombes;Herses et grilles;1,5x2;Herses et grilles/Grille des catacombes (1,5x2).png;metal_grid_catacombs
 Herse;Herses et grilles;2x0,5;Herses et grilles/Herse (2x0,5).png;porticullis
 Herse d'Alicia;Herses et grilles;3x0,5;Herses et grilles/Herse d'Alicia (3x0,5).png;l0_alicia_portcullis
 Herse de crypte;Herses et grilles;0,5x3;Herses et grilles/Herse de crypte (0,5x3).png;porticullis_crypt
@@ -155,11 +165,14 @@ Herse tordue (3);Herses et grilles;1x0,5;Herses et grilles/Herse tordue (3) (1x0
 Banc;Mobilier;1,5x0,5;Mobilier/Banc (1,5x0,5).png;seat_bench1
 Banc des dissidents;Mobilier;1,5x0,5;Mobilier/Banc des dissidents (1,5x0,5).png;l3_1_dissidents_bench
 Banc gobelin;Mobilier;1,5x0,5;Mobilier/Banc gobelin (1,5x0,5).png;seat_bench4_goblin
+Banc nain (1);Mobilier;1x1;Mobilier/Banc nain (1) (1x1).png;l7_dwarf_bench01
+Banc nain (2);Mobilier;1,5x0,5;Mobilier/Banc nain (2) (1,5x0,5).png;l7_dwarf_bench02
 Banc riche (1);Mobilier;1x0,5;Mobilier/Banc riche (1) (1x0,5).png;seat_bench2_rich
 Banc riche (2);Mobilier;1x0,5;Mobilier/Banc riche (2) (1x0,5).png;seat_bench3_rich
 Chaise gobeline (1);Mobilier;0,5x0,5;Mobilier/Chaise gobeline (1) (0,5x0,5).png;l2_gobel_chair_01
 Chaise gobeline (2);Mobilier;0,5x0,5;Mobilier/Chaise gobeline (2) (0,5x0,5).png;l2_gobel_chair_02
 Chaise gobeline (3);Mobilier;0,5x0,5;Mobilier/Chaise gobeline (3) (0,5x0,5).png;seat_chair3_goblin
+Chaise gobeline (4);Mobilier;1x1;Mobilier/Chaise gobeline (4) (1x1).png;l2_gobel_chair_03
 Chaise rustique (1);Mobilier;0,5x0,5;Mobilier/Chaise rustique (1) (0,5x0,5).png;seat_chair1_rustic
 Chaise rustique (2);Mobilier;0,5x1;Mobilier/Chaise rustique (2) (0,5x1).png;seat_chair2_rustic
 Coussin;Mobilier;0,5x0,5;Mobilier/Coussin (0,5x0,5).png;cuscion
@@ -173,7 +186,9 @@ Tabouret gobelin;Mobilier;0,5x0,5;Mobilier/Tabouret gobelin (0,5x0,5).png;seat_s
 Tabouret nain;Mobilier;0,5x0,5;Mobilier/Tabouret nain (0,5x0,5).png;dwarf_stool
 Tabouret riche;Mobilier;0,5x0,5;Mobilier/Tabouret riche (0,5x0,5).png;seat_stool3_rich
 Tabouret ylside;Mobilier;0,5x0,5;Mobilier/Tabouret ylside (0,5x0,5).png;ylsides_stool
+Bloc de glace du plafond;Mécanismes et pièges;2x2;Mécanismes et pièges/Bloc de glace du plafond (2x2).png;roof_bloc
 Bloc à chaîne;Mécanismes et pièges;2x2;Mécanismes et pièges/Bloc à chaîne (2x2).png;bloc_pull_chain
+Bouche de piège à feu;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouche de piège à feu (0,5x0,5).png;fireball_hole
 Bouton secret;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret (0,5x0,5).png;secret_button
 Bouton secret de crypte;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret de crypte (0,5x0,5).png;secret_button_crypt
 Bouton secret de crypte (2);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Bouton secret de crypte (2) (0,5x0,5).png;secret_button_crypt_l22
@@ -202,9 +217,13 @@ Machine naine à pierre de pouvoir;Mécanismes et pièges;0,5x0,5;Mécanismes et
 Mécanisme d'ascenseur cassé;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Mécanisme d'ascenseur cassé (2x0,5).png;elevator_mecanism_broken
 Mécanisme d'ascenseur réparé;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Mécanisme d'ascenseur réparé (2x0,5).png;elevator_mecanism_repaired
 Pilier à énigme;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Pilier à énigme (0,5x0,5).png;puzzle_pillar01
+Piège mural à boules de feu;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Piège mural à boules de feu (2x0,5).png;wall_fireball
+Piège mural à flèches;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Piège mural à flèches (0,5x0,5).png;wall_arrow
+Piège mural à poison;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Piège mural à poison (0,5x0,5).png;wall_poison
 Piège à lances;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Piège à lances (2x0,5).png;spears_trap
 Piège à lances mural;Mécanismes et pièges;2x0,5;Mécanismes et pièges/Piège à lances mural (2x0,5).png;spears_trap_wall
 Plaque tournante;Mécanismes et pièges;1,5x1,5;Mécanismes et pièges/Plaque tournante (1,5x1,5).png;puzzle_wheel
+Plateau de métal;Mécanismes et pièges;1,5x1,5;Mécanismes et pièges/Plateau de métal (1,5x1,5).png;plateau
 Serrure;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Serrure (0,5x0,5).png;lock
 Serrure des dissidents;Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Serrure des dissidents (0,5x0,5).png;dissident_lock
 Serrure serpent (pleine);Mécanismes et pièges;0,5x0,5;Mécanismes et pièges/Serrure serpent (pleine) (0,5x0,5).png;snake_lock_full
@@ -461,6 +480,8 @@ Zohark;Objets au sol;0,5x0,5;Objets au sol/Zohark (0,5x0,5).png;zohark
 Épée à deux mains;Objets au sol;0,5x1,5;Objets au sol/Épée à deux mains (0,5x1,5).png;sword_2handed
 Épée à deux mains forgée;Objets au sol;0,5x1,5;Objets au sol/Épée à deux mains forgée (0,5x1,5).png;sword_2handed_forged
 Œuf de dragon;Objets au sol;0,5x0,5;Objets au sol/Œuf de dragon (0,5x0,5).png;dragon_egg
+Cache de Zohark;Passages secrets;1x0,5;Passages secrets/Cache de Zohark (1x0,5).png;zohark_hidden
+Faux mur;Passages secrets;1x0,5;Passages secrets/Faux mur (1x0,5).png;fake_wall
 Faux mur de crypte (1);Passages secrets;1,5x0,5;Passages secrets/Faux mur de crypte (1) (1,5x0,5).png;l5_crypt_room13_fakewall
 Faux mur de crypte (2);Passages secrets;3x0,5;Passages secrets/Faux mur de crypte (2) (3x0,5).png;l5_crypt_tomb2_fake wall
 Mur fragile;Passages secrets;3,5x0,5;Passages secrets/Mur fragile (3,5x0,5).png;wall_breakable
@@ -549,6 +570,7 @@ Porte des latrines gobelines;Portes;1,5x0,5;Portes/Porte des latrines gobelines 
 Porte du château;Portes;1,5x0,5;Portes/Porte du château (1,5x0,5).png;door_castle
 Porte du laboratoire du palais;Portes;1,5x0,5;Portes/Porte du laboratoire du palais (1,5x0,5).png;door_human_palace_light_res_lab
 Porte du prêtre;Portes;2,5x0,5;Portes/Porte du prêtre (2,5x0,5).png;door_human_priest1
+Porte du temple;Portes;2x0,5;Portes/Porte du temple (2x0,5).png;door_temple
 Porte du temple du serpent;Portes;2x0,5;Portes/Porte du temple du serpent (2x0,5).png;door_snake
 Porte gobeline lourde;Portes;1,5x0,5;Portes/Porte gobeline lourde (1,5x0,5).png;door_goblin_heavy
 Porte gobeline lourde (2);Portes;2x0,5;Portes/Porte gobeline lourde (2) (2x0,5).png;door_l2_gob_heavy
@@ -566,7 +588,10 @@ Porte naine;Portes;2,5x0,5;Portes/Porte naine (2,5x0,5).png;door_dwarves
 Porte tout métal;Portes;2x0,5;Portes/Porte tout métal (2x0,5).png;door_fullmetal
 Porte ylside;Portes;2x1;Portes/Porte ylside (2x1).png;door_ylsides
 Bloc de glace;Roches et nature;2,5x2,5;Roches et nature/Bloc de glace (2,5x2,5).png;ice_bloc
+Bloc de glace;Roches et nature;1x1;Roches et nature/Bloc de glace (1x1).png;motte
 Boue;Roches et nature;1x1;Roches et nature/Boue (1x1).png;mud
+Coulée de lave (1);Roches et nature;2x2;Roches et nature/Coulée de lave (1) (2x2).png;lava_event01
+Coulée de lave (2);Roches et nature;1,5x1;Roches et nature/Coulée de lave (2) (1,5x1).png;lava_event02
 Détritus;Roches et nature;0,5x0,5;Roches et nature/Détritus (0,5x0,5).png;rubbish
 Gravats;Roches et nature;1x1,5;Roches et nature/Gravats (1x1,5).png;rubble
 Grosse pierre;Roches et nature;0,5x0,5;Roches et nature/Grosse pierre (0,5x0,5).png;stone_big
@@ -589,6 +614,9 @@ Tenture des femmes-serpents;Tentures;2x0,5;Tentures/Tenture des femmes-serpents 
 Tenture du temple d'Akbaa;Tentures;1,5x0,5;Tentures/Tenture du temple d'Akbaa (1,5x0,5).png;hanging_temple_akbaa
 Cercueil;Tombes et statues;1,5x3;Tombes et statues/Cercueil (1,5x3).png;coffin
 Couvercle de tombe;Tombes et statues;1x2,5;Tombes et statues/Couvercle de tombe (1x2,5).png;sarcophage
+Dalle de crypte (1);Tombes et statues;0,5x0,5;Tombes et statues/Dalle de crypte (1) (0,5x0,5).png;stone_crypt_01
+Dalle de crypte (2);Tombes et statues;0,5x0,5;Tombes et statues/Dalle de crypte (2) (0,5x0,5).png;stone_crypt_02
+Dalle de crypte (3);Tombes et statues;0,5x0,5;Tombes et statues/Dalle de crypte (3) (0,5x0,5).png;stone_crypt_03
 Grand couvercle de tombe;Tombes et statues;3,5x1,5;Tombes et statues/Grand couvercle de tombe (3,5x1,5).png;sarcophagebig
 Grande pierre tombale;Tombes et statues;1,5x0,5;Tombes et statues/Grande pierre tombale (1,5x0,5).png;gravestone_big
 Pierre tombale;Tombes et statues;1,5x0,5;Tombes et statues/Pierre tombale (1,5x0,5).png;grave_stone
@@ -629,7 +657,9 @@ Jarre;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Jarre (0,5x0,5).png;jar
 Marmite naine fermée;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Marmite naine fermée (0,5x0,5).png;dwarf_pot_closed
 Pot à couverts nain;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Pot à couverts nain (0,5x0,5).png;dwarf_pot_forks
 Poêle naine;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Poêle naine (0,5x0,5).png;dwarf_pan
+Sac de farine nain;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Sac de farine nain (0,5x0,5).png;l7_dwaves_flourbag
 Seau;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Seau (0,5x0,5).png;bucket
+Seau des dissidents;Vaisselle et cuisine;0,5x0,5;Vaisselle et cuisine/Seau des dissidents (0,5x0,5).png;l3_1_dissidents_bucket
 Feu de camp;Éclairage et feux;1x1;Éclairage et feux/Feu de camp (1x1).png;fire_camp
 Lampe (1);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe (1) (0,5x0,5).png;lamp_human1
 Lampe (2);Éclairage et feux;0,5x0,5;Éclairage et feux/Lampe (2) (0,5x0,5).png;lamp_human2
